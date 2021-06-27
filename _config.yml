@@ -14,11 +14,12 @@ author: Jan Frei
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Über uns: "aboutme"
   Wettkämpfe:
     - Klubturniere: "http://www.schachklub-sg.ch/klubturnier.php"
     - SMM: "http://www.schachklub-sg.ch/smm1.php"
     - SGM: "http://www.schachklub-sg.ch/sgm1.php"
+  Terminkalender: https://schachklub-sg.ch/termine.php
   Schachschule: "http://www.schachschule-sg.ch/"
 
 # --- Logo --- #
@@ -117,7 +118,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/assets/img/maxfeld.jpg"
 # footer-img: "/assets/img/zeile_dunkel.jpg"
-# page-img: "/assets/img/maxfeld.jpg"
+page-img: "/assets/img/chess_board_background.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.w
 
@@ -236,5 +237,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-remove-ads: true
