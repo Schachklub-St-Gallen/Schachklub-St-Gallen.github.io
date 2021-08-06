@@ -14,6 +14,7 @@ author: Jan Frei
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Stadtmeisterschaft: "turniere/stadtmeisterschaft/2021"
   Über uns: "aboutme"
   Wettkämpfe:
     - Klubturniere: "http://www.schachklub-sg.ch/klubturnier.php"
@@ -116,7 +117,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/maxfeld.jpg"
+# navbar-img: "/assets/img/maxfeld.jpg"
 # footer-img: "/assets/img/zeile_dunkel.jpg"
 page-img: "/assets/img/chess_board_background.jpg"
 
