@@ -3,3 +3,4 @@ layout: home
 title: Schachklub St. Gallen
 subtitle: Hier kommen noch weitere Inhalte wie die Infos zu Klubabend etc......
 ---
+asdasd
