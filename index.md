@@ -1,6 +1,14 @@
 ---
 layout: home
-title: Schachklub St. Gallen
-subtitle: Hier kommen noch weitere Inhalte wie die Infos zu Klubabend etc......
+title: Schachklub <nobr>St. Gallen</nobr>
 ---
-asdasd
+
+___
+# Klubabend
+
+Montags ab 19.00 Uhr
+Schulhaus Tschudiwies
+Tschudistrasse 21, St. Gallen
+
+___
+# Berichte

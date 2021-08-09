@@ -544,6 +544,9 @@ footer .footer-custom-content {
   .post-preview .post-title {
     font-size: 2.25rem;
   }
+  h1 {
+    font-size: 3rem;
+  }
 }
 
 /* --- Tags --- */
