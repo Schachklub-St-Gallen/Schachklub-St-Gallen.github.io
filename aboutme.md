@@ -1,11 +1,52 @@
 ---
 layout: page
 title: Über uns
-subtitle: Hier kommen infos über den Schachklub usw....
+subtitle: Alle Infos zum Schachklub St. Gallen.
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis
+Der SK St. Gallen pflegt und fördert das Schachspiel. Der Klub wurde im Jahr 1862 gegründet und zählt rund 70 Mitglieder.
 
-### My story
+Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19.00 Uhr in das Schulhaus Tschudiwies, Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17.00 Uhr findet dort das Junioren­training der in den Klub integrierten Schach­schule St. Gallen statt.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Der Klub nimmt mit je vier Teams teil an der Schwei­zer Mann­schafts­meister­schaft (SMM) und an der Schwei­zer Gruppen­meister­schaft (SGM).
+
+Wir freuen uns über jede(n), der reinschaut! Für Anfän­ger bieten wir ein bis zweimal im Jahr Einsteiger­kurse an.
+
+[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/aboutme){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+## Klubabend
+
+**Montags ab 19.00 Uhr**\
+Schulhaus Tschudiwies\
+Tschudistrasse 21\
+9000 St. Gallen
+
+Alle Infos zu jedem Klubabend sind im **[Terminkalender](../terminkalender)** zu finden.
+
+<iframe width="700" height="520" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d674.93530140726!2d9.365126888139532!3d47.416988806160745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b1fca7162f0e7%3A0x4b117315f3b797f3!2sTschudistrasse+21%2C+9000+St.+Gallen!5e0!3m2!1sde!2sch!4v1522354086375"></iframe>
+
+## Jugendschach
+
+- Spiel, Plausch und Turniere
+- Jeden Montag ausserin den Schulferien um 17:30 Uhr bis 19 Uhr im Schulhaus Tschudiwies.
+- Neue Interessenten bitte vorher [anmelden](http://www.schachschule-sg.ch/jugendschach/anmeldung){:target="\_blank"}.
+- Weiter Infos sind auf der Homepage der [Schachschule](http://www.schachschule-sg.ch/jugendschach/kurse){:target="\_blank"} zu finden.
+
+## Schachkurse
+
+- Schachkurse für Erwachsene
+- Mittwochs ab 19:00 Uhr im Schulhaus Tschudiwies
+- Weiter Infos sind auf der Homepage der [Schachschule](http://www.schachschule-sg.ch/erwachsene/kurse){:target="\_blank"} zu finden.
+
+## Kontakt
+
+Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
+
+### Vorstand
+
+| Präsident | Dimitri Kindle|
+| Vizepräsident | Daniel Zink|
+| Kassier | Christian Salerno|
+| Juniorenleiter | Thomas Schoch|
+| Webmaster | Jan Frei|
+| Marketing/Kommunikation | Elias Giesinger|

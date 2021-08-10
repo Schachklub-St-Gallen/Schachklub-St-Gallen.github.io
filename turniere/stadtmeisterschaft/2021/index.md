@@ -6,7 +6,7 @@ subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
 
 Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Stadtmeisterschaft2021 Ausschreibung.pdf).
 
-### Aktuelle Teilnehmerliste (Stand 06.08.2021)
+### Aktuelle Teilnehmerliste (Stand 10.08.2021)
 
 | SNr. |         Name         | Elo                                                                                                                                     |
 | ---- | :------------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,6 +21,7 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 | 9    |      Ben Bruch       | -                                                                                                                                       |
 | 10   |     Jürg Kindle      | -                                                                                                                                       |
 | 11   |     Roman Kramer     | -                                                                                                                                       |
+| 12   |     Robin Löpfe      | -                                                                                                                                       |
 
 ### Vergangene Stadtmeisterschaften
 
