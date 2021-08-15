@@ -22,6 +22,7 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 | 10   |     Jürg Kindle      | -                                                                                                                                       |
 | 11   |     Roman Kramer     | -                                                                                                                                       |
 | 12   |     Robin Löpfe      | -                                                                                                                                       |
+| 13   |  Joel Frischknecht   | -                                                                                                                                       |
 
 ### Vergangene Stadtmeisterschaften
 
