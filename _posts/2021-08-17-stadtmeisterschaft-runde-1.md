@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Stadtmeisterschaft 1. Runde
-subtitle: Die St. Galler Stadtmeisterschaft ist mit 17 Teilnehmern gestartet.
+subtitle: Die St. Galler Stadtmeisterschaft ist mit 19 Teilnehmern gestartet.
 ---
 
-Nachdem die Stadtmeisterschaft im Jahr 2020 pausierte, startete am 16. August die [Stadtmeisterschaft 2021](/turniere/stadtmeisterschaft/2021) mit vielen Neuzugängen.
+Nachdem die Stadtmeisterschaft im Jahr 2020 pausierte, startete am 16. August die [Stadtmeisterschaft 2021](/turniere/stadtmeisterschaft/2021) mit vielen Neuzugängen, darunter auch drei höchst motivierte Junioren aus der Schachschule.
 
 Es gab sehr viele spannende Partien. Obwohl fast alle Favoriten ihre Partie gewannen, wurden bei der Analyse einige taktische Möglichkeiten gefunden, wie manche Partie noch hätte gedreht werden können. Die einzige Überraschung gab es am ersten Brett: Stefan Käfer fand in seinem Endspiel eine Taktik auf die Marc Potterat mit Turmopfer zum Dauerschach antworten musste.
 
