@@ -1116,3 +1116,11 @@ pre {
     margin-top: 7px;
   }
 }
+
+@media (min-width: 768px) {
+  .image-left {
+    float: left;
+    margin-right: 10px;
+    margin-top: 7px;
+  }
+}
