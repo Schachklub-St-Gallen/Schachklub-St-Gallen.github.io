@@ -5,10 +5,9 @@ title: Schachklub <nobr>St. Gallen</nobr>
 
 ---
 
-[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/aboutme){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/aboutme){: .mini-map-tschudiwies}
 
 # Klubabend
-
 
 **Montags ab 19.00 Uhr**\
 Schulhaus Tschudiwies\

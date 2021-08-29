@@ -1108,3 +1108,15 @@ pre {
   margin-top: 50px;
   width: 50%;
 }
+
+.mini-map-tschudiwies {
+  margin-top: 1.875rem;
+}
+
+@media (min-width: 768px) {
+  .mini-map-tschudiwies {
+    float: right;
+    margin-right: 10px;
+    margin-top: 7px;
+  }
+}

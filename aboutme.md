@@ -12,7 +12,7 @@ Der Klub nimmt mit je vier Teams teil an der Schwei­zer Mann­schafts­meister�
 
 Wir freuen uns über jede(n), der reinschaut! Für Anfän­ger bieten wir ein bis zweimal im Jahr Einsteiger­kurse an.
 
-[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/aboutme){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/aboutme){: .mini-map-tschudiwies}
 
 ## Klubabend
 
