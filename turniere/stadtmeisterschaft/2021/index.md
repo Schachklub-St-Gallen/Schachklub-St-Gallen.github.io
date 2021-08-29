@@ -44,4 +44,4 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 
 ### Vergangene Stadtmeisterschaften
 
-Alle Informationen zu älteren Stadtmeisterschaften findet ihr im [Archiv](http://schachklub-sg.ch/klubturnier.php){:target="\_blank"}.
+Alle Informationen zu älteren Stadtmeisterschaften findet ihr im [Archiv](http://archiv.schachklub-sg.ch/klubturnier.php){:target="\_blank"}.
