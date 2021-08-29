@@ -8,6 +8,8 @@ Nachdem die Stadtmeisterschaft im Jahr 2020 pausierte, startete am 16. August di
 
 Es gab sehr viele spannende Partien. Obwohl fast alle Favoriten ihre Partie gewannen, wurden bei der Analyse einige taktische Möglichkeiten gefunden, wie manche Partie noch hätte gedreht werden können. Die einzige Überraschung gab es am ersten Brett: Stefan Käfer fand in seinem Endspiel eine Taktik auf die Marc Potterat mit Turmopfer zum Dauerschach antworten musste.
 
+_Jan Frei_
+
 ### Resultate der 1. Runde
 
 ![Stadmeisterschaft Resultate Runde 1](/assets/img/stadtmeisterschaft/2021/r1-resultate.png)
