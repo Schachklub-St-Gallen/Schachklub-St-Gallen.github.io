@@ -43,18 +43,18 @@ title-img: /assets/img/sksg_logo_vektor_rgb.svg
 social-network-links:
   email: "kontakt@schachklub-sg.ch"
   facebook: schachklubstgallen
-  github: Schachklub-St-Gallen
+  # github: Schachklub-St-Gallen
   lichess: schachklub-stgallen
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+  #  medium: yourname
+  #  reddit: yourname
+  #  linkedin: daattali
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  instagram: schachklubstgallen
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
