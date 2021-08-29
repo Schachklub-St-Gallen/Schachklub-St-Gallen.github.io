@@ -20,7 +20,7 @@ navbar-links:
     - SMM: "http://archiv.schachklub-sg.ch/smm1.php"
     - SGM: "http://archiv.schachklub-sg.ch/sgm1.php"
   Terminkalender: "terminkalender"
-  Schachschule: "http://www.schachschule-sg.ch/"
+  Schachschule: "https://www.schachschule-sg.ch/"
   Archiv: "http://archiv.schachklub-sg.ch/"
 
 # --- Logo --- #

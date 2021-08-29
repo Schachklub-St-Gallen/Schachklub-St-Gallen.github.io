@@ -29,14 +29,14 @@ Alle Infos zu jedem Klubabend sind im **[Terminkalender](../terminkalender)** zu
 
 - Spiel, Plausch und Turniere
 - Jeden Montag ausserin den Schulferien um 17:30 Uhr bis 19 Uhr im Schulhaus Tschudiwies.
-- Neue Interessenten bitte vorher [anmelden](http://www.schachschule-sg.ch/jugendschach/anmeldung){:target="\_blank"}.
-- Weiter Infos sind auf der Homepage der [Schachschule](http://www.schachschule-sg.ch/jugendschach/kurse){:target="\_blank"} zu finden.
+- Neue Interessenten bitte vorher [anmelden](https://www.schachschule-sg.ch/jugendschach/anmeldung){:target="\_blank"}.
+- Weiter Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/jugendschach/kurse){:target="\_blank"} zu finden.
 
 ## Schachkurse
 
 - Schachkurse für Erwachsene
 - Mittwochs ab 19:00 Uhr im Schulhaus Tschudiwies
-- Weiter Infos sind auf der Homepage der [Schachschule](http://www.schachschule-sg.ch/erwachsene/kurse){:target="\_blank"} zu finden.
+- Weiter Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/erwachsene/kurse){:target="\_blank"} zu finden.
 
 ## Kontakt
 
