@@ -15,10 +15,10 @@ author: Jan Frei
 
 navbar-links:
   Über uns: "aboutme"
-  Turniere:
+  Turnierübersicht:
     - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2021"
-  #   - SMM: "http://archiv.schachklub-sg.ch/smm1.php"
-  #   - SGM: "http://archiv.schachklub-sg.ch/sgm1.php"
+    - SMM: "http://archiv.schachklub-sg.ch/smm1.php"
+    - SGM: "http://archiv.schachklub-sg.ch/sgm1.php"
   Terminkalender: "terminkalender"
   Schachschule: "http://www.schachschule-sg.ch/"
   Archiv: "http://archiv.schachklub-sg.ch/"
