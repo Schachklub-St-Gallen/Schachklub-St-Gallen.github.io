@@ -6,6 +6,14 @@ subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
 
 Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Stadtmeisterschaft2021 Ausschreibung.pdf).
 
+### Aktuelle Rangliste (3. Runde)
+
+![Stadmeisterschaft Rangliste Runde 3](/assets/img/stadtmeisterschaft/2021/r3-rangliste.jpg)
+
+### Aktuelle Paarungen (4. Runde)
+
+![Stadmeisterschaft Paarungen Runde 4](/assets/img/stadtmeisterschaft/2021/r4-paarungen.jpg)
+
 ### Teilnehmerliste
 
 | SNr. |         Name         | Elo                                                                                                                                     |
@@ -32,15 +40,15 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 
 ### Resultate der 1. Runde
 
-![Stadmeisterschaft Resultate Runde 1](/assets/img/stadtmeisterschaft/2021/r1-resultate.png)
+![Stadmeisterschaft Resultate Runde 1](/assets/img/stadtmeisterschaft/2021/r1-resultate.jpg)
 
 ### Resultate der 2. Runde
 
-![Stadmeisterschaft Resultate Runde 2](/assets/img/stadtmeisterschaft/2021/r2-resultate.png)
+![Stadmeisterschaft Resultate Runde 2](/assets/img/stadtmeisterschaft/2021/r2-resultate.jpg)
 
-### Paarungen der 3. Runde
+### Resultate der 3. Runde
 
-![Stadmeisterschaft Paarungen Runde 3](/assets/img/stadtmeisterschaft/2021/r3-paarungen.png)
+![Stadmeisterschaft Resultate Runde 3](/assets/img/stadtmeisterschaft/2021/r3-resultate.jpg)
 
 ### Vergangene Stadtmeisterschaften
 

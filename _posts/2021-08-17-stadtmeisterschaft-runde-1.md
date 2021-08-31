@@ -12,7 +12,7 @@ _Jan Frei_
 
 ### Resultate der 1. Runde
 
-![Stadmeisterschaft Resultate Runde 1](/assets/img/stadtmeisterschaft/2021/r1-resultate.png)
+![Stadmeisterschaft Resultate Runde 1](/assets/img/stadtmeisterschaft/2021/r1-resultate.jpg)
 
 ### Paarungen der 2. Runde
 
