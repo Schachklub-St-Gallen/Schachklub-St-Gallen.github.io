@@ -6,13 +6,13 @@ subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
 
 Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Stadtmeisterschaft2021 Ausschreibung.pdf).
 
-### Aktuelle Rangliste (3. Runde)
+### Aktuelle Rangliste (4. Runde)
 
-![Stadmeisterschaft Rangliste Runde 3](/assets/img/stadtmeisterschaft/2021/r3-rangliste.jpg)
+![Stadmeisterschaft Rangliste Runde 4](/assets/img/stadtmeisterschaft/2021/r4-rangliste.jpg)
 
-### Aktuelle Paarungen (4. Runde)
+### Aktuelle Paarungen (5. Runde)
 
-![Stadmeisterschaft Paarungen Runde 4](/assets/img/stadtmeisterschaft/2021/r4-paarungen.jpg)
+![Stadmeisterschaft Paarungen Runde 5](/assets/img/stadtmeisterschaft/2021/r5-paarungen.jpg)
 
 ### Teilnehmerliste
 
@@ -49,6 +49,12 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 ### Resultate der 3. Runde
 
 ![Stadmeisterschaft Resultate Runde 3](/assets/img/stadtmeisterschaft/2021/r3-resultate.jpg)
+
+### Resultate der 4. Runde
+
+![Stadmeisterschaft Resultate Runde 4](/assets/img/stadtmeisterschaft/2021/r4-resultate.jpg)
+
+Die Partie von Miro Settegrana gegen Joel Frischknecht wird nachgespielt.
 
 ### Vergangene Stadtmeisterschaften
 
