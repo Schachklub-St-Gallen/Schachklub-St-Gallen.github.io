@@ -7,12 +7,12 @@ subtitle: Aktueller Terminkalender 2021
 | Monat                      | Datum                 |          Zeit          |     Ort     |                                            Veranstaltung                                            |
 | -------------------------- | --------------------- | :--------------------: | :---------: | :-------------------------------------------------------------------------------------------------: |
 | <strong>August</strong>    | <nobr>Mo 14.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      <span style="color:red">Stadtmeisterschaft Runde 1</span>                      |
-|                            | <nobr>Mo 23.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 1                                      |
-|                            | <nobr>Mo 30.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 2                                      |
-| <strong>September</strong> | <nobr>Mo 06.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 3                                      |
-|                            | <nobr>Mo 13.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 4                                      |
-|                            | <nobr>Mo 20.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 5                                      |
-|                            | <nobr>Mo 27.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 6                                      |
+|                            | <nobr>Mo 23.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 2                                      |
+|                            | <nobr>Mo 30.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 3                                      |
+| <strong>September</strong> | <nobr>Mo 06.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 4                                      |
+|                            | <nobr>Mo 13.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 5                                      |
+|                            | <nobr>Mo 20.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 6                                      |
+|                            | <nobr>Mo 27.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Stadtmeisterschaft Runde 7                                      |
 | <strong>Oktober</strong>   | <nobr>Mo 04.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                          Freier Spielabend                                          |
 |                            | <nobr>Mo 11.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                          Freier Spielabend                                          |
 |                            | <nobr>Mo 18.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                          Freier Spielabend                                          |
