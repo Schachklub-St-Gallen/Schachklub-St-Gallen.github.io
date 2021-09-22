@@ -6,13 +6,17 @@ subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
 
 Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Stadtmeisterschaft2021 Ausschreibung.pdf).
 
-### Aktuelle Rangliste (4. Runde)
+### Aktuelle Rangliste (6. Runde)
 
-![Stadmeisterschaft Rangliste Runde 4](/assets/img/stadtmeisterschaft/2021/r4-rangliste.jpg)
+[![Stadmeisterschaft Rangliste Runde 6](/assets/img/stadtmeisterschaft/2021/r6-rangliste.png)](/assets/img/stadtmeisterschaft/2021/r6-rangliste.png)
 
-### Aktuelle Paarungen (5. Runde)
+### Aktuelle Paarungen (7. Runde)
 
-![Stadmeisterschaft Paarungen Runde 5](/assets/img/stadtmeisterschaft/2021/r5-paarungen.jpg)
+![Stadmeisterschaft Paarungen Runde 7](/assets/img/stadtmeisterschaft/2021/r7-paarungen.png)
+
+### Aktuelle Resultate (6. Runde)
+![Stadmeisterschaft Paarungen Runde 6](/assets/img/stadtmeisterschaft/2021/r6-resultate.png)
+
 
 ### Teilnehmerliste
 
@@ -37,24 +41,6 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 | 17   |     Roman Kramer     | -                                                                                                                                       |
 | 18   |     Robin Löpfe      | -                                                                                                                                       |
 | 19   |   Miro Settegrana    | -                                                                                                                                       |
-
-### Resultate der 1. Runde
-
-![Stadmeisterschaft Resultate Runde 1](/assets/img/stadtmeisterschaft/2021/r1-resultate.jpg)
-
-### Resultate der 2. Runde
-
-![Stadmeisterschaft Resultate Runde 2](/assets/img/stadtmeisterschaft/2021/r2-resultate.jpg)
-
-### Resultate der 3. Runde
-
-![Stadmeisterschaft Resultate Runde 3](/assets/img/stadtmeisterschaft/2021/r3-resultate.jpg)
-
-### Resultate der 4. Runde
-
-![Stadmeisterschaft Resultate Runde 4](/assets/img/stadtmeisterschaft/2021/r4-resultate.jpg)
-
-Die Partie von Miro Settegrana gegen Joel Frischknecht wird nachgespielt.
 
 ### Vergangene Stadtmeisterschaften
 
