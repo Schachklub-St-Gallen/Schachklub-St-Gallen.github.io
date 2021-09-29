@@ -6,7 +6,7 @@ subtitle: Hart umkämpfte zweite SMM Runde im Tschudiwies
 
 ## St.Gallen 2 - Chur 1 (2 : 2)
 
-| Brett | St. Gallen 3          | Sprengschach 4        | 3.5 |  :  | 0.5 |
+| Brett | St. Gallen 3          | Chur 1                |   2 |  :  | 2   |
 | ----- | --------------------- | --------------------- | --: | :-: | :-- |
 | 1     | Peter Bischoff (1938) | Slobodan Adzic (2107) |   0 |  :  | 1   |
 | 2     | Thomas Schoch (1993)  | Anna Adzic (1856)     |   0 |  :  | 1   |
