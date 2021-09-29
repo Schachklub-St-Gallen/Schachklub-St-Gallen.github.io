@@ -2,14 +2,19 @@
 layout: post
 title: Marc Potterat ist Stadtmeister 2021!
 subtitle: Platz 2 geht an Wolf-Christian Wilk, Platz 3 an Halit Rexhepi.
+thumbnail-img: /assets/img/stadtmeisterschaft/2021/siegerfoto.jpg
 ---
 
 Die [Stadtmeisterschaft 2021](/turniere/stadtmeisterschaft/2021) ist Geschichte. Marc Potterat gewinnt mit 6/7 und ist damit bereits zum zehnten mal Stadtmeister. Herzliche Gratulation! Platz zwei und drei gehen an Wolf-Christian Wilk und Halit Rexhepi.
 
-Der Preis „Bester unter Elo 2000“ ging an Hansueli Baumgartner (5/7, Rang 4). „Bester unter 1800“ wurde Aaron Potterat, „Bester unter 1600“ geht an Roman Kramer. „Bester Senior“ wurde Wolfgang Eisenbeiss, „Bester Junior“ Ben Bruch! Die Schlussrangliste sowie die Ergebnisse aller Runden findet ihr auf der Hauptseite der [Stadtmeisterschaft 2021](/turniere/stadtmeisterschaft/2021).
-
 ![Siegerfoto](/assets/img/stadtmeisterschaft/2021/siegerfoto.jpg)
 _Von links nach rechts: Wolf-Christian Wilk (2. Platz), Marc Potterat (1. Platz) und Halit Rexhepi (3. Platz)_
+
+Der Preis „Bester unter Elo 2000“ ging an Hansueli Baumgartner (5/7, Rang 4).
+„Bester unter 1800“ wurde Aaron Potterat, „Bester unter 1600“ geht an Roman Kramer. „Bester Senior“ wurde Wolfgang Eisenbeiss, „Bester Junior“ Ben Bruch!
+
+![Top3](/assets/img/stadtmeisterschaft/2021/top3.png)
+_Die drei ersten Plätze der Schlussrangliste. Die vollständige Rangliste sowie die Ergebnisse aller Runden findet ihr auf der Hauptseite der [Stadtmeisterschaft 2021](/turniere/stadtmeisterschaft/2021)._
 
 In der letzten Runde konnte Marc am 1. Brett im Familienduell alles klar machen. Im abgelehnten Damengambit passte sein Zusammenspiel von Dame und Türmen besser als das von Aaron und er schaukelte das Endspiel mit mehreren Bauern im Plus nach Hause.
 
