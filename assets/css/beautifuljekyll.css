@@ -1124,3 +1124,21 @@ pre {
     margin-top: 7px;
   }
 }
+
+.results-table body        { text-align:left; background: #ffffff }
+.results-table h3          { font-family: "Verdana", "Arial", monospace; font-size:10pt;margin: 6px 0px 6px 0px;border: 0px 0px 0px 0px;padding: 0px 0px 0px 0px; background: #C8C8C8;}
+.results-table p           { font-family: "Verdana", "Arial", monospace; margin:  6px 10px 6px 3px; font-size: 10pt; text-align:left; border: 1px 1px 1px 1px; padding: 0px 0px 0px 0px;}
+.results-table p.center    { text-align:center }
+.results-table table       { font-family: "Verdana", "Arial", monospace; }
+.results-table tr          { font-family: "Verdana", "Arial", monospace; }
+.results-table tr.ob       { font-weight: bold;}
+.results-table tr.g1b      { border-color: black; color: black; background:#f1f1f1; font-weight: bold; }
+.results-table tr.g1       { border-color: black; color: black; background:#ffffff;}
+.results-table tr.g2       { border-color: black; color: black; background:#f8f8f8;}
+.results-table td          { font-family: "Verdana", "Arial", monospace; margin-left:1px; padding-left: 5px; padding-right: 5px}
+.results-table td.l        { text-align: left}
+.results-table td.c        { text-align: center}
+.results-table td.r        { text-align: right}
+.results-table td.b        { font-weight: bold; }
+.results-table table.s1     { font-family: "Verdana", "Arial", monospace; font-size: 9pt;  border:0; }
+.results-table table.s1x     { font-family: "Verdana", "Arial", monospace; font-size: 9pt; background:#F4F4F4; }

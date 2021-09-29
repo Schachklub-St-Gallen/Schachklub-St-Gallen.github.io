@@ -4,21 +4,58 @@ title: Stadtmeisterschaft 2021
 subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
 ---
 
-Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Stadtmeisterschaft2021 Ausschreibung.pdf).
+Die diesjährige Stadtmeisterschaft fand vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Stadtmeisterschaft2021 Ausschreibung.pdf).
 
-### Aktuelle Rangliste (6. Runde)
+### Resultate
 
-[![Stadmeisterschaft Rangliste Runde 6](/assets/img/stadtmeisterschaft/2021/r6-rangliste.png)](/assets/img/stadtmeisterschaft/2021/r6-rangliste.png)
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" href="#schlussrangliste" data-toggle="tab">Schlussrangliste</a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Runden</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#runde-1" data-toggle="tab">1. Runde</a>
+      <a class="dropdown-item" href="#runde-2" data-toggle="tab">2. Runde</a>
+      <a class="dropdown-item" href="#runde-3" data-toggle="tab">3. Runde</a>
+      <a class="dropdown-item" href="#runde-4" data-toggle="tab">4. Runde</a>
+      <a class="dropdown-item" href="#runde-5" data-toggle="tab">5. Runde</a>
+      <a class="dropdown-item" href="#runde-6" data-toggle="tab">6. Runde</a>
+      <a class="dropdown-item" href="#runde-7" data-toggle="tab">7. Runde</a>
+    </div>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#startrangliste" data-toggle="tab">Startrangliste</a>
+  </li>
+</ul>
+<div class="tab-content">
+  <div role="tabpanel" class="tab-pane active" id="schlussrangliste">
+    {% include turniere/stadtmeisterschaft/2021/schlussrangliste.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="runde-1">
+    {% include turniere/stadtmeisterschaft/2021/runde-1.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="runde-2">
+    {% include turniere/stadtmeisterschaft/2021/runde-2.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="runde-3">
+    {% include turniere/stadtmeisterschaft/2021/runde-3.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="runde-4">
+    {% include turniere/stadtmeisterschaft/2021/runde-4.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="runde-5">
+    {% include turniere/stadtmeisterschaft/2021/runde-5.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="runde-6">
+    {% include turniere/stadtmeisterschaft/2021/runde-6.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="runde-7">
+    {% include turniere/stadtmeisterschaft/2021/runde-7.html %}
+  </div>
+  <div role="tabpanel" class="tab-pane" id="startrangliste">
 
-### Aktuelle Paarungen (7. Runde)
-
-![Stadmeisterschaft Paarungen Runde 7](/assets/img/stadtmeisterschaft/2021/r7-paarungen.png)
-
-### Aktuelle Resultate (6. Runde)
-![Stadmeisterschaft Paarungen Runde 6](/assets/img/stadtmeisterschaft/2021/r6-resultate.png)
-
-
-### Teilnehmerliste
+<div markdown="1">
 
 | SNr. |         Name         | Elo                                                                                                                                     |
 | ---- | :------------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,6 +78,13 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 | 17   |     Roman Kramer     | -                                                                                                                                       |
 | 18   |     Robin Löpfe      | -                                                                                                                                       |
 | 19   |   Miro Settegrana    | -                                                                                                                                       |
+
+</div>
+
+  </div>
+  <div role="tabpanel" class="tab-pane" id="match">
+  </div>
+</div>
 
 ### Vergangene Stadtmeisterschaften
 
