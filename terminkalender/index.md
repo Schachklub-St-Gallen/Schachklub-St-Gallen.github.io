@@ -25,4 +25,4 @@ subtitle: Aktueller Terminkalender 2021
 | <strong>Dezember</strong>  | <nobr>Mo 06.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Weihnachtsrapid Cup Runde 2                                     |
 |                            | <nobr>Mo 13.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                     Weihnachtsrapid Cup Runde 3                                     |
 |                            | <nobr>Mo 20.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                          Freier Spielabend                                          |
-|                            | <nobr>Mo 27.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                          Freier Spielabend                                          |
+|                            | <nobr>Mo 27.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                                          Freier Spielabend                                          |
