@@ -2,7 +2,7 @@
 layout: post
 title: Prophylaktisches Denken - der Schlüssel zum Erfolg
 subtitle: Packender Vortrag von IM Milan Novkovic
-thumbnail-img: /assets/img/stadtmeisterschaft/2021/siegerfoto.jpg
+thumbnail-img: /assets/img/2021-11-09-vortrag-milan-carlsen-naka.png
 ---
 
 IM Milan Novkovic hielt am vergangenen Montag im Tschudiwies einen packenden Vortrag zum Thema «prophylaktisches Denken im Schach». Zuerst leitete er den Vortrag mit ein paar taktischen Stellungen ein, bei denen die eine Seite taktische Patzer machte in einer eigentlich gewonnen Stellung. Das führte uns wieder vor Augen, dass insbesondere dann präzises Spiel erforderlich ist, wenn man meint, dass die Partie gewonnen ist und der Gegner «ja nichts macht».
