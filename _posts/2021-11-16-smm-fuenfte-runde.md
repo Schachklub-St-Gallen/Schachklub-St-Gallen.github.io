@@ -1,0 +1,34 @@
+---
+layout: post
+title: St. Gallen 2 sichert sich den Ligaerhalt
+subtitle: 2. Liga SMM 5. und 6. Runde
+---
+
+St. Gallen 2 hatte mit einem Punkt aus den ersten vier Runden eine schwache Bilanz und war abstiegsgefährdet. Bei den beiden Runden 5 und 6 am 13. und 20. November hatten wir zweimal Heimspiele im Tschudiwies. Und es mussten unbedingt zwei Siege her.
+
+| Brett | St. Gallen 3               | Chur 1                   | 2.5 |  :  | 1.5 |
+| ----- | -------------------------- | ------------------------ | --: | :-: | :-- |
+| 1     | Wolfgang Eisenbeiss (1803) | Renato Bollhalder (2016) | 0.5 |  :  | 0.5 |
+| 2     | Thomas Schoch (1968)       | Andri Arquint (2012)     | 0.5 |  :  | 0.5 |
+| 3     | Robert Sandholzer (2079)   | Hansjörg Thomi (1844)    |   1 |  :  | 0   |
+| 4     | Jan Frei (1783)            | Reto Grass (1874)        | 0.5 |  :  | 0.5 |
+
+Unsere Serie von Niederlagen beendeten wir am 13. November gegen Engadin mit drei Remis und einem sicheren Sieg von Robert Sandholzer. Es war ein sehr umkämpftes Match, dessen Schlusspunk Wolfgang mit einer sehr starken Partie markierte. Er hatte im Turm-Dame-Endspiel ein Dauerschach und sicherte mit einem Remis gegen den um 200 Elopunkte stärkeren Renato Bollhalder den Mannschaftssieg.
+
+
+
+| Brett | St. Gallen 3               | Sprengschach 4           |   3 |  :  | 1   |
+| ----- | -------------------------- | ------------------------ | --: | :-: | :-- |
+| 1     | Wolfgang Eisenbeiss (1803) | Karl Brunner (1936)      |   1 |  :  | 0   |
+| 2     | Thomas Schoch (1968)       | Raphael Golder (1702)    |   1 |  :  | 0   |
+| 3     | Dimitri Kindle (1931)      | Fritz Zbinden (1459)     |   1 |  :  | 0   |
+| 4     | Jan Frei (1783)            | Paul Frischknecht (1729) |   0 |  :  | 1   |
+
+Am vergangenen Samstag, 20. November sicherten wir uns den Ligaerhalt mit einem überzeugenden Auftritt gegen Aadorf. Am zweiten und dritten Brett gewannen Thomas Schoch und Dimitri Kindle sehr schnell. Am vierten Brett wurde Jan Frei in der Abtauschvariante von Ruy Lopez überspielt und musste aufgeben. Wolfgang’s Partie war eigentlich Remis. Sein Kontrahent musste aber auf Sieg spielen und so schaffte es Wolfgang sogar noch ein brilliantes Matt zum 3-1 für St. Gallen zu finden.
+
+Herzliche Gratulation!
+
+_Jan Frei_
+
+
+
