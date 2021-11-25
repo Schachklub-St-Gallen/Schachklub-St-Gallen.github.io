@@ -18,8 +18,7 @@ navbar-links:
   Berichte: "/"
   Turnierübersicht:
     - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2021"
-    - SMM: "http://archiv.schachklub-sg.ch/smm1.php"
-    - SGM: "http://archiv.schachklub-sg.ch/sgm1.php"
+    - Rapid Grand Prix: "turniere/rapidgrandprix/2021"
   Terminkalender: "terminkalender"
   Schachschule: "https://www.schachschule-sg.ch/"
   Archiv: "http://archiv.schachklub-sg.ch/"
