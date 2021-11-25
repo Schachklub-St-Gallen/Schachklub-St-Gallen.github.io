@@ -44,9 +44,8 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 
 ### Vorstand
 
-| Präsident | Dimitri Kindle|
-| Vizepräsident | Daniel Zink|
-| Kassier | Christian Salerno|
-| Juniorenleiter | Thomas Schoch|
-| Webmaster | Jan Frei|
-| Marketing/Kommunikation | Elias Giesinger|
+| Präsident | Dimitri Kindle |
+| Vizepräsident/Webmaster | Jan Frei |
+| Kassier | Christian Salerno |
+| Juniorenleiter | Thomas Schoch |
+| Marketing/Kommunikation | Elias Giesinger |
