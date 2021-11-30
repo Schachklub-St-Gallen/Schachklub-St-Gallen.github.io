@@ -16,7 +16,7 @@ Wir freuen uns über jede(n), der reinschaut! Für Anfän­ger bieten wir ein bi
 
 ## Klubabend
 
-**Montags ab 19.00 Uhr**\
+**Montags ab 19.30 Uhr**\
 Schulhaus Tschudiwies\
 Tschudistrasse 21\
 9000 St. Gallen
