@@ -9,7 +9,7 @@ title: Schachklub <nobr>St. Gallen</nobr>
 
 # Klubabend
 
-**Montags ab 19.00 Uhr**\
+**Montags ab 19.30 Uhr**\
 Schulhaus Tschudiwies\
 Tschudistrasse 21\
 9000 St. Gallen
