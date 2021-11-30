@@ -12,8 +12,6 @@ Das Rapid Grand Prix Turnier findet dieses Jahr an drei Montagen im Tschudiwies 
 
 Für die Gesamtwertung werden alle Turnierrunden gezählt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Ausschreibung Rapid Grand Prix 2021.pdf).
 
-### Aktuelle Teilnehmerliste (Stand 25.11.2021)
+### Resultate 1. Runde
 
-- Roger Braun
-- Hansueli Baumgartner
-- Jan Frei
+{% include turniere/rapidgrandprix/2021/tag-1.html %}
