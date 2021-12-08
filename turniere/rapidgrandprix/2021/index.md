@@ -15,3 +15,7 @@ Für die Gesamtwertung werden alle Turnierrunden gezählt. Alle weiteren Infos s
 ### Resultate 1. Runde
 
 {% include turniere/rapidgrandprix/2021/tag-1.html %}
+
+### Resultate 2. Runde
+
+{% include turniere/rapidgrandprix/2021/tag-2.html %}
