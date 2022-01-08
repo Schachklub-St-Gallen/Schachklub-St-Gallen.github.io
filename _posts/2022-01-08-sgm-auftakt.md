@@ -4,7 +4,7 @@ title: St. Gallen 1 und 2 gewinnen
 subtitle: Zum Auftakt der SGM 2022 gewinnen die oberen St. Galler Teams, die unteren Teams müssen Niederlagen einstecken.
 ---
 
-St. Gallen 1 und St. Gallen 2 können zum Auftakt zwei deutliche Heimsiege verbuchen. St. Gallen 1 gewinnt mit 6.5:1.5 gegen Sprengschach. St. Gallen 2 gewinnt gegen Gonzen's zweite Mannschaft mit 5:1. Die dritte St. Galler Mannschaft verlor hingegen auswärts gegen Thal deutlich mit 1:4.
+St. Gallen 1 und St. Gallen 2 können zum Auftakt zwei deutliche Heimsiege verbuchen. St. Gallen 1 gewinnt mit 6.5:1.5 gegen Sprengschach. St. Gallen 2 gewinnt gegen Gonzen's zweite Mannschaft mit 5:1. Die dritte St. Galler Mannschaft verliert hingegen auswärts gegen Thal deutlich mit 1:4.
 
 ## St.Gallen 1 - SprengSchach 1 (6.5 : 1.5)
 
@@ -40,6 +40,10 @@ St. Gallen 1 und St. Gallen 2 können zum Auftakt zwei deutliche Heimsiege verbu
 | 4     | Thomas Kuhaupt (1808)     | Robin Loepfe               |   1 |  :  | 0   |
 | 5     | Beat Thür (1689)          | Thomas Gebhardt (1497)     |   1 |  :  | 0   |
 
-(Update folgt)
+St. Gallen 3 spielte zum Auftakt auswärts gegen Thal. Zuerst waren die beiden Partien an Brett 4 und 5 zu Ende. Robin und Thomas standen leider schon früh in der Partie schlecht, kämpften aber hart und mussten dennoch ihre Partien bald aufgeben. Am zweiten Brett stand Miguel sehr gut, im Endspiel sah es dann zuerst nach Remis aus. Jan Skobe überspielte ihn aber im Endspiel und konnte damit bereits den Sieg von Thal sicherstellen. Am ersten Brett hatte Jan Frei eine unklare Stellung, aber mit Mehrbauern und Vorteil für seinen Gegner. Diesem lief jedoch die Zeit ab, womit St. Gallen am Schluss doch noch einen Ehrenpunkt mit nach Hause nehmen konnte. Am dritten Brett kämpfe Ludwig gegen Marcel, musste dann aber nach 4.5 Stunden im Damenendspiel aufgeben.
 
 _Jan Frei_
+
+## St. Gallen 4
+
+(Update folgt)
