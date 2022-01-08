@@ -4,6 +4,10 @@ title: St. Gallen 1 und 2 gewinnen
 subtitle: Zum Auftakt der SGM 2022 gewinnen die oberen St. Galler Teams, die unteren Teams müssen Niederlagen einstecken.
 ---
 
+St. Gallen 1 und St. Gallen 2 können zum Auftakt zwei deutliche Heimsiege verbuchen. St. Gallen 1 gewinnt mit 6.5:1.5 gegen Sprengschach. St. Gallen 2 gewinnt gegen Gonzen's zweite Mannschaft mit 5:1. Die dritte St. Galler Mannschaft verlor hingegen auswärts gegen Thal deutlich mit 1:4.
+
+## St.Gallen 1 - SprengSchach 1 (6.5 : 1.5)
+
 | Brett | St. Gallen 1             | SprengSchach 1          | 6.5 |  :  | 1.5 |
 | ----- | ------------------------ | ----------------------- | --: | :-: | :-- |
 | 1     | Noah Fecker (2315)       | Manuel Sprenger (2156)  |   1 |  :  | 0   |
@@ -15,6 +19,8 @@ subtitle: Zum Auftakt der SGM 2022 gewinnen die oberen St. Galler Teams, die unt
 | 7     | Roman Schmuki (1981)     | Samyo Bounlom (1943)    |   1 |  :  | 0   |
 | 8     | Thomas Schoch (1968)     | -                       |   1 |  :  | -   |
 
+## St.Gallen 2 - Gonzen 2 (5 : 1)
+
 | Brett | St.Gallen 2                | Gonzen 2                    |   5 |  :  | 1   |
 | ----- | -------------------------- | --------------------------- | --: | :-: | :-- |
 | 1     | Dimitri Kindle (1931)      | Philipp Lins (2137)         |   1 |  :  | 0   |
@@ -23,6 +29,8 @@ subtitle: Zum Auftakt der SGM 2022 gewinnen die oberen St. Galler Teams, die unt
 | 4     | Peter Bischoff (1914)      | Nino Sulser (1651)          | 0.5 |  :  | 0.5 |
 | 5     | Viktor Guba (1633)         | Dominic Vogler (1450)       |   1 |  :  | 0   |
 | 4     | Frank Wittenbrock (2006)   | -                           |   1 |  :  | -   |
+
+## Thal und Umgebung 1 - St.Gallen 3 (4 : 1)
 
 | Brett | Thal und Umgebung 1       | St.Gallen 3                |   4 |  :  | 1   |
 | ----- | ------------------------- | -------------------------- | --: | :-: | :-- |
