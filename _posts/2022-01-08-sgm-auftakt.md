@@ -37,13 +37,18 @@ St. Gallen 1 und St. Gallen 2 können zum Auftakt zwei deutliche Heimsiege verbu
 | 1     | Ruedi Affeltranger (1940) | Jan Frei (1783)            |   0 |  :  | 1   |
 | 2     | Jan Skobe (1976)          | Miguel Garcia (1720)       |   1 |  :  | 0   |
 | 3     | Marcel Schneider (1828)   | Ludwig Sapulowitsch (1529) |   1 |  :  | 0   |
-| 4     | Thomas Kuhaupt (1808)     | Robin Loepfe               |   1 |  :  | 0   |
+| 4     | Thomas Kuhaupt (1808)     | Robin Loepfe (-)           |   1 |  :  | 0   |
 | 5     | Beat Thür (1689)          | Thomas Gebhardt (1497)     |   1 |  :  | 0   |
 
 St. Gallen 3 spielte zum Auftakt auswärts gegen Thal. Zuerst waren die beiden Partien an Brett 4 und 5 zu Ende. Robin und Thomas standen leider schon früh in der Partie schlecht, kämpften aber hart und mussten dennoch ihre Partien bald aufgeben. Am zweiten Brett stand Miguel sehr gut, im Endspiel sah es dann zuerst nach Remis aus. Jan Skobe überspielte ihn aber im Endspiel und konnte damit bereits den Sieg von Thal sicherstellen. Am ersten Brett hatte Jan Frei eine unklare Stellung, aber mit Mehrbauern und Vorteil für seinen Gegner. Diesem lief jedoch die Zeit ab, womit St. Gallen am Schluss doch noch einen Ehrenpunkt mit nach Hause nehmen konnte. Am dritten Brett kämpfe Ludwig gegen Marcel, musste dann aber nach 4.5 Stunden im Damenendspiel aufgeben.
 
 _Jan Frei_
 
-## St. Gallen 4
+## St. Gallen 4 - Romanshorn 2 (1.5 : 2.5)
 
-(Update folgt)
+| Brett | St. Gallen 4            | Romanshorn 2                 | 1.5 |  :  | 2.5 |
+| ----- | ----------------------- | ---------------------------- | --: | :-: | :-- |
+| 1     | Lorenz Markus (-)       | Fredy Müller (1665)          | 0.5 |  :  | 0.5 |
+| 2     | Miro Settegrana (-)     | Alfred Meier-Manetsch (1505) |   1 |  :  | 0   |
+| 3     | Ivan Van der Meulen (-) | Daniel Rast (1193)           |   0 |  :  | 1   |
+| 4     | Silas Hurschler (-)     | Marc Dönni (1162)            |   0 |  :  | 1   |
