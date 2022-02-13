@@ -20,7 +20,7 @@ subtitle: Aktueller Terminkalender 2022
 |                          | <nobr>Sa 19.02</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                          SGM Runde 4                          |
 |                          | <nobr>Mo 21.02</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                       |
 |                          | <nobr>Mo 28.02</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |            Spielanalysen SGM SG3 & SG4 mit Dimitri            |
-| <strong>März</strong>    | <nobr>Mo 07.03</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                       |
+| <strong>März</strong>    | <nobr>Mo 07.03</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                     Rapid Cup 22 Runde 2                      |
 |                          | <nobr>Sa 12.03</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                          SGM Runde 5                          |
 |                          | <nobr>Mo 14.03</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                       Freier Spielabend                       |
 |                          | <nobr>Sa 19.03</nobr> | <nobr>10:00 Uhr</nobr> | Winterthur  |                        SJMM Runden 5&6                        |
