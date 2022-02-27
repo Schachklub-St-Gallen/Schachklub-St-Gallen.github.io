@@ -42,7 +42,7 @@ title-img: /assets/img/sksg_logo_vektor_rgb.svg
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "kontakt@schachklub-sg.ch"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true # remove this line if you don't want to show an RSS link at the bottom
   facebook: schachklubstgallen
   # github: Schachklub-St-Gallen
   lichess: schachklub-stgallen
@@ -187,9 +187,9 @@ page-img: "/assets/img/chess_board_background.jpg"
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
 # To use giscus comments:
-# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,
 # (2) Install the giscus app in your repository (details at https://giscus.app),
-# (3) Fill in *all* the parameters below 
+# (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
 #giscus:
 #  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
