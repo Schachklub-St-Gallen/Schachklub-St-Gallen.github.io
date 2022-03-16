@@ -33,8 +33,10 @@ subtitle: Aktueller Terminkalender 2022
 |                          | <nobr>Mo 18.04</nobr> |           -            |      -      |              (Frühlingsferien, kein Klubbetrieb)              |
 |                          | <nobr>Sa 23.04</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                          SGM Runde 7                          |
 |                          | <nobr>Mo 25.04</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |  <span style="color:red">Klubmeisterschaft 2022 Rd 1</span>   |
+|                          | <nobr>Sa 30.04</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                          SMM Runde 1                          |
 | <strong>Mai</strong>     | <nobr>Mo 02.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                  Klubmeisterschaft 2022 Rd 2                  |
 |                          | <nobr>Mo 09.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                  Klubmeisterschaft 2022 Rd 3                  |
+|                          | <nobr>Sa 14.05</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                          SMM Runde 2                          |
 |                          | <nobr>Mo 16.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                  Klubmeisterschaft 2022 Rd 4                  |
 |                          | <nobr>Mo 23.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |             Nachholtermin Klubmeisterschaft 2022              |
 |                          | <nobr>Mo 30.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                  Klubmeisterschaft 2022 Rd 5                  |
