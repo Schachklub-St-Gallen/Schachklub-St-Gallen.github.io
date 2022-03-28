@@ -27,16 +27,16 @@ Für die Gesamtwertung werden die drei besten Turnierrunden gezählt. Alle weite
 | 6    | Frank Wittenbrock    | 6   | 8   |     |     |     | 14    |
 | 7    | Hansueli Baumgartner | 2   |     | 10  |     |     | 12    |
 | 8    | Roman Schmuki        | 10  |     |     |     |     | 10    |
-| 9    | Ben Bruch            | 5   | 1   |     | 4   |     | 10    |
-| 10   | Guillaume Magnin     |     |     |     | 10  |     | 10    |
+| 8    | Ben Bruch            | 5   | 1   |     | 4   |     | 10    |
+| 8    | Guillaume Magnin     |     |     |     | 10  |     | 10    |
 | 11   | Mihajlo Vujnovic     | 4   | 2   |     | 2   |     | 8     |
-| 12   | Daniel Zink          |     |     | 8   |     |     | 8     |
-| 13   | Livio Ciardo         |     |     | 5   | 3   |     | 8     |
+| 11   | Daniel Zink          |     |     | 8   |     |     | 8     |
+| 11   | Livio Ciardo         |     |     | 5   | 3   |     | 8     |
 | 14   | Wolfgang Eisenbeiss  |     |     |     | 6   |     | 6     |
 | 15   | Ludwig Sapulowitsch  |     | 4   |     |     |     | 4     |
-| 16   | Joel Frischnkecht    |     |     | 4   |     |     | 4     |
+| 15   | Joel Frischnkecht    |     |     | 4   |     |     | 4     |
 | 17   | Thomas Gebhardt      | 1   |     | 2   |     |     | 3     |
-| 18   | Miro Settegrana      |     | 3   |     |     |     | 3     |
+| 17   | Miro Settegrana      |     | 3   |     |     |     | 3     |
 | 19   | Roger Braun          |     |     | 1   |     |     | 1     |
 
 ### Resultate 1. Runde
