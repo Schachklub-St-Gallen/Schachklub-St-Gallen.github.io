@@ -25,3 +25,7 @@ in der [Ausschreibung](Ausschreibung Rapid Grand Prix 2022.pdf).
 ### Resultate 3. Runde
 
 {% include turniere/rapidgrandprix/2022/tag-3.html %}
+
+### Resultate 4. Runde
+
+{% include turniere/rapidgrandprix/2022/tag-4.html %}
