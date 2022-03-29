@@ -23,10 +23,12 @@
             // these IDs from the previous steps
             emailjs.sendForm("service_khkr78o", "template_v88xfwv", this).then(
               function () {
+                document.getElementById("submit-button").disabled = true;
                 console.log("SUCCESS!");
                 document.getElementById("success-text").style.display = "block";
               },
               function (error) {
+                document.getElementById("submit-button").disabled = true;
                 console.log("FAILED...", error);
                 document.getElementById("error-text").style.display = "block";
               }
@@ -154,30 +156,30 @@
           <!--          <input type="text" name="name" placeholder="Telefonnummer (optional)" />-->
           <!--          <input type="text" name="name" placeholder="Website" />-->
           <p>Telefonnummer (optional)</p>
-          <input type="number" name="phone_number" placeholder="E-Mail" />
-
-          <div style="display: inline-flex; position: relative">
-            <label for="become_member"
-              >Ja, ich möchte Mitglied beim Schachklub St. Gallen werden!</label
-            >
+          <input type="number" name="phone_number" placeholder="Telefonnummer" />
+          <div style="display: grid; grid-template-columns: 1fr 8fr">
             <input
               id="become_member"
               type="checkbox"
               name="become_member"
               placeholder="E-Mail"
             />
+            <label for="become_member"
+              >Ja, ich möchte Mitglied beim Schachklub St. Gallen werden!</label
+            >
           </div>
         </div>
         <p>Bemerkungen</p>
         <div><textarea name="message" rows="4"></textarea></div>
-        <button id="submit-button" type="submit" href="/">Submit</button>
+        <button id="submit-button" type="submit" href="/">Abschicken</button>
       </form>
     </div>
-    <div id="success-text" style="display: none">
+    <br />
+    <div id="success-text" style="display: none; font-weight: bold">
       Vielen Dank für das Ausfüllen des Formulars! Wir melden uns in den
       kommenden Tagen zurück.
     </div>
-    <div id="error-text" style="display: none">
+    <div id="error-text" style="display: none; font-weight: bold">
       Beim Abschicken des Formulars ist ein Fehler aufgetreten. Das tut uns
       leid. Bitte probiere es nochmals (Seite neuladen) oder schicke E-Mail.
     </div>
