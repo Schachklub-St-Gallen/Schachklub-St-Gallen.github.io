@@ -15,7 +15,7 @@ Das Rapid Grand Prix Turnier findet dieses Jahr an vier Montagen im Tschudiwies 
 
 Die Punktevergabe pro Runde ist wie folgt: 1.Rang: (20) 2. Rang (15) 3. Rang (10) 4. Rang (8) 5. Rang (6) 6. Rang (5) 7. Rang (4) 8. Rang (3) 9. Rang (2) 10. Rang (1)
 
-Für die Gesamtwertung werden die drei besten Turnierrunden gezählt. Alle weiteren Infos sind in der [Ausschreibung](Ausschreibung Rapid Grand Prix 2022.pdf).
+Für die Gesamtwertung werden die drei besten Turnierrunden gezählt. Alle weiteren Infos sind in der [Ausschreibung](2022/Ausschreibung Rapid Grand Prix 2022.pdf).
 
 | Rang | Name                 | R1  | R2  | R3  | R4  |     | Total |
 | ---- | -------------------- | --- | --- | --- | --- | --- | ----- |

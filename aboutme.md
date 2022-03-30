@@ -25,6 +25,12 @@ Alle Infos zu jedem Klubabend sind im **[Terminkalender](../terminkalender)** zu
 
 <iframe width="100%" height="520" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d674.93530140726!2d9.365126888139532!3d47.416988806160745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b1fca7162f0e7%3A0x4b117315f3b797f3!2sTschudistrasse+21%2C+9000+St.+Gallen!5e0!3m2!1sde!2sch!4v1522354086375"></iframe>
 
+## Kontaktformular
+
+Möchtest du Mitglied des Schachklubs St. Gallen werden oder einfach einmal reinschnuppern? Gerne beantworten wir deine Fragen:
+
+{% include email_form.html %}
+
 ## Jugendschach
 
 - Spiel, Plausch und Turniere

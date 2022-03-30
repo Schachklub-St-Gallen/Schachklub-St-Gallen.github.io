@@ -1130,7 +1130,7 @@ pre {
     margin-top: 7px;
   }
 }
-
+.results-table             { white-space: nowrap; }
 .results-table body        { text-align:left; background: #ffffff }
 .results-table h3          { font-family: "Verdana", "Arial", monospace; font-size:10pt;margin: 6px 0px 6px 0px;border: 0px 0px 0px 0px;padding: 0px 0px 0px 0px; background: #C8C8C8;}
 .results-table p           { font-family: "Verdana", "Arial", monospace; margin:  6px 10px 6px 3px; font-size: 10pt; text-align:left; border: 1px 1px 1px 1px; padding: 0px 0px 0px 0px;}
