@@ -13,6 +13,6 @@ Die diesjährige Stadtmeisterschaft fand vor Ort im Tschudiwies statt. Alle weit
 | 1   | Wolfgang Eisenbeiss | 1834 |
 | 2   | Jan Frei            | 1783 |
 | 3   | Joel Frischknecht   |      |
-| 4   | Lorenz Marjzs       |      |
+| 4   | Lorenz Markus       |      |
 | 5   | Miro Settegrana     |      |
 | 6   | Roger Braun         |      |
