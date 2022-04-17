@@ -12,7 +12,8 @@ Die diesjährige Stadtmeisterschaft fand vor Ort im Tschudiwies statt. Alle weit
 | --- | ------------------- | ---- |
 | 1   | Wolfgang Eisenbeiss | 1834 |
 | 2   | Jan Frei            | 1783 |
-| 3   | Joel Frischknecht   |      |
-| 4   | Lorenz Markus       |      |
-| 5   | Miro Settegrana     |      |
-| 6   | Roger Braun         |      |
+| 3   | Livio Ciardo        | 1332 |
+| 4   | Joel Frischknecht   |      |
+| 5   | Lorenz Markus       |      |
+| 6   | Miro Settegrana     |      |
+| 7   | Roger Braun         |      |
