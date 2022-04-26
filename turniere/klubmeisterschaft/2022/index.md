@@ -8,11 +8,11 @@ Die diesjährige Stadtmeisterschaft fand vor Ort im Tschudiwies statt. Alle weit
 
 ### Paarungen Runde 2
 
-![Teilnehmerliste](/assets/img/klubmeisterschaft/2022/Klubmeisterschaft2022_r2_paarungen.png)
+![Paarungen Runde 2](/assets/img/klubmeisterschaft/2022/Klubmeisterschaft2022_r2_paarungen.png)
 
 ### Resultate Runde 1
 
-![Teilnehmerliste](/assets/img/klubmeisterschaft/2022/Klubmeisterschaft2022_r1_ergebnisse.png)
+![Resultate Runde 1](/assets/img/klubmeisterschaft/2022/Klubmeisterschaft2022_r1_ergebnisse.png)
 
 ### Teilnehmerliste
 
