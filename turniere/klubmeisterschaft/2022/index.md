@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Klubmeisterschaft 2022
-subtitle: Alle Infos zur Kubmeisterschaft 2022
+subtitle: Alle Informationen zur Klubmeisterschaft 2022
 ---
 
-Die diesjährige Stadtmeisterschaft fand vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Klubmeisterschaft 2022.pdf){:target="\_blank"}.
+Die diesjährige Klubmeisterschaft fand vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Klubmeisterschaft 2022.pdf){:target="\_blank"}.
 
 ### Paarungen Runde 2
 
