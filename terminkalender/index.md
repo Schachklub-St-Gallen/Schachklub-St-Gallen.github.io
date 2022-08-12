@@ -10,15 +10,25 @@ subtitle: Aktueller Terminkalender 2022
 |----------------------------|-----------------------|:----------------------:|:-----------:|:----------------------------------------------------------------:|
 | <strong>August</strong>    | <nobr>Sa 13.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |  <span style="color:red">Sommerfest Schachklub St.Gallen</span>  |
 |                            | <nobr>Mo 15.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |             Chess 960 / Fischer Random Turnier RD 1              |
+|                            | <nobr>Sa 20.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                        SMM SG 2,3,4 RD 4                         |
+|                            | <nobr>So 21.08</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                          SMM SG 1 RD 4                           |
 |                            | <nobr>Mo 22.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |             Chess 960 / Fischer Random Turnier RD 2              |
 |                            | <nobr>Mo 29.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |      <span style="color:red">Vortrag FM Noah Fecker</span>       |
-| <strong>September</strong> | <nobr>Mo 05.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
+| <strong>September</strong> | <nobr>Sa 03.09</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                        SMM SG 2,3,4 RD 5                         |
+|                            | <nobr>So 04.09</nobr> | <nobr>14:00 Uhr</nobr> |    Olten    |                          SMM SG 1 RD 5                           |
+|                            | <nobr>Mo 05.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
 |                            | <nobr>Mo 12.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
+|                            | <nobr>Sa 17.09</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                        SMM SG 2,3,4 RD 6                         |
+|                            | <nobr>So 18.09</nobr> | <nobr>14:00 Uhr</nobr> | Winterthur  |                          SMM SG 1 RD 6                           |
 |                            | <nobr>Mo 19.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Baskischer Pokal                         |
 |                            | <nobr>Mo 26.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
-| <strong>Oktober</strong>   | <nobr>Mo 24.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies | <span style="color:red">St.Galler Stadtmeisterschaft RD 1</span> |
+| <strong>Oktober</strong>   | <nobr>Sa 22.10</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                        SMM SG 2,3,4 RD 7                         |
+|                            | <nobr>So 23.10</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                          SMM SG 1 RD 7                           |
+|                            | <nobr>Mo 24.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies | <span style="color:red">St.Galler Stadtmeisterschaft RD 1</span> |
 |                            | <nobr>Mo 31.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 2                 |
-| <strong>November</strong>  | <nobr>Mo 07.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
+| <strong>November</strong>  | <nobr>Sa 05.11</nobr> | <nobr>14:00 Uhr</nobr> |   Zürich    |                          SMM SG 1 RD 8                           |
+|                            | <nobr>So 06.11</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                          SMM SG 1 RD 9                           |
+|                            | <nobr>Mo 07.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
 |                            | <nobr>Mo 14.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 4                 |
 |                            | <nobr>Mo 21.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 5                 |
 |                            | <nobr>Mo 28.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |               Freier Spieleabend (Nachholpartien)                |
