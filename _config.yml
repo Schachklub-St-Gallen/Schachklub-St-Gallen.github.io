@@ -24,7 +24,7 @@ navbar-links:
   Berichte: "/"
   Turnierübersicht:
     - Klubmeisterschaft: "turniere/klubmeisterschaft/2022"
-    - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2021"
+    - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2022"
     - Rapid Grand Prix: "turniere/rapidgrandprix/2022"
   Terminkalender: "terminkalender"
   Schachschule: "https://www.schachschule-sg.ch/"
