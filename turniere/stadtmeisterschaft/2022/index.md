@@ -6,6 +6,8 @@ subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
 
 Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2022.pdf).
 
+Das Turnier startet am 24. Oktober 2022 und endet am 12. Dezember (siehe [Termminkalender](/terminkalender)). Die Runden werden jeweils am Montagabend im Ex-Schulhaus [Tschuduwies](/aboutme) ausgetragen.
+
 ### Teilnehmer
 
 | SNr 	| Name                   	|
@@ -16,4 +18,4 @@ Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle we
 
 ### Vergangene Stadtmeisterschaften
 
-Infos zur Vergangenen Stadtmeisterschaft 2021 findet ihr [hier](http://www.schachklub-sg.ch/turniere/stadtmeisterschaft/2021).
+Infos zur vergangenen Stadtmeisterschaft 2021 findet ihr [hier](http://www.schachklub-sg.ch/turniere/stadtmeisterschaft/2021).
