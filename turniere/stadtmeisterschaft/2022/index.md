@@ -4,11 +4,11 @@ title: Stadtmeisterschaft 2022
 subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
 ---
 
-Die diesjährige Stadtmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2022.pdf).
+Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt. Das Turnier startet am 24. Oktober 2022 und endet am 12. Dezember (siehe [Terminkalender](/terminkalender)). Die Runden werden jeweils am Montagabend im Ex-Schulhaus [Tschuduwies](/aboutme) ausgetragen.
 
-Das Turnier startet am 24. Oktober 2022 und endet am 12. Dezember (siehe [Termminkalender](/terminkalender)). Die Runden werden jeweils am Montagabend im Ex-Schulhaus [Tschuduwies](/aboutme) ausgetragen.
+Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2022.pdf).
 
-### Teilnehmer
+### Teilnehmerliste (Stand 25. September)
 
 | SNr 	| Name                   	|
 |-----	|------------------------	|
