@@ -10,11 +10,14 @@ Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung
 
 ### Teilnehmerliste (Stand 25. September)
 
-| SNr 	| Name                   	|
-|-----	|------------------------	|
-| 1   	| Miguel Garcia (1758)   	|
-| 2   	| Jan Frei (1750)        	|
-| 3   	| Miro Settegrana (1353) 	|
+| SNr 	| Name                   	   |
+|-----	|--------------------------- |
+| 1   	| Dimitri Kindle (1930)      |
+| 2   	| Peter Bischoff (1859)      |
+| 3   	| Wolfgang Eisenbeiss (1843) |
+| 4   	| Miguel Garcia (1758)   	   |
+| 5   	| Jan Frei (1750)        	   |
+| 6   	| Miro Settegrana (1353) 	   |
 
 ### Vergangene Stadtmeisterschaften
 
