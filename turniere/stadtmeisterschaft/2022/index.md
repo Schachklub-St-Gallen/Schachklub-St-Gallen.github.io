@@ -17,7 +17,8 @@ Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung
 | 3   	| Wolfgang Eisenbeiss (1843) |
 | 4   	| Miguel Garcia (1758)   	   |
 | 5   	| Jan Frei (1750)        	   |
-| 6   	| Miro Settegrana (1353) 	   |
+| 6   	| Joel Frischknecht (1709)        	   |
+| 7  	| Miro Settegrana (1353) 	   |
 
 ### Vergangene Stadtmeisterschaften
 
