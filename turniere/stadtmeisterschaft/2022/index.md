@@ -8,7 +8,7 @@ Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt
 
 Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2022.pdf).
 
-### Teilnehmerliste (Stand 25. September)
+### Teilnehmerliste (Stand 27. September)
 
 | SNr 	| Name                   	   |
 |-----	|--------------------------- |
