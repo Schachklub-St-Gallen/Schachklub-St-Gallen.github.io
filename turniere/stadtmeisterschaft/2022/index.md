@@ -18,12 +18,12 @@ Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung
 | 4   | Wolfgang Eisenbeiss (1843) |
 | 5   | Miguel Garcia (1758)       |
 | 6   | Jan Frei (1750)            |
-| 7   | Joel Frischknecht (1709)   |
-| 8   | Thomas Gebhardt (1472)     |
-| 9   | Miro Settegrana (1353)     |
-| 10  | Livio Ciardo (1323)        |
-| 11  | Ben Bruch (1262)           |
-| 12  | Daniel Szokody             |
+| 7   | Thomas Gebhardt (1472)     |
+| 8   | Miro Settegrana (1353)     |
+| 9   | Livio Ciardo (1323)        |
+| 10  | Ben Bruch (1262)           |
+| 11  | Daniel Szokody             |
+| 12  | Joel Frischknecht          |
 | 13  | Martin Eichenberger        |
 | 14  | Philipp Traber             |
 | 15  | Silviano Fossa             |
