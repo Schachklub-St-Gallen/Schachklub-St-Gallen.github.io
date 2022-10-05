@@ -12,8 +12,8 @@ Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung
 
 | SNr | Name                       |
 |-----|----------------------------|
-| 1   | Marc Potterat (2129)       |
-| 2   | Frank Wittenbrock (1992)   |
+| 1   | Marc Potterat (2139)       |
+| 2   | Frank Wittenbrock (1976)   |
 | 3   | Halit Rexhepi (1955)       |
 | 4   | Michael Nyffenegger (1947) |
 | 5   | Dimitri Kindle (1930)      |
@@ -26,11 +26,12 @@ Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung
 | 12  | Livio Ciardo (1323)        |
 | 13  | Ben Bruch (1262)           |
 | 14  | Daniel Szokody             |
-| 15  | Joel Frischknecht          |
-| 16  | Martin Eichenberger        |
-| 17  | Noah Randow                |
-| 18  | Philipp Traber             |
-| 19  | Silvano Fossa              |
+| 15  | Darko Gluvacevic           |
+| 16  | Joel Frischknecht          |
+| 17  | Martin Eichenberger        |
+| 18  | Noah Randow                |
+| 19  | Philipp Traber             |
+| 20  | Silvano Fossa              |
 
 ### Vergangene Stadtmeisterschaften
 
