@@ -8,7 +8,7 @@ Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt
 
 Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2022.pdf).
 
-### Teilnehmerliste (Stand 5. Oktober)
+### Teilnehmerliste (Stand 18. Oktober)
 
 | SNr | Name                       |
 |-----|----------------------------|
@@ -27,11 +27,11 @@ Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung
 | 13  | Ben Bruch (1262)           |
 | 14  | Daniel Szokody             |
 | 15  | Darko Gluvacevic           |
-| 16  | Joel Frischknecht          |
-| 17  | Martin Eichenberger        |
-| 18  | Noah Randow                |
-| 19  | Philipp Traber             |
-| 20  | Silvano Fossa              |
+| 16  | Gerhard Mannsberger        |
+| 17  | Joel Frischknecht          |
+| 18  | Martin Eichenberger        |
+| 19  | Noah Randow                |
+| 20  | Philipp Traber             |
 
 ### Vergangene Stadtmeisterschaften
 
