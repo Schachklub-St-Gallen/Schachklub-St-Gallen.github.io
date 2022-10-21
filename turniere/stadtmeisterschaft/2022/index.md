@@ -8,7 +8,7 @@ Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt
 
 Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2022.pdf).
 
-### Teilnehmerliste (Stand 18. Oktober)
+### Teilnehmerliste (Stand 21. Oktober)
 
 | SNr | Name                       |
 |-----|----------------------------|
@@ -22,17 +22,19 @@ Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung
 | 8   | Wolfgang Eisenbeiss (1843) |
 | 9   | Miguel Garcia (1758)       |
 | 10  | Jan Frei (1750)            |
-| 11  | Thomas Gebhardt (1472)     |
-| 12  | Miro Settegrana (1353)     |
-| 13  | Livio Ciardo (1323)        |
-| 14  | Ben Bruch (1262)           |
-| 15  | Daniel Szokody             |
-| 16  | Darko Gluvacevic           |
-| 17  | Gerhard Mannsberger        |
-| 18  | Joel Frischknecht          |
-| 19  | Martin Eichenberger        |
-| 20  | Noah Randow                |
-| 21  | Philipp Traber             |
+| 11  | Wilfrid Schmid (1570)      |
+| 12  | Thomas Gebhardt (1472)     |
+| 13  | Lorenz Markus (1445)       |
+| 14  | Miro Settegrana (1353)     |
+| 15  | Livio Ciardo (1323)        |
+| 16  | Ben Bruch (1262)           |
+| 17  | Daniel Szokody             |
+| 18  | Darko Gluvacevic           |
+| 19  | Gerhard Mannsberger        |
+| 20  | Joel Frischknecht          |
+| 21  | Martin Eichenberger        |
+| 22  | Noah Randow                |
+| 23  | Philipp Traber             |
 
 ### Vergangene Stadtmeisterschaften
 
