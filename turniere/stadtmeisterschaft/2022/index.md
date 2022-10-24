@@ -8,9 +8,9 @@ Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt
 
 Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2022.pdf).
 
-### Teilnehmerliste (Stand 23. Oktober)
+### Resultate
 
-{% include turniere/stadtmeisterschaft/2022/startrangliste.html %}
+{% include turniere/stadtmeisterschaft/2022/resultate.html %}
 
 ### Vergangene Stadtmeisterschaften
 
