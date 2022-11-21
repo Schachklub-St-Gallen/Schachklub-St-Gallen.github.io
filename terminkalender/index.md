@@ -31,7 +31,7 @@ subtitle: Aktueller Terminkalender 2022
 |                            | <nobr>Mo 07.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
 |                            | <nobr>Mo 14.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 4                 |
 |                            | <nobr>Mo 21.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 5                 |
-|                            | <nobr>Mo 28.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |               Freier Spieleabend (Nachholpartien)                |
+|                            | <nobr>Mo 28.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |               Partieanalysen mit Dimitri (Nachholpartien)        |
 | <strong>Dezember</strong>  | <nobr>Mo 05.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 6                 |
 |                            | <nobr>Mo 12.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 7                 |
 |                            | <nobr>Mo 19.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Weihnachtsblitzturnier                      |
