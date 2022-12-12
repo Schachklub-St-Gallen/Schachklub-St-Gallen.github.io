@@ -1,40 +1,38 @@
 <ul class="nav nav-tabs">
   <li class="nav-item">
-    <a class="nav-link" href="#zwischenrangliste" data-toggle="tab"
-      >Zwischenrangliste</a
+    <a class="nav-link active" href="#schlussrangliste" data-toggle="tab"
+      >Schlussrangliste</a
     >
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#runde-1" data-toggle="tab">1. Runde</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#runde-2" data-toggle="tab">2. Runde</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#runde-3" data-toggle="tab">3. Runde</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#runde-4" data-toggle="tab">4. Runde</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#runde-5" data-toggle="tab">5. Runde</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#runde-6" data-toggle="tab">6. Runde</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link active" href="#runde-7" data-toggle="tab">7. Runde</a>
+  <li class="nav-item dropdown">
+    <a
+      class="nav-link dropdown-toggle"
+      data-toggle="dropdown"
+      href="#"
+      role="button"
+      aria-haspopup="true"
+      aria-expanded="false"
+      >Runden</a
+    >
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#runde-1" data-toggle="tab">1. Runde</a>
+      <a class="dropdown-item" href="#runde-2" data-toggle="tab">2. Runde</a>
+      <a class="dropdown-item" href="#runde-3" data-toggle="tab">3. Runde</a>
+      <a class="dropdown-item" href="#runde-4" data-toggle="tab">4. Runde</a>
+      <a class="dropdown-item" href="#runde-5" data-toggle="tab">5. Runde</a>
+      <a class="dropdown-item" href="#runde-6" data-toggle="tab">6. Runde</a>
+      <a class="dropdown-item" href="#runde-7" data-toggle="tab">7. Runde</a>
+    </div>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#startrangliste" data-toggle="tab"
       >Startrangliste</a
     >
   </li>
-  <li class="nav-item"></li>
 </ul>
 <div class="tab-content">
-  <div role="tabpanel" class="tab-pane" id="zwischenrangliste">
-    {% include turniere/stadtmeisterschaft/2022/zwischenrangliste.html %}
+  <div role="tabpanel" class="tab-pane active" id="schlussrangliste">
+    {% include turniere/stadtmeisterschaft/2022/schlussrangliste.html %}
   </div>
   <div role="tabpanel" class="tab-pane" id="runde-1">
     {% include turniere/stadtmeisterschaft/2022/runde-1.html %}
@@ -54,7 +52,7 @@
   <div role="tabpanel" class="tab-pane" id="runde-6">
     {% include turniere/stadtmeisterschaft/2022/runde-6.html %}
   </div>
-  <div role="tabpanel" class="tab-pane active" id="runde-7">
+  <div role="tabpanel" class="tab-pane" id="runde-7">
     {% include turniere/stadtmeisterschaft/2022/runde-7.html %}
   </div>
   <div role="tabpanel" class="tab-pane" id="startrangliste">
