@@ -11,7 +11,7 @@ subtitle: Aktueller Terminkalender 2022
 | <strong>Januar</strong>  | <nobr>Mo 02.01</nobr> |           -            |      -      |                    (Winterferien, kein Klubbetrieb)                    |
 |                          | <nobr>Sa 07.01</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |    SGM: Triesen – SG1 / Bodan – SG2 / SG3 – Flawil / Triesen – SG4     |
 |                          | <nobr>Mo 09.01</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Neujahrsrapidcup RD 1                          |
-|                          | <nobr>Mo 16.01</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Neujahrsrapidcup RD 1                          |
+|                          | <nobr>Mo 16.01</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Neujahrsrapidcup RD 2                          |
 |                          | <nobr>Sa 21.01</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |        SGM: SG Winterthur – SG2 / Romanshorn – SG3 / SG4 - Chur        |
 |                          | <nobr>Mo 23.01</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Neujahrsrapidcup RD 3                          |
 |                          | <nobr>Mo 30.01</nobr> |           -            |      -      |                    (Sportferien, kein Klubbetrieb)                     |
