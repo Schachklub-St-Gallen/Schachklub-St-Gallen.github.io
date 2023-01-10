@@ -14,7 +14,7 @@ Die Punktevergabe pro Runde ist wie folgt: 1.Rang: (20) 2. Rang (15) 3. Rang (10
 
 Für die Gesamtwertung werden die zwei besten Turnierrunden gezählt. Alle weiteren Infos sind in der [Ausschreibung](Ausschreibung Rapid Grand Prix 2023.pdf).
 
-# Zwischenrangliste
+## Zwischenrangliste
 
 | Rang | Name                 | R1  | R2  | R3  |     | Total |
 | ---- | -------------------- | --- | --- | --- | --- |-------|
@@ -31,4 +31,4 @@ Für die Gesamtwertung werden die zwei besten Turnierrunden gezählt. Alle weite
 
 ### Resultate 1. Runde
 
-{% include turniere/rapidgrandprix/2022/tag-1.html %}
+{% include turniere/rapidgrandprix/2023/tag-1.html %}
