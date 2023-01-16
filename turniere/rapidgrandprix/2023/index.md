@@ -14,20 +14,29 @@ Die Punktevergabe pro Runde ist wie folgt: 1.Rang: (20) 2. Rang (15) 3. Rang (10
 
 Für die Gesamtwertung werden die zwei besten Turnierrunden gezählt. Alle weiteren Infos sind in der [Ausschreibung](Ausschreibung Rapid Grand Prix 2023.pdf).
 
+## Aktueller Preistopf
+
+124 Franken (nach 2/3 Runden)
+
 ## Zwischenrangliste
 
 | Rang | Name                 | R1  | R2  | R3  |     | Total |
-| ---- | -------------------- | --- | --- | --- | --- |-------|
-| 1    | Noah Fecker          | 20  |     |     |     | 20    |
-| 2    | Aaron Potterat       | 15  |     |     |     | 15    |
-| 3    | Raphael Perrin       | 10  |     |     |     | 10    |
-| 4    | Hansueli Baumgartner | 8   |     |     |     | 8     |
-| 5    | Wolfgang Eisenbeiss  | 6   |     |     |     | 6     |
-| 6    | Miro Settegrana      | 5   |     |     |     | 5     |
-| 7    | Lorenz Markus        | 4   |     |     |     | 4     |
-| 8    | Mihajlo Vujnovic     | 3   |     |     |     | 3     |
-| 9    | Jan Frei             | 2   |     |     |     | 2     |
-| 10   | Thomas Gebhardt      | 1   |     |     |     | 1     |
+| ---- | -------------------- | --- | --- | --- | --- | ----- |
+| 1    | Noah Fecker          | 20  | -   |     |     | 20    |
+|      | Thomas Schoch        | -   | 20  |     |     | 20    |
+| 3    | Raphael Perrin       | 10  | 8   |     |     | 18    |
+| 4    | Wolfgang Eisenbeiss  | 6   | 10  |     |     | 16    |
+| 5    | Aaron Potterat       | 15  | -   |     |     | 15    |
+|      | Frank Wittenbrock    | -   | 15  |     |     | 15    |
+| 7    | Hansueli Baumgartner | 8   | -   |     |     | 8     |
+| 8    | Alexander King       | -   | 6   |     |     | 6     |
+|      | Thomas Gebhardt      | 1   | 5   |     |     | 6     |
+|      | Jan Frei             | 2   | 4   |     |     | 6     |
+| 11   | Miro Settegrana      | 5   | 0   |     |     | 5     |
+| 12   | Lorenz Markus        | 4   | 0   |     |     | 4     |
+| 13   | Mihajlo Vujnovic     | 3   | 2   |     |     | 5     |
+| 14   | Ludwig Sapulowitsch  | -   | 3   |     |     | 3     |
+| 15   | Darko Gluvacevic     | 0   | 1   |     |     | 1     |
 
 ### Resultate 1. Runde
 
