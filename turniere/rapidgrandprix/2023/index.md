@@ -32,3 +32,7 @@ Für die Gesamtwertung werden die zwei besten Turnierrunden gezählt. Alle weite
 ### Resultate 1. Runde
 
 {% include turniere/rapidgrandprix/2023/tag-1.html %}
+
+### Resultate 2. Runde
+
+{% include turniere/rapidgrandprix/2023/tag-2.html %}
