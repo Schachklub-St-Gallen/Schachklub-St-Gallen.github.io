@@ -38,10 +38,14 @@ Für die Gesamtwertung werden die zwei besten Turnierrunden gezählt. Alle weite
 | 14   | Ludwig Sapulowitsch  | -   | 3   |     |     | 3     |
 | 15   | Darko Gluvacevic     | 0   | 1   |     |     | 1     |
 
-### Resultate 1. Runde
+### Resultate 3. Runde
 
-{% include turniere/rapidgrandprix/2023/tag-1.html %}
+{% include turniere/rapidgrandprix/2023/tag-3.html %}
 
 ### Resultate 2. Runde
 
 {% include turniere/rapidgrandprix/2023/tag-2.html %}
+
+### Resultate 1. Runde
+
+{% include turniere/rapidgrandprix/2023/tag-1.html %}
