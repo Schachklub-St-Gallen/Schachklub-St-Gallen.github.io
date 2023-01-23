@@ -14,29 +14,35 @@ Die Punktevergabe pro Runde ist wie folgt: 1.Rang: (20) 2. Rang (15) 3. Rang (10
 
 Für die Gesamtwertung werden die zwei besten Turnierrunden gezählt. Alle weiteren Infos sind in der [Ausschreibung](Ausschreibung Rapid Grand Prix 2023.pdf).
 
-## Aktueller Preistopf
+## Preistopf
 
-124 Franken (nach 2/3 Runden)
+212 Franken
 
-## Zwischenrangliste
+## Schlussrangliste
 
 | Rang | Name                 | R1  | R2  | R3  |     | Total |
 | ---- | -------------------- | --- | --- | --- | --- | ----- |
-| 1    | Noah Fecker          | 20  | -   |     |     | 20    |
-|      | Thomas Schoch        | -   | 20  |     |     | 20    |
-| 3    | Raphael Perrin       | 10  | 8   |     |     | 18    |
-| 4    | Wolfgang Eisenbeiss  | 6   | 10  |     |     | 16    |
-| 5    | Aaron Potterat       | 15  | -   |     |     | 15    |
-|      | Frank Wittenbrock    | -   | 15  |     |     | 15    |
-| 7    | Hansueli Baumgartner | 8   | -   |     |     | 8     |
-| 8    | Alexander King       | -   | 6   |     |     | 6     |
-|      | Thomas Gebhardt      | 1   | 5   |     |     | 6     |
-|      | Jan Frei             | 2   | 4   |     |     | 6     |
-| 11   | Miro Settegrana      | 5   | 0   |     |     | 5     |
-| 12   | Lorenz Markus        | 4   | 0   |     |     | 4     |
-| 13   | Mihajlo Vujnovic     | 3   | 2   |     |     | 5     |
-| 14   | Ludwig Sapulowitsch  | -   | 3   |     |     | 3     |
-| 15   | Darko Gluvacevic     | 0   | 1   |     |     | 1     |
+| 1    | Thomas Schoch        | -   | 20  | 8   |     | 28    |
+| 2    | Frank Wittenbrock    | -   | 15  | 10  |     | 25    |
+| 3    | Elias Giesinger      | -   | -   | 20  |     | 20    |
+| 4    | Noah Fecker          | 20  | -   | -   |     | 20    |
+| 5    | Jan Frei             | (2) | 4   | 15  |     | 19    |
+| 6    | Raphael Perrin       | 10  | 8   | (4) |     | 18    |
+| 7    | Wolfgang Eisenbeiss  | 6   | 10  | (0) |     | 16    |
+| 8    | Aaron Potterat       | 15  | -   | -   |     | 15    |
+| 9    | Hansueli Baumgartner | 8   | -   | -   |     | 8     |
+| 10   | Roman Schmuki        | -   | -   | 6   |     | 6     |
+|      | Alexander King       | -   | 6   | 0   |     | 6     |
+|      | Thomas Gebhardt      | 1   | 5   | -   |     | 6     |
+| 13   | Miguel Garcia        | -   | -   | 5   |     | 5     |
+|      | Miro Settegrana      | 5   | 0   | 0   |     | 5     |
+|      | Mihajlo Vujnovic     | 3   | 2   | 0   |     | 5     |
+| 16   | Lorenz Markus        | 4   | 0   | 0   |     | 4     |
+| 17   | Auxence Parisot      | -   | -   | 3   |     | 3     |
+|      | Ludwig Sapulowitsch  | -   | 3   | 0   |     | 3     |
+| 19   | Benjamin Rohner      | -   | -   | 2   |     | 2     |
+| 20   | Darko Gluvacevic     | 0   | 1   | 0   |     | 1     |
+|      | Dimitri Kindle       | -   | -   | 1   |     | 1     |
 
 ### Resultate 3. Runde
 
