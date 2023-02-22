@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jan Fecker gewinnt erste Runde Blitzturnier
+title: Jan Fecker gewinnt erste Runde des Blitzturniers
 subtitle: Jan Fecker setzt sich mit 7.5 aus 9 Punkten durch.
 ---
 
