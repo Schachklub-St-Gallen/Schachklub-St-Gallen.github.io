@@ -8,6 +8,6 @@ Am vergangenen Montag fand die erste Runde einer Serie von Blitzturnieren statt.
 
 Jan Fecker gewann das Turnier mit 7.5 von 9 Punkten, gefolgt von Rudolf Gautschi und Miguel Garcia mit jeweils 7 aus 9 Punkten.
 
-{% include turniere/blitzturnier/2023/rangliste.html %}
+{% include turniere/blitzturnier/2023/rangliste-runde1.html %}
 
 _Jan Frei_
