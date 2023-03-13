@@ -27,7 +27,7 @@ subtitle: Aktueller Terminkalender 2022
 |                          | <nobr>Mo 20.03</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
 |                          | <nobr>Mo 27.03</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |          <span style="color:red">Mitgliederversammlung</span>          |
 | <strong>April</strong>   | <nobr>Sa 01.04</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |      SGM: SG Zürich – SG1 / SG2 – Sprengschach /SG3 - Degersheim       |
-|                          | <nobr>Mo 03.04</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                             Blitz Cup RD 4                             |
+|                          | <nobr>Mo 03.04</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
 |                          | <nobr>Mo 10.04</nobr> |           -            |      -      |                  (Frühlingsferien, kein Klubbetrieb)                   |
 |                          | <nobr>Mo 17.04</nobr> |           -            |      -      |                  (Frühlingsferien, kein Klubbetrieb)                   |
 |                          | <nobr>Mo 24.04</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |         <span style="color:red">Klubmeisterschaft RD 1</span>          |
