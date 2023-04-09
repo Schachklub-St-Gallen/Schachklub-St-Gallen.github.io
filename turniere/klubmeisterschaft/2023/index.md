@@ -11,7 +11,7 @@ sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 
 | SNr | Name                | Gruppe* | Wertung |
 |-----|---------------------|:-------:|:-------:|
-| 1   | Peter Bischoff      |    B    |  1825   |
+| 1   | Peter Bischoff      |  A / B  |  1825   |
 | 2   | Wolfgang Eisenbeiss |    A    |  1792   |
 | 3   | Miguel Garcia       |    B    |  1788   |
 | 4   | Jan Frei            |  A / B  |  1739   |
