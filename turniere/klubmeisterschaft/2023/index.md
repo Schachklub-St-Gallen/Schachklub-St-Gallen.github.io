@@ -7,6 +7,8 @@ subtitle: Alle Informationen zur Klubmeisterschaft 2023
 Die diesjährige Klubmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung
 sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 
+## Teilnehmerliste (Stand 09.04.2023)
+
 | SNr | Name                | Gruppe* | Wertung |
 |-----|---------------------|:-------:|:-------:|
 | 1   | Peter Bischoff      |    A    |  1825   |
