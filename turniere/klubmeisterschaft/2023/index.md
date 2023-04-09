@@ -16,8 +16,12 @@ sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 | 3   | Wolfgang Eisenbeiss |    A    |  1792   |
 | 4   | Miguel Garcia       |  A / B  |  1788   |
 | 5   | Jan Frei            |  A / B  |  1739   |
-| 6   | Joel Frischknecht   |    B    |  1739   |
+| 6   | Joel Frischknecht   |    B    |  1710   |
 | 7   | Daniel Szokody      |    B    |    -    |
 | 8   | Martin Eichenberger |    B    |    -    |
 
 _*provisorisch_
+
+### Vergangene Klubmeisterschaften
+
+Infos zur vergangenen Klubmeisterschaft 2022 findet ihr [hier](../2022).
