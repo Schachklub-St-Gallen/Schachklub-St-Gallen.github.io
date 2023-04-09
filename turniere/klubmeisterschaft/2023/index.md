@@ -11,10 +11,13 @@ sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 
 | SNr | Name                | Gruppe* | Wertung |
 |-----|---------------------|:-------:|:-------:|
-| 1   | Peter Bischoff      | A (/ B) |  1825   |
-| 2   | Wolfgang Eisenbeiss |    A    |  1792   |
-| 3   | Miguel Garcia       |    B    |  1788   |
-| 4   | Jan Frei            | A (/ B) |  1739   |
-| 5   | Daniel Szokody      |    B    |    -    |
+| 1   | Frank Wittenbrock   |    A    |  1977   |
+| 2   | Peter Bischoff      | A (/ B) |  1825   |
+| 3   | Wolfgang Eisenbeiss |    A    |  1792   |
+| 4   | Miguel Garcia       |  A / B  |  1788   |
+| 5   | Jan Frei            |  A / B  |  1739   |
+| 6   | Joel Frischknecht   |    B    |  1739   |
+| 7   | Daniel Szokody      |    B    |    -    |
+| 8   | Martin Eichenberger |    B    |    -    |
 
 _*provisorisch_
