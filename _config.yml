@@ -20,7 +20,7 @@ author: Jan Frei
 ###############################################
 
 navbar-links:
-  Über uns: "aboutme"
+  Über uns: "info"
   Berichte: "/"
   Turnierübersicht:
     - Klubmeisterschaft: "turniere/klubmeisterschaft/2023"

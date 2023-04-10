@@ -6,13 +6,13 @@ subtitle: Alle Infos zum Schachklub St. Gallen.
 
 Der SK St. Gallen pflegt und fördert das Schachspiel. Der Klub wurde im Jahr 1862 gegründet und zählt rund 70 Mitglieder.
 
-Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19.00 Uhr in das Schulhaus Tschudiwies, Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17.00 Uhr findet dort das Junioren­training der in den Klub integrierten Schach­schule St. Gallen statt.
+Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19.30 Uhr in das Schulhaus Tschudiwies, Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17.30 Uhr findet dort das Juniorentraining der in den Klub integrierten Schachschule St. Gallen statt.
 
-Der Klub nimmt mit je vier Teams teil an der Schwei­zer Mann­schafts­meister­schaft (SMM) und an der Schwei­zer Gruppen­meister­schaft (SGM).
+Der Klub nimmt mit je vier Teams teil an der Schweizer Mannschaftsmeisterschaft (SMM) und an der Schweizer Gruppenmeisterschaft (SGM).
 
-Wir freuen uns über jede(n), der reinschaut! Für Anfän­ger bieten wir ein bis zweimal im Jahr Einsteiger­kurse an.
+Wir freuen uns über jede(n), der reinschaut! Für Anfänger bieten wir ein bis zweimal im Jahr Einsteigerkurse an.
 
-[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/aboutme){: .mini-map-tschudiwies}
+[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/info){: .mini-map-tschudiwies}
 
 ## Klubabend
 
@@ -53,5 +53,5 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 | Präsident | Dimitri Kindle |
 | Vizepräsident/Webmaster | Jan Frei |
 | Kassier | Christian Salerno |
-| Juniorenleiter | Thomas Schoch |
-| Marketing/Kommunikation | Elias Giesinger |
+| Leiter Schachschule | Thomas Schoch |
+| Turniere/Kommunikation | Miguel Garcia |
