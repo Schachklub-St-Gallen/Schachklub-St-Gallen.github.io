@@ -7,20 +7,32 @@ subtitle: Alle Informationen zur Klubmeisterschaft 2023
 Die diesjährige Klubmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung
 sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 
-## Teilnehmerliste (Stand 09.04.2023)
+## Teilnehmerliste (Stand 10.04.2023)
+
+### Gruppe A
 
 | SNr | Name                | Gruppe* | Wertung |
 |-----|---------------------|:-------:|:-------:|
 | 1   | Frank Wittenbrock   |    A    |  1977   |
-| 2   | Peter Bischoff      | A (/ B) |  1825   |
-| 3   | Wolfgang Eisenbeiss |    A    |  1792   |
-| 4   | Miguel Garcia       |  A / B  |  1788   |
+| 2   | Dimitri Kindle      |    A    |  1920   |
+| 3   | Peter Bischoff      | A (/ B) |  1825   |
+| 4   | Wolfgang Eisenbeiss |    A    |  1792   |
 | 5   | Jan Frei            |  A / B  |  1739   |
-| 6   | Joel Frischknecht   |    B    |  1710   |
-| 7   | Daniel Szokody      |    B    |    -    |
-| 8   | Martin Eichenberger |    B    |    -    |
+| 6   | Ionut Duhalm        |    A    |    -    |
 
-_*provisorisch_
+_*provisorische Einteilung_
+
+### Gruppe B
+
+| SNr | Name                | Gruppe* | Wertung |
+|-----|---------------------|:-------:|:-------:|
+| 1   | Miguel Garcia       |  A / B  |  1788   |
+| 2   | Joel Frischknecht   |    B    |  1710   |
+| 3   | Lorenz Markus       |    B    |  1508   |
+| 4   | Daniel Szokody      |    B    |    -    |
+| 5   | Martin Eichenberger |    B    |    -    |
+
+_*provisorische Einteilung_
 
 ### Vergangene Klubmeisterschaften
 
