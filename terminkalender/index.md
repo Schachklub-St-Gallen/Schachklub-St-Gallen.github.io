@@ -7,7 +7,7 @@ subtitle: Aktueller Terminkalender 2023
 ### Frühjahr 2023
 
 | Monat                    | Datum                 |          Zeit          |     Ort     |                             Veranstaltung                              |
-| ------------------------ | --------------------- | :--------------------: | :---------: | :--------------------------------------------------------------------: |
+|--------------------------|-----------------------|:----------------------:|:-----------:|:----------------------------------------------------------------------:|
 | <strong>Januar</strong>  | <nobr>Mo 02.01</nobr> |           -            |      -      |                    (Winterferien, kein Klubbetrieb)                    |
 |                          | <nobr>Sa 07.01</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |    SGM: Triesen – SG1 / Bodan – SG2 / SG3 – Flawil / Triesen – SG4     |
 |                          | <nobr>Mo 09.01</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Neujahrsrapidcup RD 1                          |
@@ -31,13 +31,13 @@ subtitle: Aktueller Terminkalender 2023
 |                          | <nobr>Mo 10.04</nobr> |           -            |      -      |                  (Frühlingsferien, kein Klubbetrieb)                   |
 |                          | <nobr>Mo 17.04</nobr> |           -            |      -      |                  (Frühlingsferien, kein Klubbetrieb)                   |
 |                          | <nobr>Mo 24.04</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |         <span style="color:red">Klubmeisterschaft RD 1</span>          |
-| <strong>Mai</strong>     | <nobr>Mo 01.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
-|                          | <nobr>Mo 08.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 2                         |
-|                          | <nobr>Mo 15.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 3                         |
-|                          | <nobr>Mo 22.05</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 4                         |
+| <strong>Mai</strong>     | <nobr>Mo 01.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
+|                          | <nobr>Mo 08.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 2                         |
+|                          | <nobr>Mo 15.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 3                         |
+|                          | <nobr>Mo 22.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 4                         |
 |                          | <nobr>Mo 29.05</nobr> |           -            |      -      |                   (Pfingstmontag, kein Klubbetrieb)                    |
-| <strong>Juni</strong>    | <nobr>Mo 05.06</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 5                         |
-|                          | <nobr>Mo 12.06</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
-|                          | <nobr>Mo 19.06</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
-|                          | <nobr>Mo 26.06</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                     St. Galler Blitzmeisterschaft                      |
-| <strong>Juli</strong>    | <nobr>Mo 03.07</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |     <span style="color:red">Simultan mit IM Milan Novkovic</span>      |
+| <strong>Juni</strong>    | <nobr>Mo 05.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                         Klubmeisterschaft RD 5                         |
+|                          | <nobr>Mo 12.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
+|                          | <nobr>Mo 19.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
+|                          | <nobr>Mo 26.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                     St. Galler Blitzmeisterschaft                      |
+| <strong>Juli</strong>    | <nobr>Mo 03.07</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">Simultan mit IM Milan Novkovic</span>      |
