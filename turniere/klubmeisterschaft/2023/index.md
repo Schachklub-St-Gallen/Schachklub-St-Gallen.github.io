@@ -28,9 +28,10 @@ _*provisorische Einteilung_
 |-----|---------------------|:-------:|:-------:|
 | 1   | Miguel Garcia       |  A / B  |  1788   |
 | 2   | Joel Frischknecht   |    B    |  1710   |
-| 3   | Lorenz Markus       |    B    |  1508   |
-| 4   | Daniel Szokody      |    B    |    -    |
-| 5   | Martin Eichenberger |    B    |    -    |
+| 2   | Wilfrid Schmid      |    B    |  1570   |
+| 4   | Lorenz Markus       |    B    |  1508   |
+| 5   | Daniel Szokody      |    B    |    -    |
+| 6   | Martin Eichenberger |    B    |    -    |
 
 _*provisorische Einteilung_
 
