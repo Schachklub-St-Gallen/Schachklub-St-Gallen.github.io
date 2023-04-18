@@ -11,14 +11,14 @@ sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 
 ### Gruppe A
 
-| SNr | Name                | Gruppe* | Wertung |
-|-----|---------------------|:-------:|:-------:|
-| 1   | Frank Wittenbrock   |    A    |  1977   |
-| 2   | Dimitri Kindle      |    A    |  1920   |
-| 3   | Peter Bischoff      | A (/ B) |  1825   |
-| 4   | Wolfgang Eisenbeiss |    A    |  1792   |
-| 5   | Jan Frei            |  A / B  |  1739   |
-| 6   | Ionut Duhalm        |    A    |    -    |
+| SNr | Name                 | Gruppe* | Wertung |
+|-----|----------------------|:-------:|:-------:|
+| 1   | Frank Wittenbrock    |    A    |  1977   |
+| 2   | Hansueli Baumgartner |    A    |  1971   |
+| 3   | Dimitri Kindle       |    A    |  1920   |
+| 4   | Peter Bischoff       | A (/ B) |  1825   |
+| 5   | Wolfgang Eisenbeiss  |    A    |  1792   |
+| 6   | Ionut Duhalm         |    A    |    -    |
 
 _*provisorische Einteilung_
 
@@ -27,11 +27,13 @@ _*provisorische Einteilung_
 | SNr | Name                | Gruppe* | Wertung |
 |-----|---------------------|:-------:|:-------:|
 | 1   | Miguel Garcia       |  A / B  |  1788   |
-| 2   | Joel Frischknecht   |    B    |  1710   |
-| 2   | Wilfrid Schmid      |    B    |  1570   |
-| 4   | Lorenz Markus       |    B    |  1508   |
-| 5   | Daniel Szokody      |    B    |    -    |
-| 6   | Martin Eichenberger |    B    |    -    |
+| 2   | Jan Frei            |  A / B  |  1739   |
+| 3   | Joel Frischknecht   |    B    |  1710   |
+| 4   | Wilfrid Schmid      |    B    |  1570   |
+| 5   | Lorenz Markus       |    B    |  1508   |
+| 6   | Thomas Gebhardt     |    B    |  1473   |
+| 7   | Daniel Szokody      |    B    |    -    |
+| 8   | Martin Eichenberger |    B    |    -    |
 
 _*provisorische Einteilung_
 
