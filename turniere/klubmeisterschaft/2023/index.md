@@ -11,15 +11,16 @@ sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 
 ### Gruppe A
 
-| SNr | Name                | Gruppe* | Wertung |
-|-----|---------------------|:-------:|:-------:|
-| 1   | Frank Wittenbrock   |    A    |  1977   |
-| 2   | Dimitri Kindle      |    A    |  1920   |
-| 3   | Peter Bischoff      | A (/ B) |  1825   |
-| 4   | Wolfgang Eisenbeiss |    A    |  1792   |
-| 5   | Miguel Garcia       |  A / B  |  1788   |
-| 6   | Jan Frei            |  A / B  |  1739   |
-| 7   | Ionut Duhalm        |    A    |    -    |
+| SNr | Name                 | Gruppe* | Wertung |
+|-----|----------------------|:-------:|:-------:|
+| 1   | Frank Wittenbrock    |    A    |  1977   |
+| 2   | Hansueli Baumgartner |    A    |  1971   |
+| 3   | Dimitri Kindle       |    A    |  1920   |
+| 4   | Peter Bischoff       | A (/ B) |  1825   |
+| 5   | Wolfgang Eisenbeiss  |    A    |  1792   |
+| 6   | Miguel Garcia        |  A / B  |  1788   |
+| 7   | Jan Frei             |  A / B  |  1739   |
+| 8   | Ionut Duhalm         |    A    |    -    |
 
 _*provisorische Einteilung_
 
@@ -31,10 +32,11 @@ _*provisorische Einteilung_
 | 2   | Wilfrid Schmid      |    B    |  1570   |
 | 3   | Lorenz Markus       |    B    |  1508   |
 | 4   | Miro Settegrana     |    B    |  1319   |
-| 5   | Martin Eichenberger |    B    |    -    |
-| 6   | Darko Gluvacevic    |    B    |    -    |
-| 7   | Yvan Stucki         |    B    |    -    |
-| 8   | Daniel Szokody      |    B    |    -    |
+| 5   | Thomas Gebhardt     |    B    |  1473   |
+| 6   | Martin Eichenberger |    B    |    -    |
+| 7   | Darko Gluvacevic    |    B    |    -    |
+| 8   | Yvan Stucki         |    B    |    -    |
+| 9   | Daniel Szokody      |    B    |    -    |
 
 _*provisorische Einteilung_
 
