@@ -7,7 +7,7 @@ subtitle: Alle Informationen zur Klubmeisterschaft 2023
 Die diesjährige Klubmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung
 sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 
-## Teilnehmerliste (Stand 10.04.2023)
+## Teilnehmerliste (Stand 21.04.2023)
 
 ### Gruppe A
 
@@ -36,8 +36,9 @@ _*provisorische Einteilung_
 | 6   | Thomas Gebhardt     |    B    |  1473   |
 | 7   | Martin Eichenberger |    B    |    -    |
 | 8   | Darko Gluvacevic    |    B    |    -    |
-| 9   | Yvan Stucki         |    B    |    -    |
-| 10  | Daniel Szokody      |    B    |    -    |
+| 9   | Philipp Korosec     |    B    |    -    |
+| 10  | Yvan Stucki         |    B    |    -    |
+| 11  | Daniel Szokody      |    B    |    -    |
 
 _*provisorische Einteilung_
 
