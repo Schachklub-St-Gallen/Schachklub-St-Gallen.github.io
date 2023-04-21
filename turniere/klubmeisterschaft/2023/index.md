@@ -14,11 +14,11 @@ sind in der [Ausschreibung](Klubmeisterschaft2023.pdf){:target="\_blank"}.
 | SNr | Name                 | Gruppe* | Wertung |
 |-----|----------------------|:-------:|:-------:|
 | 1   | Frank Wittenbrock    |    A    |  1977   |
-| 2   | Hansueli Baumgartner |    A    |  1971   |
-| 3   | Dimitri Kindle       |    A    |  1920   |
-| 4   | Peter Bischoff       | A (/ B) |  1825   |
-| 5   | Wolfgang Eisenbeiss  |    A    |  1792   |
-| 6   | Miguel Garcia        |  A / B  |  1788   |
+| 2   | Halit Rexhepi        |    A    |  1974   |
+| 3   | Hansueli Baumgartner |    A    |  1971   |
+| 4   | Dimitri Kindle       |    A    |  1920   |
+| 5   | Peter Bischoff       | A (/ B) |  1825   |
+| 6   | Wolfgang Eisenbeiss  |    A    |  1792   |
 | 7   | Jan Frei             |  A / B  |  1739   |
 | 8   | Ionut Duhalm         |    A    |    -    |
 
@@ -28,15 +28,16 @@ _*provisorische Einteilung_
 
 | SNr | Name                | Gruppe* | Wertung |
 |-----|---------------------|:-------:|:-------:|
-| 1   | Joel Frischknecht   |    B    |  1710   |
-| 2   | Wilfrid Schmid      |    B    |  1570   |
-| 3   | Lorenz Markus       |    B    |  1508   |
-| 4   | Miro Settegrana     |    B    |  1319   |
-| 5   | Thomas Gebhardt     |    B    |  1473   |
-| 6   | Martin Eichenberger |    B    |    -    |
-| 7   | Darko Gluvacevic    |    B    |    -    |
-| 8   | Yvan Stucki         |    B    |    -    |
-| 9   | Daniel Szokody      |    B    |    -    |
+| 1   | Miguel Garcia       |  A / B  |  1788   |
+| 2   | Joel Frischknecht   |    B    |  1710   |
+| 3   | Wilfrid Schmid      |    B    |  1570   |
+| 4   | Lorenz Markus       |    B    |  1508   |
+| 5   | Miro Settegrana     |    B    |  1319   |
+| 6   | Thomas Gebhardt     |    B    |  1473   |
+| 7   | Martin Eichenberger |    B    |    -    |
+| 8   | Darko Gluvacevic    |    B    |    -    |
+| 9   | Yvan Stucki         |    B    |    -    |
+| 10  | Daniel Szokody      |    B    |    -    |
 
 _*provisorische Einteilung_
 
