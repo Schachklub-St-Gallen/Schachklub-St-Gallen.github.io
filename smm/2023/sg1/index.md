@@ -4,6 +4,8 @@ title: SMM 2023
 subtitle: Alle Informationen zur SMM-Saison 2023
 ---
 
+{% include smm/2023/smm-buttons.html %}
+
 ## St. Gallen 1
 
 St. Gallen 1 spielt in der
