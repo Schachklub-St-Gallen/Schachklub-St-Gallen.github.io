@@ -2,13 +2,13 @@
         onclick="window.location.href='/smm/2023/sg1';">
     St. Gallen 1
 </button>
-<button type="button" class="btn btn-light btn-lg" onclick="window.location.href='/smm/2023/sg2';">
+<button type="button" class="btn btn-light btn-lg {% if include.active == 2 %}active{% endif %}" onclick="window.location.href='/smm/2023/sg2';">
     St. Gallen 2
 </button>
-<button type="button" class="btn btn-light btn-lg" onclick="window.location.href='/smm/2023/sg3';">
+<button type="button" class="btn btn-light btn-lg {% if include.active == 3 %}active{% endif %}" onclick="window.location.href='/smm/2023/sg3';">
     St. Gallen 3
 </button>
-<button type="button" class="btn btn-light btn-lg" onclick="window.location.href='/smm/2023/sg4';">
+<button type="button" class="btn btn-light btn-lg {% if include.active == 4 %}active{% endif %}" onclick="window.location.href='/smm/2023/sg4';">
     St. Gallen 4
 </button>
 

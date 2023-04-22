@@ -26,6 +26,9 @@ navbar-links:
     - Klubmeisterschaft: "turniere/klubmeisterschaft/2023"
     - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2022"
     - Rapid Grand Prix: "turniere/rapidgrandprix/2023"
+  Schachsport:
+    - SMM: "smm/2023/sg1"
+    - Führungsliste: "fuehrungsliste"
   Terminkalender: "terminkalender"
   Schachschule: "https://www.schachschule-sg.ch/"
   Archiv: "http://archiv.schachklub-sg.ch/"
