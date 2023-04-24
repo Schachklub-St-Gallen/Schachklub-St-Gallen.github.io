@@ -1,0 +1,23 @@
+<ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a class="nav-link" href="#b-runde-1" data-toggle="tab">1. Runde</a>
+    </li>
+    <li class="nav-item active">
+        <a class="nav-link active" href="#b-runde-2" data-toggle="tab">2. Runde</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#b-startrangliste" data-toggle="tab">Startrangliste</a>
+    </li>
+</ul>
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane" id="b-runde-1">
+        {% include turniere/klubmeisterschaft/2023/b/runde-1.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane active" id="b-runde-2">
+        {% include turniere/klubmeisterschaft/2023/b/runde-2.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="b-startrangliste">
+        {% include turniere/klubmeisterschaft/2023/b/startrangliste.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="match"></div>
+</div>
