@@ -18,6 +18,10 @@ target="\_blank"} unter Teamcaptain Roman Schmuki.
 
 _Zwischentabelle nach der 1. Runde_
 
+## 2. Runde - 29. April 2023
+
+{% include smm/2023/sg1/bericht-r2.md %}
+
 ## 1. Runde - 15. April 2023
 
 {% include smm/2023/sg1/bericht-r1.md %}
