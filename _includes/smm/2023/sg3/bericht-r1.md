@@ -15,6 +15,6 @@ Gegner, obwohl aus der Eröffnung heraus hat sein Gegner zu passiven Spiel gedr�
 Analyse im Nachhinein zerlegte seinen Spielaufbau mit einigen Fehlgriffen. Der versäumte Zug, den König in Sicherheit zu
 bringen, erfolgte im 36. Zug mit der langen Rochade, aber das auch nur eine optimistische Einschätzung, die auch zum
 Verlust der Partie führte. Auf dem Brett drei Livio und auf Brett 4 Thomas haben trotz Niederlage eine gut geführte
-Partie gespielt. Ausschlaggebend zum Verlust war die hoch bewertete ELO-Stärke der Gegner.
+Partie gespielt. Ausschlaggebend zum Verlust war das hohe ELO des Gegners.
 
 _Ludwig Sapulowitsch_
