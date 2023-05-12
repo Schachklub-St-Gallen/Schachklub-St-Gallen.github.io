@@ -9,8 +9,8 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 ## St. Gallen 3
 
 St. Gallen 3 spielt in der
-[4. Liga, Gruppe Ost 1](https://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMyZhcm91bmQ9MSZhbGlnYT02){:
-target="\_blank"} unter Teamcaptain Ludwig Sapulowitsch.
+{% include smm/2023/swisschess-link.html gruppe=601 liga=6 round=2 text="4. Liga, Gruppe Ost 1" %}
+unter Teamcaptain Ludwig Sapulowitsch.
 
 ## Zwischentabelle
 
