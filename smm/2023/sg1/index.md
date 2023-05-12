@@ -8,9 +8,8 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 
 ## St. Gallen 1
 
-St. Gallen 1 spielt in der
-[1. Liga, Gruppe Ost](https://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMyZhcm91bmQ9MSZhbGlnYT0z){:
-target="\_blank"} unter Teamcaptain Roman Schmuki.
+St. Gallen 1 spielt in der {% include smm/2023/sg1/tabelle.html gruppe=301 liga=3 round=2 text="1. Liga, Gruppe Ost" %}
+unter Teamcaptain Roman Schmuki.
 
 ## Zwischentabelle
 
