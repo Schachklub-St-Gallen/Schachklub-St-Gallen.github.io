@@ -1,7 +1,7 @@
-<a id="smm-link" data-gruppe="{{ include.gruppe }}" data-liga="{{ include.liga }}" data-runde="{{ include.runde }}" target="_blank">{{ include.text }}</a>
+<a id="smm-link" data-gruppe="{{ include.gruppe }}" data-liga="{{ include.liga }}" data-round="{{ include.round }}" target="_blank">{{ include.text }}</a>
 <script>
     var smmLink = document.getElementById("smm-link")
     smmLink.setAttribute("href", "https://www.swisschess.ch/smm.html?old=" +
             window.btoa("/turniere/smm.php?ajahr=2023&agruppe=" + smmLink.getAttribute("data-gruppe") +
-                "&aliga=" + smmLink.getAttribute("data-liga") + "&around=" + smmLink.getAttribute("data-runde")));
+                "&aliga=" + smmLink.getAttribute("data-liga") + "&around=" + smmLink.getAttribute("data-round")));
 </script>
