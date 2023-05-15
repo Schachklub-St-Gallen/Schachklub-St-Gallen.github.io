@@ -30,7 +30,7 @@ Remisangebote sind erst ab dem 31. Zug erlaubt
 
 ### Reglement
 
-Schweizer Meisterschaften U10, U12, U14, U16: Es gelten die FIDE-Regeln sowie das entsprechende Reglement auf [https://www.swisschess.ch/reglemente.html](https://www.swisschess.ch/reglemente.html) \
+Schweizer Meisterschaften U10, U12, U14, U16: Es gelten die FIDE-Regeln sowie das entsprechende Reglement auf [https://www.swisschess.ch/reglemente.html](https://www.swisschess.ch/reglemente.html){:target="\_blank"} \
 Wertung für die CH-Führungsliste, für U14 und U16 zusätzlich FIDE-Wertung.
 
 ### Preise
@@ -45,7 +45,7 @@ Turniereinsatz : CHF 50.
 ### Anmeldung
 
 Vor dem Turnier bis spätestens **14.September 2023** \
-Anmeldung via Formular auf http://www.schachklub-sg.ch/qualiturnier
+Anmeldung via Formular auf [https://www.schachklub-sg.ch/qualiturnier](https://www.schachklub-sg.ch/qualiturnier){:target="\_blank"}
 
 ### Bezahlung
 
