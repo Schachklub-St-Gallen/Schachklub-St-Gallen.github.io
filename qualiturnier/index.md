@@ -45,7 +45,7 @@ Turniereinsatz : CHF 50.
 ### Anmeldung
 
 Vor dem Turnier bis spätestens **14.September 2023** \
-Anmeldung via Formular auf [https://www.schachklub-sg.ch/qualiturnier](https://www.schachklub-sg.ch/qualiturnier){:target="\_blank"}
+Anmeldung via Formular auf [https://www.schachklub-sg.ch/qualiturnier](https://www.schachklub-sg.ch/qualiturnier)
 
 ### Bezahlung
 
