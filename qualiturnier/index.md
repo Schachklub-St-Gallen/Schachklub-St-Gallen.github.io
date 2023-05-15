@@ -4,11 +4,13 @@ title: Qualiturnier
 subtitle: 1. Qualifikationsturnier 22.- 24. September 2023 für die Schweizer Meisterschaft 2024 U10, U12, U14, U16 in Freidorf TG, Bahnhof Roggwil-Berg
 ---
 
-Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub St.Gallen
+_Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub St. Gallen_
 
-### Anmeldung
+## Anmeldung
 
 **Hier geht's zur [Anmeldung](https://docs.google.com/forms/d/1KUXtXy-7LMsHt9Bs1NnTi8dDjY5PikJvhRxQEzrLLf8){:target="\_blank"}**
+
+## Informationen
 
 ### Ort/Spiellokal
 
@@ -55,7 +57,7 @@ Anmeldung via Formular auf [https://www.schachklub-sg.ch/qualiturnier](https://w
 
 ### Auskunft
 
-qualiturnier@schachklub-sg.ch
+[qualiturnier@schachklub-sg.ch](qualiturnier@schachklub-sg.ch)
 
 
 ### Zeitplan U10/U12/U14/U16
@@ -86,8 +88,8 @@ Sonderkonditionen gibt es für das B&B Hotel in St. Fiden oder für Gruppen die 
 Es werden Menus zum Preis von 16.50 im Festzelt gleich neben der Spielhalle angeboten. In Freidorf selber befinden sich keine Verpflegungsmöglichkeiten.
 
 Mittagessen Samstag: \
-**a)** Spaghes Bolognese, Gemüse, Reibkäse \
-**b)** Spaghes mit Tomatensauce, Gemüse, Reibkäse
+**a)** Spaghetti Bolognese, Gemüse, Reibkäse \
+**b)** Spaghetti mit Tomatensauce, Gemüse, Reibkäse
 
 Mittagessen Sonntag: \
 **a)** Stroganoff vom Geflügelstreifen an Rahmsauce, Hausgemachte Spätzli, Gemüse \
@@ -99,7 +101,7 @@ Beim Turnierlokal wird ein Kiosk mit Getränken, Sandwiches, Snacks etc. geführ
 
 ### Anreise
 
-ÖV: **Bahnhof Roggwil-Berg**, 10 Minuten ab St.Gallen (S1) oder 13 Minuten ab Romanshorn
+ÖV: **Bahnhof Roggwil-Berg**, 10 Minuten ab St. Gallen (S1) oder 13 Minuten ab Romanshorn
 
 Auto: Diverse Gratis-Parkmöglichkeiten beim und in der Nähe des Spielareals: Jakobsbergstrasse, 9306 Freidorf TG
 
@@ -109,4 +111,4 @@ Teilnehmerlisten Die Teilnehmerlisten werden auf chess-results.com veröffentlic
 
 ### Turnierbereich
 
-Zutritt zum Turnierbereich erhalten nur die Teilnehmenden sowie die Veranstalter. Es gibt Platz für Elternund Begleiter im Festzelt neben dem Spiellokal.
+Zutritt zum Turnierbereich erhalten nur die Teilnehmenden sowie die Veranstalter. Es gibt Platz für Eltern und Begleiter im Festzelt neben dem Spiellokal.
