@@ -107,7 +107,7 @@ Auto: Diverse Gratis-Parkmöglichkeiten beim und in der Nähe des Spielareals: J
 
 ### Teilnehmerlisten
 
-Teilnehmerlisten Die Teilnehmerlisten werden auf chess-results.com veröffentlicht und regelmässig aktualisiert.
+Die Teilnehmerlisten werden auf chess-results.com veröffentlicht und regelmässig aktualisiert.
 
 ### Turnierbereich
 
