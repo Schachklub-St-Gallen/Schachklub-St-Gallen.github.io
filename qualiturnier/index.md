@@ -57,7 +57,7 @@ Anmeldung via Formular auf [https://www.schachklub-sg.ch/qualiturnier](https://w
 
 ### Auskunft
 
-[qualiturnier@schachklub-sg.ch](qualiturnier@schachklub-sg.ch)
+[qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
 
 
 ### Zeitplan U10/U12/U14/U16
