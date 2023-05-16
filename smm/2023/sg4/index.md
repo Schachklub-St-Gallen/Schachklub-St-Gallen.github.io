@@ -18,6 +18,10 @@ unter Teamcaptain Lorenz Markus.
 
 _Zwischentabelle nach der 1. Runde_
 
+## 3. Runde - 14. Mai 2023
+
+{% include smm/2023/sg4/bericht-r3.md %}
+
 ## 2. Runde - 29. April 2023
 
 {% include smm/2023/sg4/bericht-r2.md %}

@@ -1,11 +1,11 @@
-### Chur 3 - St. Gallen 3 (4 - 0)
+### Chur 3 - St. Gallen 3 (0 - 4)
 
-| Brett | Chur 3                     | St. Gallen 3             | 4-0 |
+| Brett | Chur 3                     | St. Gallen 3             | 0-4 |
 |-------|----------------------------|--------------------------|-----|
 | 1     | Werner Diggelmann (1431)   | Thomas Gebhardt (1473)   | 0-1 |
 | 2     | Andreas Louis Imhof (1421) | Martin Eichenberger (-)  | 0-1 |
 | 3     | Luzius Schmid (1400)       | Joel Frischknecht (1710) | 0-1 |
-| 4     | Matilda Bisculm  (-)       | Livio Ciardo (1323)      | 0-1 |
+| 4     | Matilda Bisculm (-)        | Livio Ciardo (1323)      | 0-1 |
 
 Nachdem wir gegen Romanshorn so deutlich verloren haben, konnten wir mit dem stärksten Aufgebot nach Chur fahren. Die
 Fahrt war sehr entspannt: schöne Landschaft in Frühlingsfarben und entlang der majestätisch anmutenden Churfirsten, die
