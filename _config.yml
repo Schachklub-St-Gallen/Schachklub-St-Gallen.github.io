@@ -23,7 +23,7 @@ navbar-links:
   Qualiturnier 2023: "qualiturnier"
   Über uns: "info"
   Berichte: "/"
-  Klubturniere:
+  Turnierübersicht:
     - Klubmeisterschaft: "turniere/klubmeisterschaft/2023"
     - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2022"
     - Rapid Grand Prix: "turniere/rapidgrandprix/2023"
