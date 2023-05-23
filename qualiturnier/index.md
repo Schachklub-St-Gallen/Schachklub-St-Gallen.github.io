@@ -57,7 +57,7 @@ Anmeldung via Formular auf [https://www.schachklub-sg.ch/qualiturnier](https://w
 
 ### Auskunft
 
-[qualiturnier@schachklub-sg.ch](qualiturnier@schachklub-sg.ch)
+[qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
 
 
 ### Zeitplan U10/U12/U14/U16
@@ -107,7 +107,7 @@ Auto: Diverse Gratis-Parkmöglichkeiten beim und in der Nähe des Spielareals: J
 
 ### Teilnehmerlisten
 
-Teilnehmerlisten Die Teilnehmerlisten werden auf chess-results.com veröffentlicht und regelmässig aktualisiert.
+Die Teilnehmerlisten werden auf chess-results.com veröffentlicht und regelmässig aktualisiert.
 
 ### Turnierbereich
 
