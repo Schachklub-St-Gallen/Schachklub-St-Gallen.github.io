@@ -4,7 +4,7 @@ title: Über uns
 subtitle: Alle Infos zum Schachklub St. Gallen.
 ---
 
-Der SK St. Gallen pflegt und fördert das Schachspiel. Der Klub wurde im Jahr 1862 gegründet und zählt rund 70 Mitglieder.
+Der SK St. Gallen pflegt und fördert das Schachspiel. Der Klub wurde im Jahr 1862 gegründet und zählt rund 90 Mitglieder.
 
 Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19.30 Uhr in das Schulhaus Tschudiwies, Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17.30 Uhr findet dort das Juniorentraining der in den Klub integrierten Schachschule St. Gallen statt.
 
@@ -34,9 +34,9 @@ Möchtest du Mitglied des Schachklubs St. Gallen werden oder einfach einmal rein
 ## Jugendschach
 
 - Spiel, Plausch und Turniere
-- Jeden Montag ausserin den Schulferien um 17:30 Uhr bis 19 Uhr im Schulhaus Tschudiwies.
+- Jeden Montag ausser in den Schulferien um 17:30 Uhr bis 19:30 Uhr im Schulhaus Tschudiwies.
 - Neue Interessenten bitte vorher [anmelden](https://www.schachschule-sg.ch/jugendschach/anmeldung){:target="\_blank"}.
-- Weiter Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/jugendschach/kurse){:target="\_blank"} zu finden.
+- Weitere Informationen sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/jugendschach/kurse){:target="\_blank"} zu finden.
 
 ## Schachkurse
 
