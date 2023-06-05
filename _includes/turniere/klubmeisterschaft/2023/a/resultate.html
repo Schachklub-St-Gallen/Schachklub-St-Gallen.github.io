@@ -1,6 +1,6 @@
 <ul class="nav nav-tabs">
-    <li class="nav-item">
-        <a class="nav-link" href="#a-zwischenrangliste" data-toggle="tab">Zwischenrangliste</a>
+    <li class="nav-item active">
+        <a class="nav-link active" href="#a-schlussrangliste" data-toggle="tab">Schlussrangliste</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="#a-runde-1" data-toggle="tab">1. Runde</a>
@@ -14,16 +14,16 @@
     <li class="nav-item">
         <a class="nav-link" href="#a-runde-4" data-toggle="tab">4. Runde</a>
     </li>
-    <li class="nav-item active">
-        <a class="nav-link active" href="#a-runde-5" data-toggle="tab">5. Runde</a>
+    <li class="nav-item">
+        <a class="nav-link" href="#a-runde-5" data-toggle="tab">5. Runde</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="#a-startrangliste" data-toggle="tab">Startrangliste</a>
     </li>
 </ul>
 <div class="tab-content">
-    <div role="tabpanel" class="tab-pane" id="a-zwischenrangliste">
-        {% include turniere/klubmeisterschaft/2023/a/zwischenrangliste.html %}
+    <div role="tabpanel" class="tab-pane active" id="a-schlussrangliste">
+        {% include turniere/klubmeisterschaft/2023/a/schlussrangliste.html %}
     </div>
     <div role="tabpanel" class="tab-pane" id="a-runde-1">
         {% include turniere/klubmeisterschaft/2023/a/runde-1.html %}
@@ -37,7 +37,7 @@
     <div role="tabpanel" class="tab-pane" id="a-runde-4">
         {% include turniere/klubmeisterschaft/2023/a/runde-4.html %}
     </div>
-    <div role="tabpanel" class="tab-pane active" id="a-runde-5">
+    <div role="tabpanel" class="tab-pane" id="a-runde-5">
         {% include turniere/klubmeisterschaft/2023/a/runde-5.html %}
     </div>
     <div role="tabpanel" class="tab-pane" id="a-startrangliste">
