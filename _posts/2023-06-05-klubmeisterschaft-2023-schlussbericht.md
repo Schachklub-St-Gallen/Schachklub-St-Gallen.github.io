@@ -25,11 +25,11 @@ _Die ersten sechs Plätze der Schlussrangliste. Die vollständige Rangliste sowi
 auf der Hauptseite der [Klubmeisterschaft 2023](/turniere/klubmeisterschaft/2023)._
 
 Diese Klubmeisterschaft ist seit langem wieder eine Klubmeisterschaft, die in Gruppen aufgeteilt ist. Gruppe A und
-Gruppe B sind zwei unabhängige Turniere, auch mit separatem Preistopf (welcher in Gruppe B leicht grösser ist).
+Gruppe B sind zwei unabhängige Turniere, auch mit separatem Preistopf (welcher deshalb in Gruppe B leicht grösser ist).
 
 Das Feedback für diesen Modus ist durchwegs positiv ausgefallen, und wir werden die nächstjährige Klubmeisterschaft nach
-Möglichkeit ebenfalls wieder mit Gruppen durchführen.
+Möglichkeit ebenfalls wieder mit zwei Gruppen durchführen.
 
-Ich bedanke mich für die rege Beteiligung, faire Spielweise und Gratuliere allen Preisgewinnern!
+Ich bedanke mich für die rege Beteiligung, faire Spielweise und gratuliere allen Preisgewinnern!
 
 _Jan Frei_
