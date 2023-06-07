@@ -41,3 +41,4 @@ subtitle: Aktueller Terminkalender 2023
 |                          | <nobr>Mo 19.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                           |
 |                          | <nobr>Mo 26.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                     St. Galler Blitzmeisterschaft                      |
 | <strong>Juli</strong>    | <nobr>Mo 03.07</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">Simultan mit IM Milan Novkovic</span>      |
+| <strong>August</strong>  | <nobr>Sa 12.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |               <span style="color:red">Sommerfest</span>                |
