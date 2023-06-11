@@ -18,6 +18,10 @@ unter Teamcaptain Jan Frei.
 
 _Zwischentabelle nach der 1. Runde_
 
+## 4. Runde - 10. Juni 2023
+
+{% include smm/2023/sg2/bericht-r4.md %}
+
 ## 3. Runde - 14. Mai 2023
 
 {% include smm/2023/sg2/bericht-r3.md %}
