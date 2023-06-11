@@ -16,7 +16,7 @@ unter Teamcaptain Ludwig Sapulowitsch.
 
 {% include smm/2023/sg3/tabelle.html %}
 
-_Zwischentabelle nach der 1. Runde_
+_Zwischentabelle nach der 3. Runde_
 
 ## 4. Runde - 10. Juni 2023
 
