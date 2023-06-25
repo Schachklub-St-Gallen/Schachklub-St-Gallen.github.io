@@ -18,6 +18,10 @@ unter Teamcaptain Roman Schmuki.
 
 _Zwischentabelle nach der 3. Runde_
 
+## 5. Runde - 24. Juni 2023
+
+{% include smm/2023/sg1/bericht-r5.md %}
+
 ## 4. Runde - 10. Juni 2023
 
 {% include smm/2023/sg1/bericht-r4.md %}
