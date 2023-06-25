@@ -9,7 +9,7 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 ## St. Gallen 4
 
 St. Gallen 4 spielt in der
-{% include smm/2023/swisschess-link.html gruppe=602 liga=6 round=2 text="4. Liga, Gruppe Ost 2" %}
+{% include smm/2023/swisschess-link.html gruppe=602 liga=6 round=4 text="4. Liga, Gruppe Ost 2" %}
 unter Teamcaptain Lorenz Markus.
 
 ## Zwischentabelle
