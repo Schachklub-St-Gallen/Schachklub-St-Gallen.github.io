@@ -16,7 +16,7 @@ unter Teamcaptain Lorenz Markus.
 
 {% include smm/2023/sg4/tabelle.html %}
 
-_Zwischentabelle nach der 4. Runde_
+_Zwischentabelle nach der 5. Runde_
 
 ## 5. Runde - 24. Juni 2023
 
