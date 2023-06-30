@@ -107,7 +107,7 @@ Auto: Diverse Gratis-Parkmöglichkeiten beim und in der Nähe des Spielareals: J
 
 ### Teilnehmerlisten
 
-Die Teilnehmerlisten werden auf chess-results.com veröffentlicht und regelmässig aktualisiert.
+Die Teilnehmerlisten werden [auf der Homepage](https://www.schachklub-sg.ch/qualiturnier/startlisten) veröffentlicht und regelmässig aktualisiert.
 
 ### Turnierbereich
 
