@@ -5,7 +5,7 @@ title: Startlisten Qualiturnier
 
 Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisiert.
 
-**Die Anmeldung gilt erst mit der eingegangenem Überweisung als bestätigt.**
+**Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
 Letztes Update: 30.06.
 
