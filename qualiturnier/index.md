@@ -10,6 +10,10 @@ _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub S
 
 **Hier geht's zur [Anmeldung](https://docs.google.com/forms/d/1KUXtXy-7LMsHt9Bs1NnTi8dDjY5PikJvhRxQEzrLLf8){:target="\_blank"}**
 
+
+**Die Teilnehmerlisten werden [auf der Homepage](https://www.schachklub-sg.ch/qualiturnier/startlisten) veröffentlicht und regelmässig aktualisiert.**
+
+
 ## Informationen
 
 ### Ort/Spiellokal
@@ -33,7 +37,7 @@ Remisangebote sind erst ab dem 31. Zug erlaubt
 ### Reglement
 
 Schweizer Meisterschaften U10, U12, U14, U16: Es gelten die FIDE-Regeln sowie das entsprechende Reglement auf [https://www.swisschess.ch/reglemente.html](https://www.swisschess.ch/reglemente.html){:target="\_blank"} \
-Wertung für die CH-Führungsliste, für U14 und U16 zusätzlich FIDE-Wertung.
+Wertung für die CH-Führungsliste, für U14 und U16 zusätzlich FIDE-Wertung. Ein SSB-Code ist für die Teilnahme zwingend notwendig.
 
 ### Preise
 
