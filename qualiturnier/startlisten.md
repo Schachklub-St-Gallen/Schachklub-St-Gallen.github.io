@@ -7,16 +7,18 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 05.07.
+Letztes Update: 08.07.
 
 ## U10
 
-| Name     | Vorname |
-|----------|---------|
-| Aragonda | Sahasra |
-| Csonka   | Benedek |
-| Posch    | Jasmin  |
-| Posch    | Jonas   |
+| Name              | Vorname |
+|-------------------|---------|
+| Aragonda          | Sahasra |
+| Csonka            | Benedek |
+| Krokowski-Bednarz | Leon    |
+| Posch             | Jasmin  |
+| Posch             | Jonas   |
+| Stolper           | Felix   |
 
 
 
@@ -32,6 +34,7 @@ Letztes Update: 05.07.
 | Möbius    | Anton Friedrich Xi|
 | Pfaltz    | Niklas            |
 | Saminskij | Jan               |
+| Wilhelm   | Marco             |
 
 
 ## U14
@@ -57,6 +60,7 @@ Letztes Update: 05.07.
 | Bangerter  | Ena            |
 | Breyer     | Philippe       |
 | Breyer     | Thierry        |
+| Di France  | Alessio        |
 | Gade       | Niels Severin  |
 | Natéan     | Métille        |
 | Rappazzo   | Johannes       |
