@@ -60,7 +60,7 @@ Letztes Update: 08.07.
 | Bangerter  | Ena            |
 | Breyer     | Philippe       |
 | Breyer     | Thierry        |
-| Di France  | Alessio        |
+| Di Franco  | Alessio        |
 | Gade       | Niels Severin  |
 | Natéan     | Métille        |
 | Rappazzo   | Johannes       |
