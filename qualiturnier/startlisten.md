@@ -7,13 +7,15 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 12.07.
+Letztes Update: 16.07.
 
 ## U10
 
 | Name              | Vorname |
 |-------------------|---------|
 | Aragonda          | Sahasra |
+| Baïsse            | Axel    |
+| Boivin            | Rémi    |
 | Csonka            | Benedek |
 | Jung              | Noah    |
 | Krokowski-Bednarz | Leon    |
@@ -25,24 +27,27 @@ Letztes Update: 12.07.
 
 ## U12
 
-| Name      | Vorname           |
-|-----------|-------------------|
-| Csonka    | Huba              |
-| Dolfini   | Emanuele          |
-| Fry       | Aiko              |
-| Jordan    | Christina         |
-| Luisier   | Jurij             |
-| Michlmayr | Teo               |
-| Möbius    | Anton Friedrich Xi|
-| Pfaltz    | Niklas            |
-| Saminskij | Jan               |
-| Wilhelm   | Marco             |
+| Name       | Vorname           |
+|------------|-------------------|
+| Csonka     | Huba              |
+| Dolfini    | Emanuele          |
+| Fry        | Aiko              |
+| Jordan     | Christina         |
+| Luisier    | Jurij             |
+| Michlmayr  | Teo               |
+| Möbius     | Anton Friedrich Xi|
+| Pfaltz     | Niklas            |
+| Piacquadio | Riccardo Daniele  |
+| Saminskij  | Jan               |
+| Wilhelm    | Marco             |
 
 
 ## U14
 
 | Name        | Vorname          |
 |-------------|------------------|
+| Baïsse      | Rose             |
+| Boivin      | Clément          |
 | Csonka      | Donàt            |
 | Jordan      | Theodor          |
 | Kagushev    | Yaroslav         |
