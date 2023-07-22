@@ -29,6 +29,7 @@ Letztes Update: 16.07.
 
 | Name       | Vorname           |
 |------------|-------------------|
+| Bigler     | Simon             |
 | Csonka     | Huba              |
 | Dolfini    | Emanuele          |
 | Fry        | Aiko              |
@@ -38,7 +39,9 @@ Letztes Update: 16.07.
 | Möbius     | Anton Friedrich Xi|
 | Pfaltz     | Niklas            |
 | Piacquadio | Riccardo Daniele  |
+| Schmid     | Haiko             |
 | Saminskij  | Jan               |
+| Voronov    | Victor            |
 | Wilhelm    | Marco             |
 
 
@@ -49,9 +52,11 @@ Letztes Update: 16.07.
 | Baïsse      | Rose             |
 | Boivin      | Clément          |
 | Csonka      | Donàt            |
+| Federer     | Colin            |
 | Jordan      | Theodor          |
 | Kagushev    | Yaroslav         |
 | Kanana      | Ziad             |
+| Kinyo       | Oliver           |
 | Möbius      | Anna Maria Rui   |
 | Pfaltz      | Maximilian       |
 | Pinelli     | Gian             |
@@ -70,6 +75,8 @@ Letztes Update: 16.07.
 | Di Franco  | Alessio        |
 | Fry        | Ryunosuke      |
 | Gade       | Niels Severin  |
+| Guyer      | Marlon         |
+| Hofstetter | Noah           |
 | Natéan     | Métille        |
 | Rappazzo   | Johannes       |
 
