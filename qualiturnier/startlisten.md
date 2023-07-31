@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 22.07.
+Letztes Update: 31.07.
 
 ## U10
 
@@ -34,6 +34,7 @@ Letztes Update: 22.07.
 | Dolfini    | Emanuele          |
 | Fry        | Aiko              |
 | Jordan     | Christina         |
+| Kasper     | Anna              |
 | Luisier    | Jurij             |
 | Michlmayr  | Teo               |
 | Möbius     | Anton Friedrich Xi|
@@ -49,6 +50,7 @@ Letztes Update: 22.07.
 
 | Name        | Vorname          |
 |-------------|------------------|
+| Aregger     | Nando            |
 | Baïsse      | Rose             |
 | Boivin      | Clément          |
 | Csonka      | Donàt            |
