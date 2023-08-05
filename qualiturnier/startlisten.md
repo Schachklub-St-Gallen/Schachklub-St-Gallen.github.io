@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 31.07.
+Letztes Update: 05.08.
 
 ## U10
 
@@ -33,6 +33,7 @@ Letztes Update: 31.07.
 | Csonka     | Huba              |
 | Dolfini    | Emanuele          |
 | Fry        | Aiko              |
+| Gregor     | Elena             |
 | Jordan     | Christina         |
 | Kasper     | Anna              |
 | Luisier    | Jurij             |
@@ -55,6 +56,7 @@ Letztes Update: 31.07.
 | Boivin      | Clément          |
 | Csonka      | Donàt            |
 | Federer     | Colin            |
+| Infanger    | Philip           |
 | Jordan      | Theodor          |
 | Kagushev    | Yaroslav         |
 | Kanana      | Ziad             |
@@ -74,6 +76,7 @@ Letztes Update: 31.07.
 | Bangerter  | Ena            |
 | Breyer     | Philippe       |
 | Breyer     | Thierry        |
+| Brüssow    | Nina           |
 | Di Franco  | Alessio        |
 | Fry        | Ryunosuke      |
 | Gade       | Niels Severin  |
