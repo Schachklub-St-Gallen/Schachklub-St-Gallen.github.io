@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 05.08.
+Letztes Update: 10.08.
 
 ## U10
 
@@ -65,6 +65,7 @@ Letztes Update: 05.08.
 | Pfaltz      | Maximilian       |
 | Pinelli     | Gian             |
 | Saranbaatar | Telmen           |
+| Scherer     | Marc             |
 | Yakushev    | Nils             |
 
 
