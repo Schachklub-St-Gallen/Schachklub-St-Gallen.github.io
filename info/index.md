@@ -12,7 +12,7 @@ Der Klub nimmt mit je vier Teams teil an der Schweizer Mannschaftsmeisterschaft 
 
 Wir freuen uns über jede(n), der reinschaut! Für Anfänger bieten wir ein bis zweimal im Jahr Einsteigerkurse an.
 
-[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/info){: .mini-map-tschudiwies}
+[![Karte](/assets/img/MiniKarteTschudiwies208.jpg)](/info/#anreise){: .mini-map-tschudiwies}
 
 ## Klubabend
 
@@ -22,6 +22,13 @@ Tschudistrasse 21\
 9000 St. Gallen
 
 Alle Infos zu jedem Klubabend sind im **[Terminkalender](../terminkalender)** zu finden.
+
+## Anreise
+
+- **ÖV**: Das Klublokal befindet sich ca. 10 bis 15 Gehminuten vom Bahnhof St. Gallen entfernt. Mit der Buslinie 5 in Richtung Riethüsli, bei der Haltestelle Melonenstrasse aussteigen.
+- **Auto**: In den anliegenden Strassen um das Klublokal hat es Blaue Zonen Parkplätze. Das nächste Parkhaus ist das Parkhaus Kreuzbleiche, welches gut 10 Gehminuten vom Klublokal entfernt ist.
+
+Das Klublokal befindet sich im 1. Stock im linken Gebäude des ehemaligen Schulhauses Tschudiwies.
 
 <iframe width="100%" height="520" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d674.93530140726!2d9.365126888139532!3d47.416988806160745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b1fca7162f0e7%3A0x4b117315f3b797f3!2sTschudistrasse+21%2C+9000+St.+Gallen!5e0!3m2!1sde!2sch!4v1522354086375"></iframe>
 
