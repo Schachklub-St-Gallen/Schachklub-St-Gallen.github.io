@@ -81,6 +81,7 @@ Letztes Update: 19.08.
 | Federer     | Colin            |
 | Ghisla      | Ireneo           |
 | Infanger    | Philip           |
+| Jakubczyk   | Martin           |
 | Jordan      | Theodor          |
 | Kagushev    | Yaroslav         |
 | Kanana      | Ziad             |
