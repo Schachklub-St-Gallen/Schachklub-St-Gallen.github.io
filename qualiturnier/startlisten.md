@@ -42,7 +42,7 @@ Letztes Update: 19.08.
 | Aravind     | Avyukt            |
 | Bachmann    | Elias             |
 | Bigler      | Simon             |
-| Borer       | Beat              |
+| Borer       | Bent              |
 | Csonka      | Huba              |
 | Dickmann    | Franco            |
 | Dolfini     | Emanuele          |
