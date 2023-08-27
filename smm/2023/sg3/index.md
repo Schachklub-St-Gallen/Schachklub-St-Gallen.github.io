@@ -9,7 +9,7 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 ## St. Gallen 3
 
 St. Gallen 3 spielt in der
-{% include smm/2023/swisschess-link.html gruppe=601 liga=6 round=4 text="4. Liga, Gruppe Ost 1" %}
+{% include smm/2023/swisschess-link.html gruppe=601 liga=6 round=5 text="4. Liga, Gruppe Ost 1" %}
 unter Teamcaptain Ludwig Sapulowitsch.
 
 ## Zwischentabelle
@@ -17,6 +17,10 @@ unter Teamcaptain Ludwig Sapulowitsch.
 {% include smm/2023/sg3/tabelle.html %}
 
 _Zwischentabelle nach der 5. Runde_
+
+## 6. Runde - 27. August 2023
+
+{% include smm/2023/sg3/bericht-r6.md %}
 
 ## 5. Runde - 24. Juni 2023
 
