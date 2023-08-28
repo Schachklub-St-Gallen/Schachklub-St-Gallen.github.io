@@ -16,7 +16,7 @@ unter Teamcaptain Jan Frei.
 
 {% include smm/2023/sg2/tabelle.html %}
 
-_Zwischentabelle nach der 5. Runde_
+_Zwischentabelle nach der 6. Runde_
 
 ## 6. Runde - 27. August 2023
 
