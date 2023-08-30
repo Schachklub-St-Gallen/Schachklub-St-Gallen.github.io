@@ -17,7 +17,7 @@ Letztes Update: 25.08.
 | Bachmann          | Nils       |
 | Baïsse            | Axel       |
 | Bhatiya           | Ansh       |
-| Boivin            | Rémi       |
+| Boivin            | Clément    |
 | Csonka            | Benedek    |
 | Develey           | Ely        |
 | Develey           | Isaiah     |
@@ -97,7 +97,7 @@ Letztes Update: 25.08.
 | Angelovski    | Emanuel          |
 | Aregger       | Nando            |
 | Baïsse        | Rose             |
-| Boivin        | Clément          |
+| Boivin        | Rémi             |
 | Chavy         | Maxime           |
 | Csonka        | Donàt            |
 | Federer       | Colin            |
