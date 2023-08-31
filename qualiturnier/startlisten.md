@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 25.08.
+Letztes Update: 31.08.
 
 ## U10
 
@@ -18,11 +18,14 @@ Letztes Update: 25.08.
 | Baïsse            | Axel       |
 | Bhatiya           | Ansh       |
 | Boivin            | Clément    |
+| Carnevale-Arella  | Loic       |
+| Champion          | Henri      |
 | Csonka            | Benedek    |
 | Develey           | Ely        |
 | Develey           | Isaiah     |
 | Jung              | Noah       |
 | Kammerlander      | Jan        |
+| Kostov            | Magnus     |
 | Krokowski-Bednarz | Leon       |
 | Li                | Yimo       |
 | Liao              | Ding       |
@@ -34,10 +37,14 @@ Letztes Update: 25.08.
 | Rosset            | Ruben      |
 | Schneitter        | Leon       |
 | Sevrin            | Louis      |
+| Shahmammadli      | Ramiz      |
 | Stolper           | Felix      |
 | Taboriskiy        | Lev        |
+| Tamburrano        | Alicia     |
+| Thilak            | Aarav      |
 | Varghese          | Vivan      |
 | Weis              | Robert     |
+| Wichser           | Finn       |
 | Zimmerli          | Elia Michel|
 
 
@@ -57,10 +64,13 @@ Letztes Update: 25.08.
 | Csonka       | Huba              |
 | Dickmann     | Franco            |
 | Dolfini      | Emanuele          |
+| Dübler       | Lorenzo           |
 | Fry          | Aiko              |
+| Garcia       | Elias             |
 | Geissler     | Luca              |
 | Gong         | Yansheng          |
 | Gregor       | Elena             |
+| Guerra       | Oliver            |
 | Jordan       | Christina         |
 | Kasper       | Anna              |
 | Lluvich      | Matias            |
@@ -73,6 +83,7 @@ Letztes Update: 25.08.
 | Möbius       | Anton Friedrich Xi|
 | Moravanszky  | Moric             |
 | Neuschild    | Marius            |
+| Parmelin     | Axel              |
 | Pfaltz       | Niklas            |
 | Pfrunder     | Emil              |
 | Phung        | Felix             |
@@ -84,6 +95,7 @@ Letztes Update: 25.08.
 | Scheiffele   | Anton             |
 | Schmid       | Haiko             |
 | Speerli      | Carmen            |
+| Tamburrano   | Andres            |
 | Voronov      | Victor            |
 | Wilhelm      | Marco             |
 | Wyss         | Anina             |
@@ -98,6 +110,7 @@ Letztes Update: 25.08.
 | Aregger       | Nando            |
 | Baïsse        | Rose             |
 | Boivin        | Rémi             |
+| Cavigelli     | Jonas            |
 | Chavy         | Maxime           |
 | Csonka        | Donàt            |
 | Federer       | Colin            |
@@ -109,6 +122,7 @@ Letztes Update: 25.08.
 | Kanana        | Ziad             |
 | Kinyo         | Oliver           |
 | Köhalmi-Szabo | Mihaly           |
+| Kostov        | Troyan           |
 | Li            | Yinong           |
 | Liao          | Chen             |
 | Madhavan      | Kailash          |
@@ -147,6 +161,7 @@ Letztes Update: 25.08.
 | Hofstetter | Noah           |
 | Kasapidis  | Markos         |
 | Natéan     | Métille        |
+| Parmelin   | Evan           |
 | Perego     | Jonas Gion     |
 | Rappazzo   | Johannes       |
 | Stemmler   | Amaryllis      |
