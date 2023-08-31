@@ -11,42 +11,47 @@ Letztes Update: 31.08.
 
 ## U10
 
-| Name              | Vorname    |
-|-------------------|------------|
-| Aragonda          | Sahasra    |
-| Bachmann          | Nils       |
-| Baïsse            | Axel       |
-| Bhatiya           | Ansh       |
-| Boivin            | Clément    |
-| Carnevale-Arella  | Loic       |
-| Champion          | Henri      |
-| Ciftlik           | Bora       |
-| Csonka            | Benedek    |
-| Develey           | Ely        |
-| Develey           | Isaiah     |
-| Jung              | Noah       |
-| Kammerlander      | Jan        |
-| Kostov            | Magnus     |
-| Krokowski-Bednarz | Leon       |
-| Li                | Yimo       |
-| Liao              | Ding       |
-| Lüthi             | Evan       |
-| Paquette          | Mateo      |
-| Phung             | Tina       |
-| Posch             | Jasmin     |
-| Posch             | Jonas      |
-| Rosset            | Ruben      |
-| Schneitter        | Leon       |
-| Sevrin            | Louis      |
-| Shahmammadli      | Ramiz      |
-| Stolper           | Felix      |
-| Taboriskiy        | Lev        |
-| Tamburrano        | Alicia     |
-| Thilak            | Aarav      |
-| Varghese          | Vivan      |
-| Weis              | Robert     |
-| Wichser           | Finn       |
-| Zimmerli          | Elia Michel|
+| Name              | Vorname     |
+|-------------------|-------------|
+| Adnin             | Rafa        |
+| Aragonda          | Sahasra     |
+| Bachmann          | Nils        |
+| Baïsse            | Axel        |
+| Bhatiya           | Ansh        |
+| Boivin            | Clément     |
+| Carnevale-Arella  | Loic        |
+| Champion          | Henri       |
+| Ciftlik           | Bora        |
+| Csonka            | Benedek     |
+| Develey           | Ely         |
+| Develey           | Isaiah      |
+| Jung              | Noah        |
+| Kammerlander      | Jan         |
+| Kostov            | Magnus      |
+| Krokowski-Bednarz | Leon        |
+| Kwisda            | Phinnaeus   |
+| Li                | Yimo        |
+| Liao              | Ding        |
+| Lüthi             | Evan        |
+| Na                | Nick Hengbo |
+| Paquette          | Mateo       |
+| Phung             | Tina        |
+| Posch             | Jasmin      |
+| Posch             | Jonas       |
+| Rosset            | Ruben       |
+| Schneitter        | Leon        |
+| Sevrin            | Louis       |
+| Shahmammadli      | Ramiz       |
+| Stolper           | Felix       |
+| Taboriskiy        | Lev         |
+| Tamburrano        | Alicia      |
+| Thilak            | Aarav       |
+| Varghese          | Vivan       |
+| Visschedijk       | Amelia      |
+| Weis              | Robert      |
+| Wichser           | Finn        |
+| Zeindler          | Cai Andrej  |
+| Zimmerli          | Elia Michel |
 
 
 
@@ -56,6 +61,7 @@ Letztes Update: 31.08.
 |--------------|-------------------|
 | Aravind      | Avyukt            |
 | Bachmann     | Elias             |
+| Bazavan      | David             |
 | Bigler       | Simon             |
 | Borer        | Bent              |
 | Cavadini     | Alice             |
@@ -84,12 +90,14 @@ Letztes Update: 31.08.
 | Möbius       | Anton Friedrich Xi|
 | Moravanszky  | Moric             |
 | Neuschild    | Marius            |
+| Niemi        | Curdin            |
 | Parmelin     | Axel              |
 | Pfaltz       | Niklas            |
 | Pfrunder     | Emil              |
 | Phung        | Felix             |
 | Piacquadio   | Riccardo Daniele  |
 | Pyatigorskiy | Konstantin        |
+| Pycke        | Benjamin          |
 | Rogge        | Ferdinand         |
 | Rosset       | Anna              |
 | Saminskij    | Jan               |
@@ -113,7 +121,9 @@ Letztes Update: 31.08.
 | Boivin        | Rémi             |
 | Cavigelli     | Jonas            |
 | Chavy         | Maxime           |
+| Constantin    | David            |
 | Csonka        | Donàt            |
+| Durville      | Luc              |
 | Federer       | Colin            |
 | Ghisla        | Ireneo           |
 | Infanger      | Philip           |
@@ -125,6 +135,7 @@ Letztes Update: 31.08.
 | Köhalmi-Szabo | Mihaly           |
 | Kostov        | Troyan           |
 | Li            | Yinong           |
+| Liu           | Siqi             |
 | Liao          | Chen             |
 | Madhavan      | Kailash          |
 | Meichsner     | Orell            |
@@ -136,6 +147,7 @@ Letztes Update: 31.08.
 | Saranbaatar   | Telmen           |
 | Scherer       | Marc             |
 | Speerli       | Maria            |
+| Trevisan      | Nicolas          |
 | Turner-Fung   | Conall           |
 | Yakushev      | Nils             |
 
@@ -166,7 +178,9 @@ Letztes Update: 31.08.
 | Perego     | Jonas Gion     |
 | Rappazzo   | Johannes       |
 | Stemmler   | Amaryllis      |
+| Trevisan   | Alessandra     |
 | Trubini    | Timon          |
+
 
 
 
