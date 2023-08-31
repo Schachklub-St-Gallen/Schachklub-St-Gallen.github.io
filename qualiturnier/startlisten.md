@@ -20,6 +20,7 @@ Letztes Update: 31.08.
 | Boivin            | Clément    |
 | Carnevale-Arella  | Loic       |
 | Champion          | Henri      |
+| Ciftlik           | Bora       |
 | Csonka            | Benedek    |
 | Develey           | Ely        |
 | Develey           | Isaiah     |
