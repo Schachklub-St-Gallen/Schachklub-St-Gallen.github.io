@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 31.08.
+Letztes Update: 01.09.
 
 ## U10
 
@@ -23,6 +23,7 @@ Letztes Update: 31.08.
 | Champion          | Henri       |
 | Ciftlik           | Bora        |
 | Csonka            | Benedek     |
+| Devarasetty       | Vardhan     |
 | Develey           | Ely         |
 | Develey           | Isaiah      |
 | Jung              | Noah        |
@@ -57,58 +58,62 @@ Letztes Update: 31.08.
 
 ## U12
 
-| Name         | Vorname           |
-|--------------|-------------------|
-| Aravind      | Avyukt            |
-| Bachmann     | Elias             |
-| Bazavan      | David             |
-| Bigler       | Simon             |
-| Borer        | Bent              |
-| Cavadini     | Alice             |
-| Cavadini     | Tommaso           |
-| Cepila       | Petr              |
-| Coletta      | Axelle            |
-| Csonka       | Huba              |
-| Dickmann     | Franco            |
-| Dolfini      | Emanuele          |
-| Dübler       | Lorenzo           |
-| Fry          | Aiko              |
-| Garcia       | Elias             |
-| Geissler     | Luca              |
-| Gong         | Yansheng          |
-| Gregor       | Elena             |
-| Guerra       | Oliver            |
-| Jordan       | Christina         |
-| Kasper       | Anna              |
-| Lluvich      | Matias            |
-| Luisier      | Jurij             |
-| Mahapatra    | Samyakk           |
-| Meisinger    | Oskar             |
-| Metzger      | Sophia            |
-| Michlmayr    | Teo               |
-| Muenzer      | Natalie           |
-| Möbius       | Anton Friedrich Xi|
-| Moravanszky  | Moric             |
-| Neuschild    | Marius            |
-| Niemi        | Curdin            |
-| Parmelin     | Axel              |
-| Pfaltz       | Niklas            |
-| Pfrunder     | Emil              |
-| Phung        | Felix             |
-| Piacquadio   | Riccardo Daniele  |
-| Pyatigorskiy | Konstantin        |
-| Pycke        | Benjamin          |
-| Rogge        | Ferdinand         |
-| Rosset       | Anna              |
-| Saminskij    | Jan               |
-| Scheiffele   | Anton             |
-| Schmid       | Haiko             |
-| Speerli      | Carmen            |
-| Tamburrano   | Andres            |
-| Voronov      | Victor            |
-| Wilhelm      | Marco             |
-| Wyss         | Anina             |
-| Zink         | Amaury            |
+| Name         | Vorname            |
+|--------------|--------------------|
+| Aravind      | Avyukt             |
+| Atlas        | Daniel             |
+| Bachmann     | Elias              | 
+| Bazavan      | David              |
+| Bigler       | Simon              |
+| Borer        | Bent               |
+| Cavadini     | Alice              |
+| Cavadini     | Tommaso            |  
+| Cepila       | Petr               |
+| Coletta      | Axelle             |
+| Csonka       | Huba               |
+| Dickmann     | Franco             |
+| Dolfini      | Emanuele           |
+| Dübler       | Lorenzo            |
+| Forssberg    | Adam               |
+| Fry          | Aiko               |
+| Garcia       | Elias              |
+| Geissler     | Luca               |
+| Gong         | Yansheng           |
+| Gregor       | Elena              |
+| Guerra       | Oliver             |
+| Jordan       | Christina          |
+| Kasper       | Anna               |
+| Lluvich      | Matias             |
+| Luisier      | Jurij              |
+| Mahapatra    | Samyakk            |
+| Mallipudi    | Jovin Nimaikarthik |
+| Meisinger    | Oskar              |
+| Metzger      | Sophia             |
+| Michlmayr    | Teo                |
+| Muenzer      | Natalie            |
+| Möbius       | Anton Friedrich Xi |
+| Moravanszky  | Moric              |
+| Neuschild    | Marius             |
+| Niemi        | Curdin             |
+| Parmelin     | Axel               |
+| Pfaltz       | Niklas             |
+| Pfrunder     | Emil               |
+| Phung        | Felix              |
+| Piacquadio   | Riccardo Daniele   |
+| Pyatigorskiy | Konstantin         |
+| Pycke        | Benjamin           |
+| Rogge        | Ferdinand          |
+| Rosset       | Anna               |
+| Sahraei      | Iven               |
+| Saminskij    | Jan                |
+| Scheiffele   | Anton              |
+| Schmid       | Haiko              |
+| Speerli      | Carmen             |
+| Tamburrano   | Andres             |
+| Voronov      | Victor             |
+| Wilhelm      | Marco              |
+| Wyss         | Anina              |
+| Zink         | Amaury             | 
 
 
 ## U14
@@ -138,6 +143,7 @@ Letztes Update: 31.08.
 | Liu           | Siqi             |
 | Liao          | Chen             |
 | Madhavan      | Kailash          |
+| Mallipudi     | Vernmulyadeep    |
 | Meichsner     | Orell            |
 | Möbius        | Anna Maria Rui   |
 | Moravanszky   | Marton           |
@@ -147,6 +153,7 @@ Letztes Update: 31.08.
 | Saranbaatar   | Telmen           |
 | Scherer       | Marc             |
 | Speerli       | Maria            |
+| Tran          | Kevin Felix      |
 | Trevisan      | Nicolas          |
 | Turner-Fung   | Conall           |
 | Yakushev      | Nils             |
@@ -158,12 +165,14 @@ Letztes Update: 31.08.
 |------------|----------------|
 | Artan      | Tamir          |
 | Bangerter  | Ena            |
+| Bonvin     | Theo           |
 | Breyer     | Philippe       |
 | Breyer     | Thierry        |
 | Brüssow    | Nina           |
 | Cavadini   | Lavinia        |
 | Christen   | Michael        |
 | Coletta    | Julien         |
+| Dahmann    | Dan            |
 | Delangle   | Alexander      |
 | Di Franco  | Alessio        |
 | Fry        | Ryunosuke      |
