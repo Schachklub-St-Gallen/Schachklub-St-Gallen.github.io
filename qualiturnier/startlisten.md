@@ -26,6 +26,7 @@ Letztes Update: 01.09.
 | Devarasetty       | Vardhan     |
 | Develey           | Ely         |
 | Develey           | Isaiah      |
+| Forgiarini        | Francesco   |
 | Jung              | Noah        |
 | Kammerlander      | Jan         |
 | Kostov            | Magnus      |
