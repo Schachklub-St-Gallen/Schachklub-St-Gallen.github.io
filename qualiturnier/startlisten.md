@@ -106,7 +106,6 @@ Letztes Update: 02.09.
 | Rogge        | Ferdinand          |
 | Rosset       | Anna               |
 | Sahraei      | Iven               |
-| Saminskij    | Jan                |
 | Scheiffele   | Anton              |
 | Schmid       | Haiko              |
 | Speerli      | Carmen             |
@@ -151,6 +150,7 @@ Letztes Update: 02.09.
 | Navarini      | Vincent          |
 | Pfaltz        | Maximilian       |
 | Pinelli       | Gian             |
+| Saminskij     | Jan              |
 | Saranbaatar   | Telmen           |
 | Scherer       | Marc             |
 | Speerli       | Maria            |
