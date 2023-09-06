@@ -170,6 +170,7 @@ Letztes Update: 06.09.
 | Saranbaatar   | Telmen           |
 | Scherer       | Marc             |
 | Speerli       | Maria            |
+| Stevens       | Thomas           |
 | Tran          | Kevin Felix      |
 | Trevisan      | Nicolas          |
 | Turner-Fung   | Conall           |
