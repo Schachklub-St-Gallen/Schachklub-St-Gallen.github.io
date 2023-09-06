@@ -82,7 +82,6 @@ Letztes Update: 06.09.
 | Dickmann     | Franco             |
 | Dolfini      | Emanuele           |
 | Dübler       | Lorenzo            |
-| El Issawi    | Oliver             |
 | Forssberg    | Adam               |
 | Fry          | Aiko               |
 | Garcia       | Elias              |
@@ -141,6 +140,7 @@ Letztes Update: 06.09.
 | Csonka        | Donàt            |
 | Dhamdhere     | Siddhant         |
 | Durville      | Luc              |
+| El Issawi     | Oliver           |
 | Federer       | Colin            |
 | Ghisla        | Ireneo           |
 | Infanger      | Philip           |
