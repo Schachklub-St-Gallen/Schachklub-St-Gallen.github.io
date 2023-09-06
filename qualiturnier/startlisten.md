@@ -100,7 +100,6 @@ Letztes Update: 06.09.
 | Metzger      | Sophia             |
 | Michlmayr    | Teo                |
 | Muenzer      | Natalie            |
-| Möbius       | Anton Friedrich Xi |
 | Moravanszky  | Moric              |
 | Neuschild    | Marius             |
 | Niemi        | Curdin             |
@@ -160,7 +159,6 @@ Letztes Update: 06.09.
 | Madhavan      | Kailash          |
 | Mallipudi     | Vernmulyadeep    |
 | Meichsner     | Orell            |
-| Möbius        | Anna Maria Rui   |
 | Moravanszky   | Marton           |
 | Navarini      | Vincent          |
 | Pfaltz        | Maximilian       |
