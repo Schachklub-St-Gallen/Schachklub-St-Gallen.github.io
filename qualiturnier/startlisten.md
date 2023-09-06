@@ -207,6 +207,7 @@ Letztes Update: 06.09.
 | Perego     | Jonas Gion     |
 | Ram        | Sanjay         |
 | Rappazzo   | Johannes       |
+| Schneider  | Eliana Maylén  |
 | Sigg       | David          |
 | Stemmler   | Amaryllis      |
 | Trevisan   | Alessandra     |
