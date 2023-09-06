@@ -45,7 +45,6 @@ Letztes Update: 06.09.
 | Phung             | Tina        |
 | Posch             | Jasmin      |
 | Posch             | Jonas       |
-| Ram               | Karthik     |
 | Rosset            | Ruben       |
 | Schneitter        | Leon        |
 | Sevrin            | Louis       |
@@ -110,6 +109,7 @@ Letztes Update: 06.09.
 | Piacquadio   | Riccardo Daniele   |
 | Pyatigorskiy | Konstantin         |
 | Pycke        | Benjamin           |
+| Ram          | Karthik            |
 | Rogge        | Ferdinand          |
 | Rosset       | Anna               |
 | Rüegg        | Isabell            |
