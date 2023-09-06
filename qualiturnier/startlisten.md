@@ -97,8 +97,8 @@ Letztes Update: 06.09.
 | Meisinger    | Oskar              |
 | Metzger      | Sophia             |
 | Michlmayr    | Teo                |
-| Muenzer      | Natalie            |
 | Moravanszky  | Moric              |
+| Muenzer      | Natalie            |
 | Neuschild    | Marius             |
 | Niemi        | Curdin             |
 | Palairet     | Alexander          |
@@ -106,7 +106,6 @@ Letztes Update: 06.09.
 | Pfaltz       | Niklas             |
 | Pfrunder     | Emil               |
 | Phung        | Felix              |
-| Piacquadio   | Riccardo Daniele   |
 | Pyatigorskiy | Konstantin         |
 | Pycke        | Benjamin           |
 | Ram          | Karthik            |
@@ -154,14 +153,15 @@ Letztes Update: 06.09.
 | Köpke         | Aleksis          |
 | Kostov        | Troyan           |
 | Li            | Yinong           |
-| Liu           | Siqi             |
 | Liao          | Chen             |
+| Liu           | Siqi             |
 | Madhavan      | Kailash          |
 | Mallipudi     | Vernmulyadeep    |
 | Meichsner     | Orell            |
 | Moravanszky   | Marton           |
 | Navarini      | Vincent          |
 | Pfaltz        | Maximilian       |
+| Piacquadio    | Riccardo Daniele |
 | Pinelli       | Gian             |
 | Röthlin       | Lara             |
 | Saminskij     | Jan              |
