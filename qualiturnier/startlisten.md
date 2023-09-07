@@ -23,6 +23,8 @@ Letztes Update: 07.09.
 | Carnevale-Arella  | Loic        |
 | Champion          | Henri       |
 | Ciftlik           | Bora        |
+| Clermont          | Alexander   |
+| Clermont          | Amelie      |
 | Csonka            | Benedek     |
 | Devarasetty       | Vardhan     |
 | Develey           | Ely         |
@@ -76,8 +78,6 @@ Letztes Update: 07.09.
 | Cavadini     | Alice              |
 | Cavadini     | Tommaso            |  
 | Cepila       | Petr               |
-| Clermont     | Alexander          |
-| Clermont     | Amelie             |
 | Coletta      | Axelle             |
 | Csonka       | Huba               |
 | Dickmann     | Franco             |
