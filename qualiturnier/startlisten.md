@@ -76,6 +76,8 @@ Letztes Update: 06.09.
 | Cavadini     | Alice              |
 | Cavadini     | Tommaso            |  
 | Cepila       | Petr               |
+| Clermont     | Alexander          |
+| Clermont     | Amelie             |
 | Coletta      | Axelle             |
 | Csonka       | Huba               |
 | Dickmann     | Franco             |
@@ -119,6 +121,7 @@ Letztes Update: 06.09.
 | Speerli      | Carmen             |
 | Tamburrano   | Andres             |
 | Voronov      | Victor             |
+| Wild         | Arya               |
 | Wilhelm      | Marco              |
 | Wyss         | Anina              |
 | Zickar       | Mark Sebastian     |
@@ -135,6 +138,7 @@ Letztes Update: 06.09.
 | Boivin        | Rémi             |
 | Cavigelli     | Jonas            |
 | Chavy         | Maxime           |
+| Clermont      | Andreas          |
 | Constantin    | David            |
 | Csonka        | Donàt            |
 | Dhamdhere     | Siddhant         |
@@ -173,6 +177,7 @@ Letztes Update: 06.09.
 | Trevisan      | Nicolas          |
 | Turner-Fung   | Conall           |
 | Yakushev      | Nils             |
+| Zvoristeanu   | Remo             |
 
 
 ## U16
@@ -195,6 +200,7 @@ Letztes Update: 06.09.
 | Gade       | Niels Severin  |
 | Glanc      | Lea            |
 | Guyer      | Marlon         |
+| Gwerder    | Simon          |
 | Haas       | Anthony        |
 | Hofstetter | Noah           |
 | Kasapidis  | Markos         |
@@ -210,6 +216,7 @@ Letztes Update: 06.09.
 | Stemmler   | Amaryllis      |
 | Trevisan   | Alessandra     |
 | Trubini    | Timon          |
+| Yarovoy    | Nikita         |
 
 
 
