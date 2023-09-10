@@ -51,6 +51,7 @@ Letztes Update: 07.09.
 | Schneitter        | Leon        |
 | Sevrin            | Louis       |
 | Shahmammadli      | Ramiz       |
+| Späth             | Nikolaj     |
 | Stolper           | Felix       |
 | Taboriskiy        | Lev         |
 | Tamburrano        | Alicia      |
@@ -87,6 +88,7 @@ Letztes Update: 07.09.
 | Fry          | Aiko               |
 | Garcia       | Elias              |
 | Geissler     | Luca               |
+| George       | Kevin              |
 | Gong         | Yansheng           |
 | Gregor       | Elena              |
 | Guerra       | Oliver             |
@@ -168,6 +170,7 @@ Letztes Update: 07.09.
 | Piacquadio    | Riccardo Daniele |
 | Pinelli       | Gian             |
 | Röthlin       | Lara             |
+| Ruiz          | Elias            |
 | Saminskij     | Jan              |
 | Saranbaatar   | Telmen           |
 | Scherer       | Marc             |
@@ -176,6 +179,7 @@ Letztes Update: 07.09.
 | Tran          | Kevin Felix      |
 | Trevisan      | Nicolas          |
 | Turner-Fung   | Conall           |
+| Vadaturska    | Kateryna         |
 | Yakushev      | Nils             |
 | Zvoristeanu   | Remo             |
 
