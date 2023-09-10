@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 07.09.
+Letztes Update: 10.09.
 
 ## U10
 
