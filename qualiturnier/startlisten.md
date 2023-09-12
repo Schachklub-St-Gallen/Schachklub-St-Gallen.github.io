@@ -11,56 +11,58 @@ Letztes Update: 10.09.
 
 ## U10
 
-| Name              | Vorname     |
-|-------------------|-------------|
-| Adnin             | Rafa        |
-| Aeschbacher       | Grégoire    |
-| Aragonda          | Sahasra     |
-| Bachmann          | Nils        |
-| Baïsse            | Axel        |
-| Bhatiya           | Ansh        |
-| Boivin            | Clément     |
-| Carnevale-Arella  | Loic        |
-| Champion          | Henri       |
-| Ciftlik           | Bora        |
-| Clermont          | Alexander   |
-| Clermont          | Amelie      |
-| Csonka            | Benedek     |
-| Devarasetty       | Vardhan     |
-| Develey           | Ely         |
-| Develey           | Isaiah      |
-| Forgiarini        | Francesco   |
-| Jung              | Noah        |
-| Kammerlander      | Jan         |
-| Kostov            | Magnus      |
-| Krokowski-Bednarz | Leon        |
-| Kwisda            | Phinnaeus   |
-| Li                | Yimo        |
-| Liao              | Ding        |
-| Lüthi             | Evan        |
-| Madhani           | Lian        |
-| Mogasale          | Chetan      |
-| Na                | Nick Hengbo |
-| Nicolaiov         | Luca        |
-| Paquette          | Mateo       |
-| Phung             | Tina        |
-| Posch             | Jasmin      |
-| Posch             | Jonas       |
-| Rosset            | Ruben       |
-| Schneitter        | Leon        |
-| Sevrin            | Louis       |
-| Shahmammadli      | Ramiz       |
-| Späth             | Nikolaj     |
-| Stolper           | Felix       |
-| Taboriskiy        | Lev         |
-| Tamburrano        | Alicia      |
-| Thilak            | Aarav       |
-| Varghese          | Vivan       |
-| Visschedijk       | Amelia      |
-| Weis              | Robert      |
-| Wichser           | Finn        |
-| Zeindler          | Cai Andrej  |
-| Zimmerli          | Elia Michel |
+| Name              | Vorname        |
+|-------------------|----------------|
+| Adnin             | Rafa           |
+| Aeschbacher       | Grégoire       |
+| Aragonda          | Sahasra        |
+| Bachmann          | Nils           |
+| Baïsse            | Axel           |
+| Bhatiya           | Ansh           |
+| Boivin            | Clément        |
+| Carnevale-Arella  | Loic           |
+| Champion          | Henri          |
+| Ciftlik           | Bora           |
+| Clermont          | Alexander      |
+| Clermont          | Amelie         |
+| Csonka            | Benedek        |
+| Devarasetty       | Vardhan        |
+| Develey           | Ely            |
+| Develey           | Isaiah         |
+| Forgiarini        | Francesco      |
+| Gratzei           | Finn           |
+| Jung              | Noah           |
+| Kammerlander      | Jan            |
+| Kostov            | Magnus         |
+| Krokowski-Bednarz | Leon           |
+| Kwisda            | Phinnaeus      |
+| Li                | Yimo           |   
+| Liao              | Ding           |
+| Lüthi             | Evan           |
+| Madhani           | Lian           |
+| Mogasale          | Chetan         |
+| Na                | Nick Hengbo    |
+| Nicolaiov         | Luca           |
+| Paquette          | Mateo          |
+| Phung             | Tina           |
+| Posch             | Jasmin         |
+| Posch             | Jonas          |
+| Rosset            | Ruben          |
+| Schneitter        | Leon           |
+| Sevrin            | Louis          |
+| Shahmammadli      | Ramiz          |
+| Späth             | Nikolaj        |
+| Stolper           | Felix          |
+| Taboriskiy        | Lev            |
+| Tamburrano        | Alicia         |
+| Thilak            | Aarav          |
+| Varghese          | Vivan          |
+| Visschedijk       | Amelia         |
+| Rameshbabu        | Varuneshvaraan |
+| Weis              | Robert         |
+| Wichser           | Finn           |
+| Zeindler          | Cai Andrej     |
+| Zimmerli          | Elia Michel    |
 
 
 
@@ -73,6 +75,7 @@ Letztes Update: 10.09.
 | Atlas        | Daniel             |
 | Bachmann     | Elias              | 
 | Bazavan      | David              |
+| Bhingare     | Joshua             |
 | Bigler       | Simon              |
 | Borer        | Bent               |
 | Cavadini     | Alice              |
@@ -81,6 +84,7 @@ Letztes Update: 10.09.
 | Coletta      | Axelle             |
 | Csonka       | Huba               |
 | Dickmann     | Franco             |
+| Domschke     | Mischa             |
 | Dolfini      | Emanuele           |
 | Dübler       | Lorenzo            |
 | Forssberg    | Adam               |
@@ -91,10 +95,12 @@ Letztes Update: 10.09.
 | Gong         | Yansheng           |
 | Gregor       | Elena              |
 | Guerra       | Oliver             |
+| Hollenstein  | Lean               |
 | Jordan       | Christina          |
 | Kasper       | Anna               |
 | Lluvich      | Matias             |
 | Luisier      | Jurij              |
+| Lupei        | Denis              |
 | Mahapatra    | Samyakk            |
 | Mallipudi    | Jovin Nimaikarthik |
 | Meisinger    | Oskar              |
@@ -133,20 +139,24 @@ Letztes Update: 10.09.
 
 | Name          | Vorname          |
 |---------------|------------------|
+| Akinkhov      | Mikhail          |
 | Angelovski    | Emanuel          |
 | Aregger       | Nando            |
 | Baïsse        | Rose             |
 | Boivin        | Rémi             |
+| Bucher        | Dominic          |
 | Cavigelli     | Jonas            |
 | Chavy         | Maxime           |
 | Clermont      | Andreas          |
 | Constantin    | David            |
 | Csonka        | Donàt            |
 | Dhamdhere     | Siddhant         |
+| Divoux        | Mattys           |
 | Durville      | Luc              |
 | El Issawi     | Oliver           |
 | Federer       | Colin            |
 | Ghisla        | Ireneo           |
+| Hottinger     | Ieremia          |
 | Infanger      | Philip           |
 | Ingielewicz   | Tomasz           |
 | Jakubczyk     | Martin           |
@@ -168,6 +178,7 @@ Letztes Update: 10.09.
 | Pfaltz        | Maximilian       |
 | Piacquadio    | Riccardo Daniele |
 | Pinelli       | Gian             |
+| Ronner        | Patrick          |
 | Röthlin       | Lara             |
 | Ruiz          | Elias            |
 | Saminskij     | Jan              |
@@ -206,6 +217,7 @@ Letztes Update: 10.09.
 | Gwerder    | Simon          |
 | Haas       | Anthony        |
 | Hofstetter | Noah           |
+| Hottinger  | Simon          |
 | Kasapidis  | Markos         |
 | Lenz       | Timothy        |
 | Mascia     | Dario          |
