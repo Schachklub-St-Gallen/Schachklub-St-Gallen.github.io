@@ -30,7 +30,6 @@ Letztes Update: 10.09.
 | Develey           | Ely         |
 | Develey           | Isaiah      |
 | Forgiarini        | Francesco   |
-| Gerer             | Leya        |
 | Jung              | Noah        |
 | Kammerlander      | Jan         |
 | Kostov            | Magnus      |
