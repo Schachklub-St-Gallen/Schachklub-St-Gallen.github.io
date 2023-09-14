@@ -9,12 +9,13 @@ _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub S
 ## Anmeldung
  
 
-**Hier geht's zur [Anmeldung](https://docs.google.com/forms/d/1KUXtXy-7LMsHt9Bs1NnTi8dDjY5PikJvhRxQEzrLLf8){:target="\_blank"}**
+**Die Anmeldung ist geschlossen**
 
-**Der Anmeldeschluss ist am 14.September 2023!**
+Die Liste der Spieler, die bereits bezahlt haben, wird [auf der Homepage](/qualiturnier/startlisten) veröffentlicht und regelmässig aktualisiert.
 
+Die Liste mit allen angemeldeten Spieler wird auf [chess-results](https://chess-results.com/tnr809168.aspx) veröffentlicht und regelmässig aktualisiert.
 
-Die Teilnehmerlisten werden [auf der Homepage](https://www.schachklub-sg.ch/qualiturnier/startlisten) veröffentlicht und regelmässig aktualisiert.
+**Kontakt:** [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
 
 
 ## Informationen
@@ -51,10 +52,7 @@ U16: Geldpreise CHF 150/100/50
 
 Turniereinsatz : CHF 50.
 
-### Anmeldung
 
-Vor dem Turnier bis spätestens **14.September 2023** \
-Anmeldung via Formular auf [https://www.schachklub-sg.ch/qualiturnier](https://www.schachklub-sg.ch/qualiturnier)
 
 ### Bezahlung
 
