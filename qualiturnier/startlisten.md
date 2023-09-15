@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 12.09.
+Letztes Update: 15.09.
 
 ## U10
 
@@ -36,6 +36,7 @@ Letztes Update: 12.09.
 | Kostov            | Magnus         |
 | Krokowski-Bednarz | Leon           |
 | Kwisda            | Phinnaeus      |
+| Légeret           | Noé            |
 | Li                | Yimo           |   
 | Liao              | Ding           |
 | Lüthi             | Evan           |
@@ -44,12 +45,18 @@ Letztes Update: 12.09.
 | Na                | Nick Hengbo    |
 | Nambiar           | Vihaan         |
 | Nicolaiov         | Luca           |
+| Niggi             | Davide         |
+| Nitschke          | Charlie        |
 | Paquette          | Mateo          |
+| Pelloli           | Enzo           |
 | Phung             | Tina           |
+| Polak             | Aleksandra     |
+| Polak             | Victoria       |
 | Posch             | Jasmin         |
 | Posch             | Jonas          |
 | Rosset            | Ruben          |
 | Schneitter        | Leon           |
+| Schopp            | Jonathan       |
 | Sevrin            | Louis          |
 | Shahmammadli      | Ramiz          |
 | Späth             | Nikolaj        |
@@ -76,29 +83,36 @@ Letztes Update: 12.09.
 | Atlas        | Daniel             |
 | Bachmann     | Elias              | 
 | Bazavan      | David              |
+| Begdullayeva | Karina             |
 | Bhingare     | Joshua             |
 | Bigler       | Simon              |
 | Borer        | Bent               |
 | Cavadini     | Alice              |
 | Cavadini     | Tommaso            |  
 | Cepila       | Petr               |
+| Chufarov     | Aleksandr          |
 | Coletta      | Axelle             |
 | Csonka       | Huba               |
 | Dickmann     | Franco             |
 | Domschke     | Mischa             |
 | Dolfini      | Emanuele           |
 | Dübler       | Lorenzo            |
+| Dück         | Sebastian          |
 | Forssberg    | Adam               |
 | Fry          | Aiko               |
+| Gambs        | Océane             |
 | Garcia       | Elias              |
 | Geissler     | Luca               |
 | George       | Kevin              |
 | Gong         | Yansheng           |
 | Gregor       | Elena              |
+| Grimm        | Elio               |
 | Guerra       | Oliver             |
 | Hollenstein  | Lean               |
+| Jelicic      | Adrien             |
 | Jordan       | Christina          |
 | Kasper       | Anna               |
+| Kumar        | Shreyank           |
 | Lluvich      | Matias             |
 | Luisier      | Jurij              |
 | Lupei        | Denis              |
@@ -108,6 +122,7 @@ Letztes Update: 12.09.
 | Metzger      | Sophia             |
 | Michlmayr    | Teo                |
 | Moravanszky  | Moric              |
+| Moss         | Robin              |
 | Muenzer      | Natalie            |
 | Neuschild    | Marius             |
 | Niemi        | Curdin             |
@@ -127,7 +142,9 @@ Letztes Update: 12.09.
 | Scheiffele   | Anton              |
 | Schmid       | Haiko              |
 | Speerli      | Carmen             |
+| Surota       | Michael            |
 | Tamburrano   | Andres             |
+| Vernay       | Newton             |
 | Voronov      | Victor             |
 | Wild         | Arya               |
 | Wilhelm      | Marco              |
@@ -144,6 +161,7 @@ Letztes Update: 12.09.
 | Angelovski    | Emanuel          |
 | Aregger       | Nando            |
 | Baïsse        | Rose             |
+| Begdullayev   | Tamerlan         |
 | Boivin        | Rémi             |
 | Bucher        | Dominic          |
 | Cavigelli     | Jonas            |
@@ -156,11 +174,14 @@ Letztes Update: 12.09.
 | Durville      | Luc              |
 | El Issawi     | Oliver           |
 | Federer       | Colin            |
+| Fluck         | Ilyan            |
 | Ghisla        | Ireneo           |
+| Haag          | Leon             |
 | Hottinger     | Ieremia          |
 | Infanger      | Philip           |
 | Ingielewicz   | Tomasz           |
 | Jakubczyk     | Martin           |
+| Jelicic       | Hugo             |
 | Jordan        | Theodor          |
 | Kagushev      | Yaroslav         |
 | Kanana        | Ziad             |
@@ -176,6 +197,7 @@ Letztes Update: 12.09.
 | Meichsner     | Orell            |
 | Moravanszky   | Marton           |
 | Navarini      | Vincent          |
+| Nitschke      | William          |
 | Pfaltz        | Maximilian       |
 | Piacquadio    | Riccardo Daniele |
 | Pinelli       | Gian             |
@@ -185,54 +207,66 @@ Letztes Update: 12.09.
 | Saminskij     | Jan              |
 | Saranbaatar   | Telmen           |
 | Scherer       | Marc             |
+| Siegel        | Felix            |
 | Speerli       | Maria            |
 | Stevens       | Thomas           |
+| Sturm         | Jakob            |
+| Sutter        | Julian           |
 | Tran          | Kevin Felix      |
 | Trevisan      | Nicolas          |
 | Turner-Fung   | Conall           |
+| Udipi         | Kala Kishan      |
 | Vadaturska    | Kateryna         |
+| Van Aepelen   | Nikolai          |
+| Von Krogh     | Deniz            |
 | Yakushev      | Nils             |
 | Zvoristeanu   | Remo             |
 
 
 ## U16
 
-| Name       | Vorname        |
-|------------|----------------|
-| Artan      | Tamir          |
-| Bangerter  | Ena            |
-| Bonvin     | Theo           |
-| Breyer     | Philippe       |
-| Breyer     | Thierry        |
-| Brüssow    | Nina           |
-| Cavadini   | Lavinia        |
-| Christen   | Michael        |
-| Coletta    | Julien         |
-| Dahmann    | Dan            |
-| Delangle   | Alexander      |
-| Di Franco  | Alessio        |
-| Fry        | Ryunosuke      |
-| Gade       | Niels Severin  |
-| Glanc      | Lea            |
-| Guyer      | Marlon         |
-| Gwerder    | Simon          |
-| Haas       | Anthony        |
-| Hofstetter | Noah           |
-| Hottinger  | Simon          |
-| Kasapidis  | Markos         |
-| Lenz       | Timothy        |
-| Mascia     | Dario          |
-| Natéan     | Métille        |
-| Parmelin   | Evan           |
-| Perego     | Jonas Gion     |
-| Ram        | Sanjay         |
-| Rappazzo   | Johannes       |
-| Schneider  | Eliana Maylén  |
-| Sigg       | David          |
-| Stemmler   | Amaryllis      |
-| Trevisan   | Alessandra     |
-| Trubini    | Timon          |
-| Yarovoy    | Nikita         |
+| Name         | Vorname        |
+|--------------|----------------|
+| Artan        | Tamir          |
+| Bangerter    | Ena            |
+| Begdullayeva | Diana          |
+| Bonvin       | Theo           |
+| Breyer       | Philippe       |
+| Breyer       | Thierry        |
+| Brönnimann   | Pascal         |
+| Brüssow      | Nina           |
+| Cavadini     | Lavinia        |
+| Christen     | Michael        |
+| Coletta      | Julien         |
+| Dahmann      | Dan            |
+| Delangle     | Alexander      |
+| Di Franco    | Alessio        |
+| Dück         | Maximilian     |
+| Durazzano    | Alberto        |
+| Fry          | Ryunosuke      |
+| Gade         | Niels Severin  |
+| Glanc        | Lea            |
+| Guyer        | Marlon         |
+| Gwerder      | Simon          |
+| Haas         | Anthony        |
+| Hofstetter   | Noah           |
+| Hottinger    | Simon          |
+| Jammal       | Salah          |
+| Kasapidis    | Markos         |
+| Koya         | Pranav         |
+| Lenz         | Timothy        |
+| Mascia       | Dario          |
+| Natéan       | Métille        |
+| Parmelin     | Evan           |
+| Perego       | Jonas Gion     |
+| Ram          | Sanjay         |
+| Rappazzo     | Johannes       |
+| Schneider    | Eliana Maylén  |
+| Sigg         | David          |
+| Stemmler     | Amaryllis      |
+| Trevisan     | Alessandra     |
+| Trubini      | Timon          |
+| Yarovoy      | Nikita         |
 
 
 
