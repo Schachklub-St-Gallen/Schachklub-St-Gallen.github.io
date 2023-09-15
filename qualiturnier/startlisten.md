@@ -29,6 +29,7 @@ Letztes Update: 15.09.
 | Devarasetty       | Vardhan        |
 | Develey           | Ely            |
 | Develey           | Isaiah         |
+| Ekimukov          | Platon         |
 | Forgiarini        | Francesco      |
 | Gratzei           | Finn           |
 | Jung              | Noah           |
@@ -45,7 +46,7 @@ Letztes Update: 15.09.
 | Na                | Nick Hengbo    |
 | Nambiar           | Vihaan         |
 | Nicolaiov         | Luca           |
-| Niggi             | Davide         |
+| Niggli            | Davide         |
 | Nitschke          | Charlie        |
 | Paquette          | Mateo          |
 | Pelloli           | Enzo           |
