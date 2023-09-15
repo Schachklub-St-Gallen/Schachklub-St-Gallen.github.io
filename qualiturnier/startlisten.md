@@ -13,6 +13,7 @@ Letztes Update: 15.09.
 
 | Name              | Vorname        |
 |-------------------|----------------|
+| Adlakha           | Madhav Variman |
 | Adnin             | Rafa           |
 | Aeschbacher       | Grégoire       |
 | Aragonda          | Sahasra        |
@@ -34,6 +35,7 @@ Letztes Update: 15.09.
 | Gratzei           | Finn           |
 | Jung              | Noah           |
 | Kammerlander      | Jan            |
+| Kistenov          | Havryil        |
 | Kostov            | Magnus         |
 | Krokowski-Bednarz | Leon           |
 | Kwisda            | Phinnaeus      |
