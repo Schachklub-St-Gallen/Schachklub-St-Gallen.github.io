@@ -110,6 +110,7 @@ Letztes Update: 15.09.
 | Grimm        | Elio               |
 | Guerra       | Oliver             |
 | Hollenstein  | Lean               |
+| Hottinger    | Ieremia            |
 | Jelicic      | Adrien             |
 | Jordan       | Christina          |
 | Kasper       | Anna               |
@@ -178,7 +179,6 @@ Letztes Update: 15.09.
 | Fluck         | Ilyan            |
 | Ghisla        | Ireneo           |
 | Haag          | Leon             |
-| Hottinger     | Ieremia          |
 | Infanger      | Philip           |
 | Ingielewicz   | Tomasz           |
 | Jakubczyk     | Martin           |
