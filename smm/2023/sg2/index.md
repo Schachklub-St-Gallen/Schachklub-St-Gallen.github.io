@@ -9,7 +9,7 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 ## St. Gallen 2
 
 St. Gallen 2 spielt in der
-{% include smm/2023/swisschess-link.html gruppe=401 liga=4 round=5 text="2. Liga, Gruppe Ost 1" %}
+{% include smm/2023/swisschess-link.html gruppe=401 liga=4 round=6 text="2. Liga, Gruppe Ost 1" %}
 unter Teamcaptain Jan Frei.
 
 ## Zwischentabelle
@@ -17,6 +17,10 @@ unter Teamcaptain Jan Frei.
 {% include smm/2023/sg2/tabelle.html %}
 
 _Zwischentabelle nach der 6. Runde_
+
+## 7. Runde - 16. September 2023
+
+{% include smm/2023/sg2/bericht-r7.md %}
 
 ## 6. Runde - 27. August 2023
 
