@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 15.09.
+Letztes Update: 19.09.
 
 ## U10
 
@@ -16,6 +16,7 @@ Letztes Update: 15.09.
 | Adlakha           | Madhav Variman |
 | Adnin             | Rafa           |
 | Aeschbacher       | Grégoire       |
+| Ar                | Orkun          |
 | Aragonda          | Sahasra        |
 | Bachmann          | Nils           |
 | Baïsse            | Axel           |
@@ -47,6 +48,7 @@ Letztes Update: 15.09.
 | Mogasale          | Chetan         |
 | Na                | Nick Hengbo    |
 | Nambiar           | Vihaan         |
+| Näf Schmid        | Eva            |
 | Nicolaiov         | Luca           |
 | Niggli            | Davide         |
 | Nitschke          | Charlie        |
@@ -179,8 +181,10 @@ Letztes Update: 15.09.
 | El Issawi     | Oliver           |
 | Federer       | Colin            |
 | Fluck         | Ilyan            |
+| Gafner        | Lancelot         |
 | Ghisla        | Ireneo           |
 | Haag          | Leon             |
+| Ievleva       | Evelina          |
 | Infanger      | Philip           |
 | Ingielewicz   | Tomasz           |
 | Jakubczyk     | Martin           |
@@ -200,6 +204,7 @@ Letztes Update: 15.09.
 | Meichsner     | Orell            |
 | Moravanszky   | Marton           |
 | Navarini      | Vincent          |
+| Näf Schmid    | Ianto            |
 | Nitschke      | William          |
 | Pfaltz        | Maximilian       |
 | Piacquadio    | Riccardo Daniele |
@@ -255,6 +260,7 @@ Letztes Update: 15.09.
 | Hofstetter   | Noah           |
 | Hottinger    | Simon          |
 | Jammal       | Salah          |
+| Kalia        | Melania        |
 | Kasapidis    | Markos         |
 | Koya         | Pranav         |
 | Lenz         | Timothy        |
