@@ -7,7 +7,7 @@ Die Teilnehmerlisten mit den bestätigten Spielern werden regelmässig aktualisi
 
 **Die Anmeldung gilt erst als bestätigt, wenn die Überweisung eingegangen ist.**
 
-Letztes Update: 19.09.
+Letztes Update: 21.09.
 
 ## U10
 
@@ -55,6 +55,7 @@ Letztes Update: 19.09.
 | Paquette          | Mateo          |
 | Pelloli           | Enzo           |
 | Phung             | Tina           |
+| Podleisek         | Lily Anna      |
 | Polak             | Aleksandra     |
 | Polak             | Victoria       |
 | Posch             | Jasmin         |
@@ -130,6 +131,7 @@ Letztes Update: 19.09.
 | Moravanszky  | Moric              |
 | Moss         | Robin              |
 | Muenzer      | Natalie            |
+| Navarini     | Nicolas            |
 | Neuschild    | Marius             |
 | Niemi        | Curdin             |
 | Palairet     | Alexander          |
@@ -148,6 +150,7 @@ Letztes Update: 19.09.
 | Scheiffele   | Anton              |
 | Schmid       | Haiko              |
 | Speerli      | Carmen             |
+| Sunilkumar   | Prathyush          |
 | Surota       | Michael            |
 | Tamburrano   | Andres             |
 | Vernay       | Newton             |
@@ -172,6 +175,7 @@ Letztes Update: 19.09.
 | Bucher        | Dominic          |
 | Cavigelli     | Jonas            |
 | Chavy         | Maxime           |
+| Christen      | Mathis           |
 | Clermont      | Andreas          |
 | Constantin    | David            |
 | Csonka        | Donàt            |
@@ -271,6 +275,7 @@ Letztes Update: 19.09.
 | Perego       | Jonas Gion     |
 | Ram          | Sanjay         |
 | Rappazzo     | Johannes       |
+| Savoy        | Jérémie        |
 | Schneider    | Eliana Maylén  |
 | Sigg         | David          |
 | Stemmler     | Amaryllis      |
