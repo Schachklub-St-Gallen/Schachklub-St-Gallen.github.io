@@ -6,16 +6,22 @@ subtitle: 1. Qualifikationsturnier 22.- 24. September 2023 für die Schweizer Me
 
 _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub St. Gallen_
 
-## Anmeldung
- 
 
+
+
+## Anwesenheitskontrolle
+**Freitag, 22.09.: 16.00 Uhr – 17.45 Uhr: Anwesenheitskontrolle**, bitte erscheint frühzeitig, damit wir pünktlich starten können.
+
+**Kontakt:** [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
+
+## Anmeldung
 **Die Anmeldung ist geschlossen**
 
 Die Liste der Spieler, die bereits bezahlt haben, wird [auf der Homepage](/qualiturnier/startlisten) veröffentlicht und regelmässig aktualisiert.
 
 Die Liste mit allen angemeldeten Spieler wird auf [chess-results](https://chess-results.com/tnr809168.aspx) veröffentlicht und regelmässig aktualisiert.
 
-**Kontakt:** [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
+
 
 
 ## Informationen
