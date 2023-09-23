@@ -14,6 +14,8 @@ _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub S
 
 **Kontakt:** [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
 
+**Notfallkontakt:** Rahel Umbach, +41 79 370 07 14
+
 ## Anmeldung
 **Die Anmeldung ist geschlossen**
 
