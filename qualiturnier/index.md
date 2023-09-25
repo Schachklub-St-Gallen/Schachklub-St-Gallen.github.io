@@ -9,13 +9,13 @@ _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub S
 
 ## Resultate
 
-**Resultate U10**: [https://chess-results.com/tnr809168.aspx?lan=1&art=4](https://chess-results.com/tnr809168.aspx?lan=1&art=4)
+**Resultate U10**: [https://chess-results.com/tnr809168.aspx?lan=1&art=4](https://chess-results.com/tnr809168.aspx?lan=1&art=4){:target="\_blank"}
 
-**Resultate U12**: [https://chess-results.com/tnr809662.aspx?lan=1&art=4](https://chess-results.com/tnr809662.aspx?lan=1&art=4)
+**Resultate U12**: [https://chess-results.com/tnr809662.aspx?lan=1&art=4](https://chess-results.com/tnr809662.aspx?lan=1&art=4){:target="\_blank"}
 
-**Resultate U14**: [https://chess-results.com/tnr809733.aspx?lan=1&art=4](https://chess-results.com/tnr809733.aspx?lan=1&art=4)
+**Resultate U14**: [https://chess-results.com/tnr809733.aspx?lan=1&art=4](https://chess-results.com/tnr809733.aspx?lan=1&art=4){:target="\_blank"}
 
-**Resultate U16**: [https://chess-results.com/tnr809732.aspx?lan=1&art=4](https://chess-results.com/tnr809732.aspx?lan=1&art=4)
+**Resultate U16**: [https://chess-results.com/tnr809732.aspx?lan=1&art=4](https://chess-results.com/tnr809732.aspx?lan=1&art=4){:target="\_blank"}
 
 
 ## Anwesenheitskontrolle
