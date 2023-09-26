@@ -6,17 +6,29 @@ subtitle: 1. Qualifikationsturnier 22.- 24. September 2023 für die Schweizer Me
 
 _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub St. Gallen_
 
+## Bericht
+
+**[Bericht Qualiturnier 2023](/2023-09-26-qualiturnier-bericht)**
 
 ## Resultate
 
-**Resultate U10**: [https://chess-results.com/tnr809168.aspx?lan=1&art=4](https://chess-results.com/tnr809168.aspx?lan=1&art=4){:target="\_blank"}
+U10 ([chess-results](https://chess-results.com/tnr809168.aspx?lan=1&art=4){:target="\_blank"}):\
+Platz 1: Vivian Varghese / Platz 2: Sahasra Aragonda / Platz 3: Rafa Adnin
 
-**Resultate U12**: [https://chess-results.com/tnr809662.aspx?lan=1&art=4](https://chess-results.com/tnr809662.aspx?lan=1&art=4){:target="\_blank"}
+U12 ([chess-results](https://chess-results.com/tnr809662.aspx?lan=1&art=4){:target="\_blank"}):\
+Platz 1: Dimitri Aeschbacher / Platz: 2 Shreyank Kumar / Platz 3: Marius Neuschild
 
-**Resultate U14**: [https://chess-results.com/tnr809733.aspx?lan=1&art=4](https://chess-results.com/tnr809733.aspx?lan=1&art=4){:target="\_blank"}
+U14 ([chess-results](https://chess-results.com/tnr809733.aspx?lan=1&art=4){:target="\_blank"}):\
+Platz 1: Mihaly Köhalmi-Szabo / Platz 2: Kishan Udipi Kala / Platz 3: Ziad Kanana
 
-**Resultate U16**: [https://chess-results.com/tnr809732.aspx?lan=1&art=4](https://chess-results.com/tnr809732.aspx?lan=1&art=4){:target="\_blank"}
+U16 ([chess-results](https://chess-results.com/tnr809732.aspx?lan=1&art=4){:target="\_blank"}):\
+Platz 1: Johannes Rappazzo / Platz 2: Thierry Breyer / Platz 3: Philippe Breyer
 
+## Fundsachen
+
+**Folgende Gegenstände sind beim Qualiturnier liegengeblieben. Falls Sie etwas hiervon vermissen, dann bitte eine E-Mail an [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch) schreiben.**
+
+![Fundgegenstände](/assets/img/qualiturnier/fundsachen.jpeg)
 
 ## Anwesenheitskontrolle
 **Freitag, 22.09.: 16.00 Uhr – 17.45 Uhr: Anwesenheitskontrolle**, bitte erscheint frühzeitig, damit wir pünktlich starten können.
@@ -129,9 +141,3 @@ Die Teilnehmerlisten werden [auf der Homepage](https://www.schachklub-sg.ch/qual
 ### Turnierbereich
 
 Zutritt zum Turnierbereich erhalten nur die Teilnehmenden sowie die Veranstalter. Es gibt Platz für Eltern und Begleiter im Festzelt neben dem Spiellokal.
-
-## Fundgegenstände
-
-**Folgende Gegenstände sind beim Qualiturnier liegengeblieben. Falls Sie etwas hiervon vermissen, dann bitte eine E-Mail an [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch) schreiben.**
-
-![Fundgegenstände](/assets/img/qualiturnier/fundsachen.jpeg)
