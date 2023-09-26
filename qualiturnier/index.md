@@ -7,6 +7,15 @@ subtitle: 1. Qualifikationsturnier 22.- 24. September 2023 für die Schweizer Me
 _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub St. Gallen_
 
 
+## Resultate
+
+**Resultate U10**: [https://chess-results.com/tnr809168.aspx?lan=1&art=4](https://chess-results.com/tnr809168.aspx?lan=1&art=4){:target="\_blank"}
+
+**Resultate U12**: [https://chess-results.com/tnr809662.aspx?lan=1&art=4](https://chess-results.com/tnr809662.aspx?lan=1&art=4){:target="\_blank"}
+
+**Resultate U14**: [https://chess-results.com/tnr809733.aspx?lan=1&art=4](https://chess-results.com/tnr809733.aspx?lan=1&art=4){:target="\_blank"}
+
+**Resultate U16**: [https://chess-results.com/tnr809732.aspx?lan=1&art=4](https://chess-results.com/tnr809732.aspx?lan=1&art=4){:target="\_blank"}
 
 
 ## Anwesenheitskontrolle
@@ -14,17 +23,12 @@ _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub S
 
 **Kontakt:** [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
 
-**Notfallkontakt:** Rahel Umbach, +41 79 370 07 14
-
 ## Anmeldung
 **Die Anmeldung ist geschlossen**
 
 Die Liste der Spieler, die bereits bezahlt haben, wird [auf der Homepage](/qualiturnier/startlisten) veröffentlicht und regelmässig aktualisiert.
 
 Die Liste mit allen angemeldeten Spieler wird auf [chess-results](https://chess-results.com/tnr809168.aspx) veröffentlicht und regelmässig aktualisiert.
-
-
-
 
 ## Informationen
 
