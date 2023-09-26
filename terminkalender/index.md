@@ -20,11 +20,11 @@ subtitle: Aktueller Terminkalender 2023
 |                            | <nobr>Mo 30.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 2                 |
 | <strong>November</strong>  | <nobr>Mo 07.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
 |                            | <nobr>Mo 13.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 4                 |
-|                            | <nobr>Mo 20.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                Nachholpartien Freier Spieleabend                 |
+|                            | <nobr>Mo 20.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 5                 |
 |                            | <nobr>Mo 27.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Vortrag Milan Novkovic                      |
-| <strong>Dezember</strong>  | <nobr>Mo 04.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 6                 |
-|                            | <nobr>Mo 11.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 7                 |
-|                            | <nobr>Mo 18.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Weihnachtsblitzturnier                      |
+| <strong>Dezember</strong>  | <nobr>Mo 04.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |               Nachholpartien / Freier Spieleabend                |
+|                            | <nobr>Mo 11.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 6                 |
+|                            | <nobr>Mo 18.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 7                 |
 
 ### Frühjahr 2023
 
