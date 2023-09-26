@@ -6,7 +6,8 @@ thumbnail-img: /assets/img/qualiturnier/spielbereich.jpg
 ---
 
 260 Spieler:innen aus sämtlichen Kantonen reisten am Freitag, 22. September 2023 in Begleitung von Coaches und Eltern
-zur MZH Freidorf TG zum ersten [Qualifikationsturnier](/qualiturnier) zur Schweizermeisterschaft 2024. Der Schachklub St. Gallen bietet
+zur MZH Freidorf TG zum ersten [Qualifikationsturnier](/qualiturnier) zur Schweizermeisterschaft 2024. Der Schachklub
+St. Gallen bietet
 über 40 Helfer:innen aus den eigenen Reihen sowie aus jenen des STV Roggwil auf, welche mit weit über tausend
 geleisteten Helferstunden den Event auf die Beine stellen.
 
@@ -16,7 +17,8 @@ geleisteten Helferstunden den Event auf die Beine stellen.
 
 Um 16:00 weist die Feuerwehr Roggwil über 130 Fahrzeuge in der errichteten Einbahn sowie der anliegenden Landstrasse
 fachmännisch ein, halbstündlich trudeln grosse Menschentrauben vom nur zwei Minuten entfernten Bahnhof ein. Nach
-effizientem Anmeldungsprozedere im errichteten, 350m2 grossen Festzelt werden die Teilnehmer:innen um 18:10 von Sandra
+effizientem Anmeldungsprozedere unter der Leitung von Jürg Kindle, im errichteten, 350m2 grossen Festzelt, werden die
+Teilnehmer:innen um 18:10 von Sandra
 Pfister und Dimitri Kindle im Namen der Gemeinde und des Organisationskommitees auf Deutsch und Französisch begrüsst.
 Bereits zu dieser Zeit läuft die Cafeteria unter der Leitung der Familie Fecker auf Hochtouren und verzeichnet im
 Verlauf des Freitag Abends bereits einen Rekord an verkaufter Verpflegung. Um 18:30 betreten die Spieler:innen aus den
