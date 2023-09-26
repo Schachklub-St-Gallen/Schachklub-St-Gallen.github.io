@@ -129,3 +129,9 @@ Die Teilnehmerlisten werden [auf der Homepage](https://www.schachklub-sg.ch/qual
 ### Turnierbereich
 
 Zutritt zum Turnierbereich erhalten nur die Teilnehmenden sowie die Veranstalter. Es gibt Platz für Eltern und Begleiter im Festzelt neben dem Spiellokal.
+
+### Fundgegenstände
+
+Folgende Gegenstände sind beim Qualiturnier liegengeblieben. Falls Sie etwas hiervon vermissen, dann bitte eine E-Mail an [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch) schreiben.
+
+![Fundgegenstände](/assets/img/qualiturnier/fundsachen.jpeg)
