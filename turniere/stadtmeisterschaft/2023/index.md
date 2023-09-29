@@ -8,7 +8,7 @@ Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt
 und endet am 18. Dezember (siehe [Terminkalender](/terminkalender)). Die Runden werden jeweils am Montagabend im
 Ex-Schulhaus [Tschudiwies](/info) ausgetragen.
 
-Alle weiteren Infos sowie Details zur Anmeldung finder ihr in der [Ausschreibung](Stadtmeisterschaft 2023.pdf).
+Alle weiteren Informationen finder ihr in der [Ausschreibung](Stadtmeisterschaft 2023.pdf).
 
 ### Anmeldung
 

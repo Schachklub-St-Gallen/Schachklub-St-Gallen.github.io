@@ -15,4 +15,4 @@ der [Stadtmeisterschaft](/turniere/stadtmeisterschaft/2023).
 **Zur Anmeldung bitte folgendes Formular
 ausfüllen: [Formular Stadtmeisterschaft 2023](https://docs.google.com/forms/d/1D8ArUZ1piGJZ9Pt0ZFTalvrIAe_ORjTrWIEC-z8BhIg){:target="\_blank"}**
 
-_Jan Frei_
+_Miguel Garcia_ / _Jan Frei_
