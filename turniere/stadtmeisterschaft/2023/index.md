@@ -15,6 +15,10 @@ _Ausschreibung folgt_
 **Zur Anmeldung bitte folgendes Formular
 ausfüllen: [Formular Stadtmeisterschaft 2023](https://docs.google.com/forms/d/1D8ArUZ1piGJZ9Pt0ZFTalvrIAe_ORjTrWIEC-z8BhIg){:target="\_blank"}**
 
+### Startliste
+
+_(Update folgt)_
+
 ### Vergangene Stadtmeisterschaften
 
 Infos zur vergangenen Stadtmeisterschaft 2022 findet
