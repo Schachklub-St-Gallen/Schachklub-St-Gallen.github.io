@@ -27,6 +27,8 @@ ausfüllen: [Formular Stadtmeisterschaft 2023](https://docs.google.com/forms/d/1
 | Szokody    | Daniel   |      |
 | Traber     | Phil     |      |
 
+_(letztes Update: 07.10.2023)_
+
 ### Vergangene Stadtmeisterschaften
 
 Infos zur vergangenen Stadtmeisterschaft 2022 findet
