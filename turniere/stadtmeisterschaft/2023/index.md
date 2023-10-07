@@ -21,7 +21,7 @@ ausfüllen: [Formular Stadtmeisterschaft 2023](https://docs.google.com/forms/d/1
 |------------|----------|------|
 | Eisenbeiss | Wolfgang | 1794 |
 | Bischoff   | Peter    | 1791 |
-| Garcla     | Miguel   | 1783 |
+| Garcia     | Miguel   | 1783 |
 | Frei       | Jan      | 1740 |
 | Gebhardt   | Thomas   | 1497 |
 | Szokody    | Daniel   |      |
