@@ -17,17 +17,19 @@ ausfüllen: [Formular Stadtmeisterschaft 2023](https://docs.google.com/forms/d/1
 
 ### Startliste
 
-| Nachname   | Vorname  | Elo  |
-|------------|----------|------|
-| Eisenbeiss | Wolfgang | 1794 |
-| Bischoff   | Peter    | 1791 |
-| Garcia     | Miguel   | 1783 |
-| Frei       | Jan      | 1740 |
-| Gebhardt   | Thomas   | 1497 |
-| Szokody    | Daniel   |      |
-| Traber     | Phil     |      |
+| Nachname     | Vorname  | Elo  |
+|--------------|----------|------|
+| Eisenbeiss   | Wolfgang | 1794 |
+| Bischoff     | Peter    | 1791 |
+| Garcia       | Miguel   | 1783 |
+| Eichenberger | Martin   | 1751 |
+| Frei         | Jan      | 1740 |
+| Gebhardt     | Thomas   | 1497 |
+| Mannsberger  | Gerhard  | 1340 |
+| Szokody      | Daniel   | 0    |
+| Traber       | Phil     |      |
 
-_(letztes Update: 07.10.2023)_
+_(letztes Update: 15.10.2023)_
 
 ### Vergangene Stadtmeisterschaften
 
