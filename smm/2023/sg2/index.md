@@ -16,7 +16,7 @@ unter Teamcaptain Jan Frei.
 
 {% include smm/2023/sg2/tabelle.html %}
 
-_Schlusstabelle_
+_Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 und 8 steigen direkt ab._
 
 ## 7. Runde - 16. September 2023
 

@@ -16,7 +16,7 @@ unter Teamcaptain Ludwig Sapulowitsch.
 
 {% include smm/2023/sg3/tabelle.html %}
 
-_Schlusstabelle_
+_Rang 1 und Rang 2 steigen direkt auf._
 
 ## 6. Runde - 27. August 2023
 

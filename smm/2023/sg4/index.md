@@ -16,7 +16,7 @@ unter Teamcaptain Lorenz Markus.
 
 {% include smm/2023/sg4/tabelle.html %}
 
-_Schlusstabelle_
+_Rang 1 und Rang 2 steigen direkt auf._
 
 ## 7. Runde - 16. September 2023
 

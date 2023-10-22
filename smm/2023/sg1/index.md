@@ -16,7 +16,7 @@ unter Teamcaptain Roman Schmuki.
 
 {% include smm/2023/sg1/tabelle.html %}
 
-_Schlusstabelle_
+_Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 und 8 steigen direkt ab._
 
 ## Aufstiegsspiel - 21. Oktober 2023
 
