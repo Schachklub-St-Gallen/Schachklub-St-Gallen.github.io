@@ -11,14 +11,14 @@
 | 7     | Thomas Kohli (2087)      | Martin Leutwyler (2151)  | ½-½     |
 | 8     | Thomas Held (2067)       | Anton Thaler (2075)      | 0-1     |
 
-![Aufstiegsfoto](/assets/img/smm/smm-sg1-aufstieg.jpg)
-_Das siegreiche Aufsteigerteam St. Gallen 1 um Teamcaptain Roman Schmuki._
-
 Wollishofen 2 empfing uns heute zum Aufstiegsspiel 1./Liga - Nationalliga B. Sie stellten eine starke, homogene
 Mannschaft auf: Alle 8 Spieler waren zwischen 2067 und 2245 ELO klassiert, was einen Mannschaftsdurchschnitt von 2134
 ergab. Unsere Mannschaft war auch gut gerüstet, musste aber auf IM Milan Novkovic verzichten, der zurzeit in Ägypten
 weilt, wo er die Selektion der Schweizer U-12-WM-Selektion betreut.
 Unser Team verzeichnete einen ELO-Durchschnitt von 2148.
+
+![Aufstiegsfoto](/assets/img/smm/smm-sg1-aufstieg.jpg)
+_Das siegreiche Aufsteigerteam St. Gallen 1 um Teamcaptain Roman Schmuki._
 
 Es liefen fünf Stunden heissen Kampfes auf den 8 Schachbrettern. Bei unserem Team konnte man bald schon viele
 ausgeglichene bis leicht bessere Stellungen beobachten. Am 8. Brett sah es innert kurzem sehr gut für Toni Thaler aus.
