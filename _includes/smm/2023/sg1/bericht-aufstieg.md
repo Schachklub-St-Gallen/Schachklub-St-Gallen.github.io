@@ -12,6 +12,7 @@
 | 8     | Thomas Held (2067)       | Anton Thaler (2075)      | 0-1     |
 
 ![Aufstiegsfoto](/assets/img/smm/smm-sg1-aufstieg.jpg)
+_Das siegreiche Aufsteigerteam St. Gallen 1 um Teamcaptain Roman Schmuki._
 
 Wollishofen 2 empfing uns heute zum Aufstiegsspiel 1./Liga - Nationalliga B. Sie stellten eine starke, homogene
 Mannschaft auf: Alle 8 Spieler waren zwischen 2067 und 2245 ELO klassiert, was einen Mannschaftsdurchschnitt von 2134
