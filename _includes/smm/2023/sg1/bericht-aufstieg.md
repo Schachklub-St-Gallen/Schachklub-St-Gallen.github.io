@@ -11,6 +11,8 @@
 | 7     | Thomas Kohli (2087)      | Martin Leutwyler (2151)  | ½-½     |
 | 8     | Thomas Held (2067)       | Anton Thaler (2075)      | 0-1     |
 
+![Aufstiegsfoto](/assets/img/smm/smm-sg1-aufstieg.jpg)
+
 Wollishofen 2 empfing uns heute zum Aufstiegsspiel 1./Liga - Nationalliga B. Sie stellten eine starke, homogene
 Mannschaft auf: Alle 8 Spieler waren zwischen 2067 und 2245 ELO klassiert, was einen Mannschaftsdurchschnitt von 2134
 ergab. Unsere Mannschaft war auch gut gerüstet, musste aber auf IM Milan Novkovic verzichten, der zurzeit in Ägypten
