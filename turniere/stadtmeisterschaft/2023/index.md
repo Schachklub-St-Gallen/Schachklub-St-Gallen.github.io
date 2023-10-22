@@ -36,8 +36,9 @@ ausfüllen: [Formular Stadtmeisterschaft 2023](https://docs.google.com/forms/d/1
 | Traber         | Phil     |      |
 | Gluvacevic     | Darko    |      |
 | Van der Meulen | Jelmer   |      |
+| Thöny          | Linda    |      |
 
-_(letztes Update: 20.10.2023)_
+_(letztes Update: 22.10.2023)_
 
 ### Vergangene Stadtmeisterschaften
 
