@@ -10,6 +10,10 @@ Ex-Schulhaus [Tschudiwies](/info) ausgetragen.
 
 Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterschaft 2023.pdf){:target="\_blank"}**.
 
+### Resultate
+
+{% include turniere/stadtmeisterschaft/2023/resultate.html %}
+
 ### Anmeldung
 
 **Zur Anmeldung bitte folgendes Formular
