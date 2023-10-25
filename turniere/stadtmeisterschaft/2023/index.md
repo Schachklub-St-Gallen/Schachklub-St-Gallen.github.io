@@ -14,36 +14,6 @@ Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterscha
 
 {% include turniere/stadtmeisterschaft/2023/resultate.html %}
 
-### Anmeldung
-
-**Zur Anmeldung bitte folgendes Formular
-ausfüllen: [Formular Stadtmeisterschaft 2023](https://docs.google.com/forms/d/1D8ArUZ1piGJZ9Pt0ZFTalvrIAe_ORjTrWIEC-z8BhIg){:target="\_blank"}**
-
-### Startliste
-
-| Nachname       | Vorname  | Elo  |
-|----------------|----------|------|
-| Schmuki        | Roman    | 1966 |
-| Nyffenegger    | Michael  | 1936 |
-| Kindle         | Dimitri  | 1900 |
-| Eisenbeiss     | Wolfgang | 1794 |
-| Bischoff       | Peter    | 1791 |
-| Garcia         | Miguel   | 1783 |
-| Eichenberger   | Martin   | 1751 |
-| Frei           | Jan      | 1740 |
-| Kindle         | Jürg     | 1601 |
-| Gebhardt       | Thomas   | 1497 |
-| Settegrana     | Miro     | 1397 |
-| Ciardo         | Livio    | 1396 |
-| Mannsberger    | Gerhard  | 1340 |
-| Szokody        | Daniel   |      |
-| Traber         | Phil     |      |
-| Gluvacevic     | Darko    |      |
-| Van der Meulen | Jelmer   |      |
-| Thöny          | Linda    |      |
-
-_(letztes Update: 22.10.2023)_
-
 ### Vergangene Stadtmeisterschaften
 
 Infos zur vergangenen Stadtmeisterschaft 2022 findet
