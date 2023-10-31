@@ -18,7 +18,7 @@ subtitle: Aktueller Terminkalender 2023
 |                            | <nobr>Mo 25.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                 Kein Spieleabend (Qualiturnier)                  |
 | <strong>Oktober</strong>   | <nobr>Mo 23.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies | <span style="color:red">St.Galler Stadtmeisterschaft RD 1</span> |
 |                            | <nobr>Mo 30.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 2                 |
-| <strong>November</strong>  | <nobr>Mo 07.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
+| <strong>November</strong>  | <nobr>Mo 06.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
 |                            | <nobr>Mo 13.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 4                 |
 |                            | <nobr>Mo 20.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 5                 |
 |                            | <nobr>Mo 27.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Vortrag Milan Novkovic                      |
