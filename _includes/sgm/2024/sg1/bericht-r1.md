@@ -1,1 +1,1 @@
-### Flawil 1 - St. Gallen 1 (3 - 5)
+### St. Gallen 1 - Triesen 1
