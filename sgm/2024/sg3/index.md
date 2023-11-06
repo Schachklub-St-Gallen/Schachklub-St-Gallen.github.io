@@ -9,12 +9,14 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 ## St. Gallen 3
 
 St. Gallen 3 spielt in der
-{% include sgm/2024/swisschess-link.html gruppe=601 liga=6 round=6 text="4. Liga, Gruppe Ost 1" %}
+{% include sgm/2024/swisschess-link.html gruppe=514 liga=5 round=7 text="3. Regionalliga, Zone N" %}
 unter Teamcaptain Ludwig Sapulowitsch.
 
 ## Zwischentabelle
 
 {% include sgm/2024/sg3/tabelle.html %}
+
+_(Tabelle folgt)_
 
 _Rang 1 steigt direkt auf._
 

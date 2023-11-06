@@ -28,6 +28,7 @@ navbar-links:
     - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2023"
     - Rapid Grand Prix: "turniere/rapidgrandprix/2023"
   Schachsport:
+    - SGM: "sgm/2024/sg1"
     - SMM: "smm/2023/sg1"
     - Führungsliste: "fuehrungsliste"
   Terminkalender: "terminkalender"
