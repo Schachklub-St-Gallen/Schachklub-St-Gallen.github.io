@@ -16,8 +16,6 @@ unter Teamcaptain Ludwig Sapulowitsch.
 
 {% include sgm/2024/sg3/tabelle.html %}
 
-_(Tabelle folgt)_
-
 _Rang 1 qualifiziert sich für Aufstiegsspiele._
 
 ## 1. Runde - 04. November 2023

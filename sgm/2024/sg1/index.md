@@ -16,8 +16,6 @@ unter Teamcaptain Noah Fecker.
 
 {% include sgm/2024/sg1/tabelle.html %}
 
-_(Tabelle folgt)_
-
 _Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
 ## 1. Runde - 04. November 2023
