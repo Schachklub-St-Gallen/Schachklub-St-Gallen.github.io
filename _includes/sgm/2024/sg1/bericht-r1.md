@@ -9,4 +9,4 @@
 | 5     | Jan Fecker (2019)        | Renato Frick (1934)        | 1-0     |
 | 6     | Christian Salerno (2007) | Hans-Jörg Illi (1983)      | 1-0     |
 | 7     | Roman Schmuki (1966)     | Martin Schädler (1775)     | 0-1     |
-| 8     | Hali Rexhepi (1997)      | --                         | 1-0 FF  |
+| 8     | Halit Rexhepi (1997)     | --                         | 1-0 FF  |
