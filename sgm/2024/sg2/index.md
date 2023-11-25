@@ -16,7 +16,7 @@ unter Teamcaptain Frank Wittenbrock.
 
 {% include sgm/2024/sg2/tabelle.html %}
 
-_Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 7 steigt direkt ab._
+_Zwischentabelle nach der 1. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 7 steigt direkt ab._
 
 ## 2. Runde - 25. November 2023
 
