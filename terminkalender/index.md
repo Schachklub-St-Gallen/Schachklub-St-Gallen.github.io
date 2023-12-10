@@ -26,7 +26,7 @@ subtitle: Aktueller Terminkalender 2023
 |                            | <nobr>Mo 11.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 6                 |
 |                            | <nobr>Mo 18.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 7                 |
 
-### Frühjahr 2024
+### Frühjahr 2024 (provisorisch)
 
 | Monat                    | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
 |--------------------------|-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
