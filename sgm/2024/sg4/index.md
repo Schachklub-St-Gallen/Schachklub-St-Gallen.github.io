@@ -18,6 +18,10 @@ unter Teamcaptain Lorenz Markus.
 
 _Zwischentabelle nach der 2. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
 
+## 3. Runde - 09. Dezember 2023
+
+{% include sgm/2024/sg4/bericht-r3.md %}
+
 ## 2. Runde - 25. November 2023
 
 {% include sgm/2024/sg4/bericht-r2.md %}
