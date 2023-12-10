@@ -29,6 +29,9 @@ let BeautifulJekyllJS = {
     BeautifulJekyllJS.initImgs();
 
     BeautifulJekyllJS.initSearch();
+
+    // append .table to all tables for bootstrap styles
+    $('table').addClass('table');
   },
 
   initNavbar : function() {
