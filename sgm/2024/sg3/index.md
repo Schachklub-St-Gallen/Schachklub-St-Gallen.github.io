@@ -6,7 +6,7 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 
 {% include sgm/2024/sgm-buttons.html active=3 %}
 
-## St. Gallen 3
+# St. Gallen 3
 
 St. Gallen 3 spielt in der
 {% include sgm/2024/swisschess-link.html gruppe=515 liga=5 round=2 text="3. Regionalliga, Zone N" %}

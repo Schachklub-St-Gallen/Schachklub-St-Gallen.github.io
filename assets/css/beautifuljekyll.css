@@ -855,7 +855,7 @@ table tr td {
   border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
-  padding: 0.375rem 0.8125rem;
+  padding: 0.375rem 0.8125rem!important;
 }
 table tr th :first-child,
 table tr td :first-child {
