@@ -42,7 +42,7 @@ subtitle: Aktueller Terminkalender 2023
 | <strong>März</strong>    | <nobr>Mo 04.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                    Blitz Cup RD 2                     |
 |                          | <nobr>Mo 11.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                    Blitz Cup RD 3                     |
 |                          | <nobr>Mo 18.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
-|                          | <nobr>Mo 25.03</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                Mitlgiederversammlung?                 |
+|                          | <nobr>Mo 25.03</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                 Mitgliederversammlung                 |
 |                          | <nobr>Mo 01.04</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
 |                          | <nobr>Mo 08.04</nobr> |           -            |      -      |          (Frühlingsferien, kein Klubbetrieb)          |
 |                          | <nobr>Mo 15.04</nobr> |           -            |      -      |          (Frühlingsferien, kein Klubbetrieb)          |
@@ -51,7 +51,7 @@ subtitle: Aktueller Terminkalender 2023
 |                          | <nobr>Mo 06.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Klubmeisterschaft RD 2                 |
 |                          | <nobr>Mo 13.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Klubmeisterschaft RD 3                 |
 |                          | <nobr>Mo 20.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           (Pfingstmontag, kein Klubbetrieb)           |
-|                          | <nobr>Mo 27.05</nobr> | <nobr>19:45 Uhr</nobr  | Tschudiwies |                Klubmeisterschaft RD 4                 |
+|                          | <nobr>Mo 27.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Klubmeisterschaft RD 4                 |
 | <strong>Juni</strong>    | <nobr>Mo 03.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Klubmeisterschaft RD 5                 |
 |                          | <nobr>Mo 10.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
 |                          | <nobr>Mo 17.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
