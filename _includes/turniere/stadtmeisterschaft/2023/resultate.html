@@ -1,58 +1,62 @@
 <ul class="nav nav-tabs">
-  <li class="nav-item">
-    <a class="nav-link" href="#schlussrangliste" data-toggle="tab"
-      >Zwischenrangliste</a
-    >
-  </li>
-  <li class="nav-item dropdown">
-    <a
-      class="nav-link dropdown-toggle active"
-      data-toggle="dropdown"
-      href="#"
-      role="button"
-      aria-haspopup="true"
-      aria-expanded="false"
-      >Runden</a
-    >
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="#runde-1" data-toggle="tab">1. Runde</a>
-      <a class="dropdown-item" href="#runde-2" data-toggle="tab">2. Runde</a>
-      <a class="dropdown-item" href="#runde-3" data-toggle="tab">3. Runde</a>
-      <a class="dropdown-item" href="#runde-4" data-toggle="tab">4. Runde</a>
-      <a class="dropdown-item" href="#runde-5" data-toggle="tab">5. Runde</a>
-      <a class="dropdown-item active" href="#runde-6" data-toggle="tab">6. Runde</a>
-    </div>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#startrangliste" data-toggle="tab"
-      >Startrangliste</a
-    >
-  </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#schlussrangliste" data-toggle="tab"
+        >Zwischenrangliste</a
+        >
+    </li>
+    <li class="nav-item dropdown">
+        <a
+                class="nav-link dropdown-toggle active"
+                data-toggle="dropdown"
+                href="#"
+                role="button"
+                aria-haspopup="true"
+                aria-expanded="false"
+        >Runden</a
+        >
+        <div class="dropdown-menu">
+            <a class="dropdown-item" href="#runde-1" data-toggle="tab">1. Runde</a>
+            <a class="dropdown-item" href="#runde-2" data-toggle="tab">2. Runde</a>
+            <a class="dropdown-item" href="#runde-3" data-toggle="tab">3. Runde</a>
+            <a class="dropdown-item" href="#runde-4" data-toggle="tab">4. Runde</a>
+            <a class="dropdown-item" href="#runde-5" data-toggle="tab">5. Runde</a>
+            <a class="dropdown-item" href="#runde-6" data-toggle="tab">6. Runde</a>
+            <a class="dropdown-item active" href="#runde-7" data-toggle="tab">7. Runde</a>
+        </div>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#startrangliste" data-toggle="tab"
+        >Startrangliste</a
+        >
+    </li>
 </ul>
 <div class="tab-content">
-  <div role="tabpanel" class="tab-pane" id="schlussrangliste">
-    {% include turniere/stadtmeisterschaft/2023/schlussrangliste.html %}
-  </div>
-  <div role="tabpanel" class="tab-pane" id="runde-1">
-    {% include turniere/stadtmeisterschaft/2023/runde-1.html %}
-  </div>
-  <div role="tabpanel" class="tab-pane" id="runde-2">
-    {% include turniere/stadtmeisterschaft/2023/runde-2.html %}
-  </div>
-  <div role="tabpanel" class="tab-pane" id="runde-3">
-    {% include turniere/stadtmeisterschaft/2023/runde-3.html %}
-  </div>
-  <div role="tabpanel" class="tab-pane" id="runde-4">
-    {% include turniere/stadtmeisterschaft/2023/runde-4.html %}
-  </div>
-  <div role="tabpanel" class="tab-pane" id="runde-5">
-    {% include turniere/stadtmeisterschaft/2023/runde-5.html %}
-  </div>
-    <div role="tabpanel" class="tab-pane active" id="runde-6">
+    <div role="tabpanel" class="tab-pane" id="schlussrangliste">
+        {% include turniere/stadtmeisterschaft/2023/schlussrangliste.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="runde-1">
+        {% include turniere/stadtmeisterschaft/2023/runde-1.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="runde-2">
+        {% include turniere/stadtmeisterschaft/2023/runde-2.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="runde-3">
+        {% include turniere/stadtmeisterschaft/2023/runde-3.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="runde-4">
+        {% include turniere/stadtmeisterschaft/2023/runde-4.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="runde-5">
+        {% include turniere/stadtmeisterschaft/2023/runde-5.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="runde-6">
         {% include turniere/stadtmeisterschaft/2023/runde-6.html %}
     </div>
-  <div role="tabpanel" class="tab-pane" id="startrangliste">
-    {% include turniere/stadtmeisterschaft/2023/startrangliste.html %}
-  </div>
-  <div role="tabpanel" class="tab-pane" id="match"></div>
+    <div role="tabpanel" class="tab-pane active" id="runde-7">
+        {% include turniere/stadtmeisterschaft/2023/runde-7.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="startrangliste">
+        {% include turniere/stadtmeisterschaft/2023/startrangliste.html %}
+    </div>
+    <div role="tabpanel" class="tab-pane" id="match"></div>
 </div>
