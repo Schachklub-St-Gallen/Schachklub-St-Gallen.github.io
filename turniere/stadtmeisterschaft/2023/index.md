@@ -10,6 +10,8 @@ Ex-Schulhaus [Tschudiwies](/info) ausgetragen.
 
 Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterschaft 2023.pdf){:target="\_blank"}**.
 
+Den Schlussbericht zur letzten Runde findet ihr bei den Berichten: **[Roman Schmuki ist Stadtmeister 2023!](/2023-12-20-stadtmeisterschaft-2023-schlussbericht)**
+
 ### Resultate
 
 {% include turniere/stadtmeisterschaft/2023/resultate.html %}
