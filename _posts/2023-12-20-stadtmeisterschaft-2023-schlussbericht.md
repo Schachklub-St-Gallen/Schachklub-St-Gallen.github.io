@@ -7,34 +7,37 @@ thumbnail-img: /assets/img/stadtmeisterschaft/2023/siegerfoto.jpeg
 
 Liebe Schachfreunde
 
-Hier mein Bericht von der [Stadtmeisterschaft 2023](/turniere/stadtmeisterschaft/2023).
+Im Tschudiwies haben in den vergangenen zwei Monaten 22 Schachbegeisterte Mitglieder sowie Schachinteressierte aus der
+Region um den Titel St. Galler [Stadtmeisterschaft 2023](/turniere/stadtmeisterschaft/2023) gespielt.
 
-Im Tschudiwies haben sich 22 Schachbegeisterte getroffen um einen neuen Stadtmeister herauszubekoren.
-In diesen sieben Runden gab es eine Menge interessante Partien zu bestaunen und viele Favoriten haben nicht schlecht
-gestaunt.
+In den sieben gespielten Runden gab es eine Menge interessante Partien zu bestaunen und viele Favoriten wurden von
+höchst motivierten und gut vorbereiteten Aufsteiger/innen überrascht.
 
-Es wurde um jedes Feld eisern gekämpft und am Schluss behielt Roman Schmuki die Oberhand vor Yasin Chennaoui und Marc
-Potterat allesamt auf dem Podest.
+Am Ende entschied Roman Schmuki mit einem überragenden Punktestand von 6.5/7 vor Yasin Chennaoui und Marc Potterat das
+Turnier für sich und krönte seine Schachkarriere in unserem Verein erstmals und kurz vor seinem 70 Geburtstag mit diesem
+Titel.
 
 ![Siegerfoto](/assets/img/stadtmeisterschaft/2023/siegerfoto.jpeg)\
 _Von links nach rechts: Yasin Chennaoui (2. Platz), Roman Schmuki (1. Platz) und Marc Potterat (3. Platz)_
 
-Beste Spielerin unter 2000 Elo war Linda Thöny ohne eine Wertungszahl. Bester Spieler unter 1800 Elo wurde Miguel Garcia
-und bester Spieler unter 1600 Elo Gerhard Mannsberger. Die anderen Preise gewannen bester Senior Michael Nyffenegger und
-bester Junior Miro Settegrana.
+Beste Spielerin unter 2000 Elo war Linda Thöny und dies gleich noch ohne offizielle Wertungszahl. Bester Spieler unter
+1800 Elo wurde Miguel Garcia und bester Spieler unter 1600 Elo Gerhard Mannsberger. Die anderen Preise gewannen als
+bester Senior Michael Nyfenegger, der in der letzten Runde Roman Schmuki mit heftiger Gegenwehr noch zu bremsen
+versuchte,
+sich jedoch wegen Romans aktiver Figuren und des Vormarschs der gegnerischen Bauern schlussendlich geschlagen geben
+musste. Bester Junior wurde Miro Settegrana, der in der letzten Runde in einer taktischen Partie mit dem vergangenen
+Stadtmeister Dimitri Kindle Remis hielt.
 
 ![Top5](/assets/img/stadtmeisterschaft/2023/top5.png)\
 _Die ersten fünf Plätze der Schlussrangliste. Die vollständige Rangliste sowie die Ergebnisse aller Runden findet ihr
 auf der Hauptseite der [Stadtmeisterschaft 2023](/turniere/stadtmeisterschaft/2023)._
 
-Was ich toll fand, es gab keine Zwischenfälle und keine Streitigkeiten.
-Ich aus meiner Sicht bin als Turnierorganisator auch sehr zufrieden.
+Erfreulich ist, dass es keine Zwischenfälle und keine Streitigkeiten zu vermelden gibt. Ich aus meiner Sicht bin als
+Turnierorganisator sehr zufrieden.
 
-Möchte mich noch bei Jan Frei bedanken der die ganze Infrastruktur auf der Homepage und mit dem Swiss Manager geleitet
-hat. Und Thomas Schoch der es auch ermöglichte zwischen den Runden zu spielen.
-
-Auch einen herzlichen Dank an Linda die feinen Kuchen mitgebracht hat zur letzten Runde.
-
-Mit diesen Worten
+Weiter möchte ich mich noch bei Jan Frei bedanken, der die die ganze Informationsverarbeitung auf der Homepage und mit
+dem Swiss Manager gemanagt hat, sowie Thomas Schoch, der es uns im Tschudiwies ermöglichte, zwischen den Runden die
+Nachholpartien zu spielen. Auch einen herzlichen Dank geht an Linda Thöny für die leckeren Kuchen in der letzten Runde
+für die gesamte Truppe!
 
 Euer Miguel Garcia
