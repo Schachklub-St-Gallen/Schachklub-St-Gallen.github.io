@@ -25,7 +25,7 @@ Alle Infos zu jedem Klubabend sind im **[Terminkalender](../terminkalender)** zu
 
 ## Anreise
 
-- **ÖV**: Das Klublokal befindet sich ca. 10 bis 15 Gehminuten vom Bahnhof St. Gallen entfernt. Mit der Buslinie 5 in Richtung Riethüsli, bei der Haltestelle Melonenstrasse aussteigen.
+- **ÖV**: Das Klublokal befindet sich ca. 10 bis 15 Gehminuten vom Bahnhof St. Gallen entfernt. Mit dem Bus kann man mit der Linie 5 in Richtung Riethüsli fahren und bei der Haltestelle Melonenstrasse aussteigen.
 - **Auto**: In den anliegenden Strassen um das Klublokal hat es Blaue Zonen Parkplätze. Das nächste Parkhaus ist das Parkhaus Kreuzbleiche, welches gut 10 Gehminuten vom Klublokal entfernt ist.
 
 Das Klublokal befindet sich im 1. Stock im linken Gebäude des ehemaligen Schulhauses Tschudiwies.
@@ -55,7 +55,17 @@ Möchtest du Mitglied des Schachklubs St. Gallen werden oder einfach einmal rein
 
 Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 
-### Vorstand
+## Jahresbeiträge
+
+|                                          | Klubbeitrag | SSB Beitrag | Total   |
+|------------------------------------------|-------------|-------------|---------|
+| Aktivmitglieder                          | 120 CHF     | 80 CHF      | 200 CHF |
+| Gönner (Mitgliedschaft ohne Spiellizenz) | 120 CHF     | -           | 120 CHF |
+| Familien / Studenten / Senioren (Ü60)    | 80 CHF      | 80 CHF      | 160 CHF |
+| Schüler / Lehrlinge (U20)                | 30 CHF      | 50 CHF      | 80 CHF  |
+| Doppelmitglieder                         | 60 CHF      | 80 CHF      | 140 CHF |
+
+## Vorstand
 
 | Präsident | Dimitri Kindle |
 | Vizepräsident/Webmaster | Jan Frei |

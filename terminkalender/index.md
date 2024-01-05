@@ -4,29 +4,7 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2023
 ---
 
-### Spätjahr 2023
-
-| Monat                      | Datum                 |          Zeit          |     Ort     |                          Veranstaltung                           |
-|----------------------------|-----------------------|:----------------------:|:-----------:|:----------------------------------------------------------------:|
-| <strong>August</strong>    | <nobr>Sa 12.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |            <span style="color:red">Sommerfest</span>             |
-|                            | <nobr>Mo 14.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
-|                            | <nobr>Mo 21.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                          Rapid Turnier                           | 
-|                            | <nobr>Mo 28.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
-| <strong>September</strong> | <nobr>Mo 04.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                       Vortrag Noah Fecker                        |
-|                            | <nobr>Mo 11.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
-|                            | <nobr>Mo 18.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                     Besprechung Qualiturnier                     |
-|                            | <nobr>Mo 25.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                 Kein Spieleabend (Qualiturnier)                  |
-| <strong>Oktober</strong>   | <nobr>Mo 23.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies | <span style="color:red">St.Galler Stadtmeisterschaft RD 1</span> |
-|                            | <nobr>Mo 30.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 2                 |
-| <strong>November</strong>  | <nobr>Mo 06.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
-|                            | <nobr>Mo 13.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 4                 |
-|                            | <nobr>Mo 20.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 5                 |
-|                            | <nobr>Mo 27.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Vortrag Milan Novkovic                      |
-| <strong>Dezember</strong>  | <nobr>Mo 04.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |               Nachholpartien / Freier Spieleabend                |
-|                            | <nobr>Mo 11.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 6                 |
-|                            | <nobr>Mo 18.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 7                 |
-
-### Frühjahr 2024 (provisorisch)
+### Frühjahr 2024
 
 | Monat                    | Datum                 |          Zeit          |     Ort     |                        Veranstaltung                         |
 |--------------------------|-----------------------|:----------------------:|:-----------:|:------------------------------------------------------------:|
@@ -57,3 +35,25 @@ subtitle: Aktueller Terminkalender 2023
 |                          | <nobr>Mo 17.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                      |
 |                          | <nobr>Mo 24.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">St. Galler Blitzmeisterschaft</span> |
 | <strong>Juli</strong>    | <nobr>Mo 01.07</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                      |
+
+### Spätjahr 2023
+
+| Monat                      | Datum                 |          Zeit          |     Ort     |                          Veranstaltung                           |
+|----------------------------|-----------------------|:----------------------:|:-----------:|:----------------------------------------------------------------:|
+| <strong>August</strong>    | <nobr>Sa 12.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |            <span style="color:red">Sommerfest</span>             |
+|                            | <nobr>Mo 14.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
+|                            | <nobr>Mo 21.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                          Rapid Turnier                           | 
+|                            | <nobr>Mo 28.08</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
+| <strong>September</strong> | <nobr>Mo 04.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                       Vortrag Noah Fecker                        |
+|                            | <nobr>Mo 11.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                        Freier Spieleabend                        |
+|                            | <nobr>Mo 18.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                     Besprechung Qualiturnier                     |
+|                            | <nobr>Mo 25.09</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                 Kein Spieleabend (Qualiturnier)                  |
+| <strong>Oktober</strong>   | <nobr>Mo 23.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies | <span style="color:red">St.Galler Stadtmeisterschaft RD 1</span> |
+|                            | <nobr>Mo 30.10</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 2                 |
+| <strong>November</strong>  | <nobr>Mo 06.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 3                 |
+|                            | <nobr>Mo 13.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 4                 |
+|                            | <nobr>Mo 20.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 5                 |
+|                            | <nobr>Mo 27.11</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                      Vortrag Milan Novkovic                      |
+| <strong>Dezember</strong>  | <nobr>Mo 04.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |               Nachholpartien / Freier Spieleabend                |
+|                            | <nobr>Mo 11.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 6                 |
+|                            | <nobr>Mo 18.12</nobr> | <nobr>19:30 Uhr</nobr> | Tschudiwies |                St.Galler Stadtmeisterschaft RD 7                 |
