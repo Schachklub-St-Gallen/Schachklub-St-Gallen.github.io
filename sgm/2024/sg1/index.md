@@ -18,6 +18,10 @@ unter Teamcaptain Noah Fecker.
 
 _Zwischentabelle nach der 2. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
+## 4. Runde - 13. Januar 2024
+
+{% include sgm/2024/sg1/bericht-r4.md %}
+
 ## 3. Runde - 09. Dezember 2023
 
 {% include sgm/2024/sg1/bericht-r3.md %}
