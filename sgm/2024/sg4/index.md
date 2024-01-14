@@ -16,7 +16,7 @@ unter Teamcaptain Lorenz Markus.
 
 {% include sgm/2024/sg4/tabelle.html %}
 
-_Zwischentabelle nach der 2. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
+_Zwischentabelle nach der 3. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
 
 ## 4. Runde - 13. Januar 2024
 
