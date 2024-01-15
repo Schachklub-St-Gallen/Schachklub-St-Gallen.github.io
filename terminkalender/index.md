@@ -10,7 +10,7 @@ subtitle: Aktueller Terminkalender 2023
 |--------------------------|-----------------------|:----------------------:|:-----------:|:------------------------------------------------------------:|
 | <strong>Januar</strong>  | <nobr>Mo 01.01</nobr> |           -            |      -      |               (Winterferien, kein Klubbetrieb)               |       
 |                          | <nobr>Mo 08.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                        Rapidturnier 1                        |
-|                          | <nobr>Mo 15.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                        Rapidturnier 2                        |
+|                          | <nobr>Mo 15.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                ~~Rapidturnier 2~~ (fällt aus)                |
 |                          | <nobr>Mo 22.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                        Rapidturnier 3                        |
 |                          | <nobr>Mo 29.01</nobr> |           -            |      -      |               (Sportferien, kein Klubbetrieb)                |
 | <strong>Februar</strong> | <nobr>Mo 05.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                      |
