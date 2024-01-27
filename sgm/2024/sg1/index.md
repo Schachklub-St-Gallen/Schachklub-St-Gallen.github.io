@@ -9,14 +9,18 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 # St. Gallen 1
 
 St. Gallen 1 spielt in der
-{% include sgm/2024/swisschess-link.html gruppe=202 liga=2 round=3 text="2. Bundesliga, Zone B" %}
+{% include sgm/2024/swisschess-link.html gruppe=202 liga=2 round=4 text="2. Bundesliga, Zone B" %}
 unter Teamcaptain Noah Fecker.
 
 ## Zwischentabelle
 
 {% include sgm/2024/sg1/tabelle.html %}
 
-_Zwischentabelle nach der 3. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
+_Zwischentabelle nach der 4. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
+
+## 5. Runde - 27. Januar 2024
+
+{% include sgm/2024/sg1/bericht-r5.md %}
 
 ## 4. Runde - 13. Januar 2024
 
