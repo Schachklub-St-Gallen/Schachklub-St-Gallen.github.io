@@ -1,6 +1,6 @@
 ### Chur 1 - St. Gallen 2 (1.5 - 4.5)
 
-| Brett | Chur 1                | SpielerJoueur              | 1.5-4.5 |
+| Brett | Chur 1                | St. Gallen 2               | 1.5-4.5 |
 |-------|-----------------------|----------------------------|---------|
 | 1     | Slobodan Adzic (2006) | Benito Rusconi (2019)      | ½-½     |
 | 2     | Oswald Bürgi (2022)   | Viktor Guba (1848)         | 0-1     |
