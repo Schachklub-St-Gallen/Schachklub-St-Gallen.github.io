@@ -18,6 +18,10 @@ unter Teamcaptain Ludwig Sapulowitsch.
 
 _Zwischentabelle nach der 5. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
 
+## 6. Runde - 10. Februar 2024
+
+{% include sgm/2024/s3/bericht-r6.md %}
+
 ## 5. Runde - 27. Januar 2024
 
 {% include sgm/2024/sg3/bericht-r5.md %}

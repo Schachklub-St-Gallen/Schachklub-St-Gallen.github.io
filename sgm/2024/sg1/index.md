@@ -18,6 +18,10 @@ unter Teamcaptain Noah Fecker.
 
 _Zwischentabelle nach der 5. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
+## 6. Runde - 10. Februar 2024
+
+{% include sgm/2024/sg1/bericht-r6.md %}
+
 ## 5. Runde - 27. Januar 2024
 
 {% include sgm/2024/sg1/bericht-r5.md %}
