@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Miguel Garcia gewinnt erste Runde des Blitzmeisterschaft
+title: Miguel Garcia gewinnt erste Runde der Blitzmeisterschaft
 subtitle: Platz zwei geht an Elias Giesinger, Platz drei an Raphael Bömelburg
 ---
 
