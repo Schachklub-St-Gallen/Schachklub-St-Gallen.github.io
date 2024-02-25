@@ -30,7 +30,7 @@ Alle Infos zu jedem Klubabend sind im **[Terminkalender](../terminkalender)** zu
 
 Das Klublokal befindet sich im 1. Stock im linken Gebäude des ehemaligen Schulhauses Tschudiwies.
 
-<iframe width="100%" height="520" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d674.93530140726!2d9.365126888139532!3d47.416988806160745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b1fca7162f0e7%3A0x4b117315f3b797f3!2sTschudistrasse+21%2C+9000+St.+Gallen!5e0!3m2!1sde!2sch!4v1522354086375"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1349.8757530821356!2d9.364678339166312!3d47.41678790773824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b1f0b28882695%3A0xc43c45d21cef232c!2sSchachklub%20St.%20Gallen!5e0!3m2!1sen!2sus!4v1708895068948!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Kontaktformular
 
