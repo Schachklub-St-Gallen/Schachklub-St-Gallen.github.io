@@ -2,6 +2,7 @@
 layout: post
 title: Schweizer Männer und Frauen auf dem Podest am Mitropa Cup
 subtitle: Noah Fecker wird mit dem Schweizer Team Zweiter, die Frauen gewinnen Bronze.
+thumbnail-img: /assets/img/2024-02-25-Mitropa-Cup-24-beide-web.jpg
 ---
 
 Starke Leistung am Mitropa Cup in Deutschland: Noah Fecker und das Schweizer Team gewinnen Silber, die Frauen gewinnen
