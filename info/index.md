@@ -59,11 +59,11 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 
 |                                          | Klubbeitrag | SSB Beitrag* | Total   |
 |------------------------------------------|-------------|--------------|---------|
-| Aktivmitglieder                          | 120 CHF     | 80 CHF       | 200 CHF |
+| Aktivmitglieder                          | 100 CHF     | 100 CHF      | 200 CHF |
 | Gönner (Mitgliedschaft ohne Spiellizenz) | 120 CHF     | -            | 120 CHF |
-| Familien / Studenten / Senioren (Ü60)    | 80 CHF      | 80 CHF       | 160 CHF |
+| Familien / Studenten / Senioren (Ü60)    | 60 CHF      | 100 CHF      | 160 CHF |
 | Schüler / Lehrlinge (U20)                | 30 CHF      | 50 CHF       | 80 CHF  |
-| Doppelmitglieder                         | 60 CHF      | 80 CHF       | 140 CHF |
+| Doppelmitglieder                         | 40 CHF      | 100 CHF      | 140 CHF |
 
 (*) Beitrag an den Schweizerischen Schachbund (SSB) für die Spiellizenz für Wettkämpfe ausserhalb des Klubabends.
 
