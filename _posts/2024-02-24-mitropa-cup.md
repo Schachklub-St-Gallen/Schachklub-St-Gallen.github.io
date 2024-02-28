@@ -6,7 +6,9 @@ thumbnail-img: /assets/img/2024-02-25-Mitropa-Cup-24-beide-web.jpg
 ---
 
 Starke Leistung am Mitropa Cup in Deutschland: Noah Fecker und das Schweizer Team gewinnen Silber, die Damen gewinnen
-Bronze. FM Noah Fecker spielt 3 aus 7 Punkte und erreicht mit dem Schweizer Team den zweiten Platz, welches mit 14
+Bronze.
+
+FM Noah Fecker spielt 3 aus 7 Punkte und erreicht mit dem Schweizer Team den zweiten Platz, welches mit 14
 Gesamtpunkten eine starke Leistung aufweist.
 
 Die Damen holen sich die Bronzemedaille mit 12 Punkten, hinter Deutschland und Frankreich. Diese beachtliche Leistung
