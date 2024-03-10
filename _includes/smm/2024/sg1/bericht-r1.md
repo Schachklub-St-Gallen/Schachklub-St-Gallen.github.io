@@ -16,6 +16,7 @@ siegte deutlich mit 5:3 auswärts gegen Wettswil 1, das immerhin mit drei FM und
 Das klare Verdikt verdanken wir einerseits den schönen Siegen unserer beiden Spitzenspieler Milan Novkovic und Alfred
 Weindl und andererseits der geschlossenen Mannschaftsleistung aller anderen sechs Spieler, die lückenlos Remis halten
 konnten, obwohl eigentlich niemand von ihnen wirklich besser stand.
+
 Toni Thaler remisierte, da er nichts aus seinem Damengambit herausholen konnte und der Gegner mit Schwarz eher aktiver
 stand. Marc Potterat musste lange mit Schwarz um den Ausgleich kämpfen, erzielte dann aber ein klares Unentschieden.
 Julia Novkovic verlor in der Eröffnung einen Bauern, konnte aber dank aktivem Spiel dem Gegner wieder einen Bauern
@@ -24,11 +25,13 @@ Verteidigungskünstlers. Zäh und clever hielt er den Gewinnversuchen seines Spi
 etwas Druck aus der Eröffnung ins Mittelspiel herüberretten können. Doch sein versierter Gegner Marcel Hug schaffte den
 Ausgleich. Ein Husarenstück bot Martin Leutwyler am dritten Brett gegen den IM Andreas Huss. Er rettete sich gekonnt in
 ein Läuferendspiel mit ungleichen Läufern und einem Minusbauern, wo auch der renommierte Gegner kein Gewinnmittel fand.
+
 Alfred Weindl trumpfte gegen die grosse Rochade seines Gegners mit einem wohldosierten Angriff auf, der den Druck stetig
 erhöhte und die schwarze Stellung kollabieren liess. Ein perfekter Sieg! Auch souverän holte Milan Novkovic den ganzen
 Punkt gegen den spielstarken Urs Rüetschi. Milan konnte ausnutzen, dass sein Gegner mit Weiss die Spannung nicht
 aufrechterhielt. Durch aktives Gegenspiel eroberte unsere Nummer Eins einen Bauern, sodass sein eigener a-Bauer als
 Freibauer und letzter Bauer auf dem gesamten Damenflügel bis a2 vordringen konnte. Der Rest war solide Technik.
+
 Mit diesem gelungenen Start in die neue Saison können wir zuversichtlich den nächsten Matches entgegensehen.
 
 Der Mannschaftsleiter
