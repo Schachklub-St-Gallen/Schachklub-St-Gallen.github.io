@@ -18,13 +18,13 @@ So kam auch nach der verkorksten Eröffnung nur noch der 50 zügige Leidensweg w
 dominierenden Begleiterscheinungen, die mit dem sechsten Zug begannen und unausweichlich für das Endergebnis eines
 Spiels feststand, das man schnell vergessen möchte.
 
-Am Brett 1 Linda und am Brett 3 Martin die ELO führenden, wie auch Thomas am Brett 6 konnten keine positiven Impulse in
-das Spielgeschehen übertragen, so waren die Fortsetzungen die am Brett 2 begannen auch zu negativen Zwischenstand 0 - 4
-führten und mit 1,5 – 4,5 Niederlage für das Endergebnis stand. Linda und Martin mit gut gespielten und kampfbetonten
-Eröffnungen, die lange auf ein auf dynamischer Gleichwertigkeit basierenden Mittelspiel hinausliefen. Leider bei Linda
+Am Brett 1 Linda und am Brett 3 Martin die ELO führenden, wie auch Thomas am Brett 6, konnten keine positiven Impulse in
+das Spielgeschehen übertragen, so waren die Fortsetzungen, die am Brett 2 begannen auch zum negativen Zwischenstand 0 - 4
+führten und mit 1,5 – 4,5 Niederlage für das Endergebnis stand. Linda und Martin standen mit gut gespielten und kampfbetonten
+Eröffnungen da, die lange auf ein auf dynamischer Gleichwertigkeit basierenden Mittelspiel hinausliefen. Leider bei Linda
 trotz Material Gleichheit, aber eine offene Königstellung, die zum unausweichlichen Matt führte. In Zeitnot war auch
 ihre Aufgabe nicht zu früh. Bei Martin waren das spielentscheidende materielle Ungleichgewicht massgebend für die
-Aufgabe. Mit zwei Bauern weniger im Endspiel war auch eine aussichtslose Situation für ihn und für seinen Gegner der
+Aufgabe. Mit zwei Bauern weniger im Endspiel war das auch eine aussichtslose Situation für ihn und für seinen Gegner der
 entscheidende Vorteil.
 
 Hier möchte ich Jelmer willkommen heissen, er kam, sah und siegte. So einfach war es wohl nicht, aber der gutgeführte
