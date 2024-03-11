@@ -6,7 +6,7 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 
 ### Saisons
 
-{% include smm/smm-buttons-year.html active=2023 %}
+{% include smm/smm-buttons-year.html year=2023 team=3 %}
 
 ### Mannschaften
 

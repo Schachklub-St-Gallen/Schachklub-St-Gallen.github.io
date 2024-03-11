@@ -6,7 +6,7 @@ subtitle: Alle Informationen zur SMM-Saison 2024
 
 ### Saisons
 
-{% include smm/smm-buttons-year.html active=2024 %}
+{% include smm/smm-buttons-year.html year=2024 team=4 %}
 
 ### Mannschaften
 

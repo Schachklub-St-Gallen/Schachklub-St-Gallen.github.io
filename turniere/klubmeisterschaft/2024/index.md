@@ -9,7 +9,7 @@ sind in der [Ausschreibung](Klubmeisterschaft2024.pdf){:target="\_blank"}.
 
 ### Anmeldung
 
-Anmelden könnt ihr euch [hier](https://forms.gle/4bWDWroHpca8rcoG8).
+Wir bitten um Voranmeldung mittels diesem Formular [hier](https://forms.gle/4bWDWroHpca8rcoG8){:target="\_blank"}.
 
 ### Provisorische Teilnehmerliste (Stand 10.03.2024)
 
