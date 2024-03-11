@@ -18,6 +18,7 @@ Wir bitten um Voranmeldung mittels diesem Formular [hier](https://forms.gle/4bWD
 | 1        | Wolfgang | Eisenbeiss   | 1784 |              |
 | 2        | Martin   | Eichenberger | 1770 |              |
 | 3        | Jan      | Frei         | 1737 |              |
+| 3        | Thomas   | Gebhardt     | 1490 |              |
 
 ### Vergangene Klubmeisterschaften
 
