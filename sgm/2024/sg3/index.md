@@ -12,7 +12,7 @@ St. Gallen 3 spielt in der
 {% include sgm/2024/swisschess-link.html gruppe=515 liga=5 round=7 text="3. Regionalliga, Zone N" %}
 unter Teamcaptain Ludwig Sapulowitsch.
 
-## Zwischentabelle
+## Schlusstabelle
 
 {% include sgm/2024/sg3/tabelle.html %}
 

@@ -12,7 +12,7 @@ St. Gallen 2 spielt in der
 {% include sgm/2024/swisschess-link.html gruppe=304 liga=3 round=7 text="1. Regionalliga, Zone D" %}
 unter Teamcaptain Frank Wittenbrock.
 
-## Zwischentabelle
+## Schlusstabelle
 
 {% include sgm/2024/sg2/tabelle.html %}
 
