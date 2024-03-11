@@ -4,6 +4,12 @@ title: SMM 2023
 subtitle: Alle Informationen zur SMM-Saison 2023
 ---
 
+### Saisons
+
+{% include smm/smm-buttons-year.html active=2023 %}
+
+### Mannschaften
+
 {% include smm/2023/smm-buttons.html active=3 %}
 
 ## St. Gallen 3
