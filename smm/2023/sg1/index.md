@@ -19,8 +19,6 @@ St. Gallen 1 spielte in der Saison 2023 in der
 unter Teamcaptain Roman Schmuki. Da St. Gallen 1 das Aufstiegsspiel gegen Wollishofen gewonnen hat, spielt St. Gallen 1
 in der Saison 2024 in der NLB.
 
-![Schlusstabelle](/assets/img/smm/schlusstabellen_smm_2023.png)
-
 ## Schlusstabelle
 
 {% include smm/2023/sg1/tabelle.html %}

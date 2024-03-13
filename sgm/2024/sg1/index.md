@@ -8,9 +8,10 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 
 # St. Gallen 1
 
-St. Gallen 1 spielt in der
+St. Gallen 1 spielte in der Saison 2024 in der
 {% include sgm/2024/swisschess-link.html gruppe=202 liga=2 round=7 text="2. Bundesliga, Zone B" %}
-unter Teamcaptain Noah Fecker.
+unter Teamcaptain Noah Fecker. St. Gallen 1 belegte den 4. Platz und damit das Mittelfeld. In der nächsten Saison wird
+das Team erneut in der 2. Bundesliga antreten.
 
 ## Schlusstabelle
 

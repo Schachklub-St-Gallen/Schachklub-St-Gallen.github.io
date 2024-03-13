@@ -18,8 +18,6 @@ St. Gallen 3 spielte in der Saison 2023 in der
 {% include smm/2023/swisschess-link.html gruppe=601 liga=6 round=6 text="4. Liga, Gruppe Ost 1" %}
 unter Teamcaptain Ludwig Sapulowitsch. St. Gallen 3 belegte den 2. Platz und steigt damit in die 3. Liga auf.
 
-![Schlusstabelle](/assets/img/smm/schlusstabellen_smm_2023.png)
-
 ## Schlusstabelle
 
 {% include smm/2023/sg3/tabelle.html %}

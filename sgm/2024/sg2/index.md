@@ -8,9 +8,9 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 
 # St. Gallen 2
 
-St. Gallen 2 spielt in der
+St. Gallen 2 spielte in der Saison 2024 in der
 {% include sgm/2024/swisschess-link.html gruppe=304 liga=3 round=7 text="1. Regionalliga, Zone D" %}
-unter Teamcaptain Frank Wittenbrock.
+unter Teamcaptain Frank Wittenbrock. Die Mannschaft belegte den 7. Rang und steigt in die 2. Regionalliga ab.
 
 ## Schlusstabelle
 

@@ -8,9 +8,9 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 
 # St. Gallen 4
 
-St. Gallen 4 spielt in der
+St. Gallen 4 spielte in der Saison 2024 in der
 {% include sgm/2024/swisschess-link.html gruppe=516 liga=5 round=7 text="3. Regionalliga, Zone P" %}
-unter Teamcaptain Lorenz Markus.
+unter Teamcaptain Lorenz Markus. Die Mannschaft belegte den 3. Platz und bleibt in der 3. Regionalliga.
 
 ## Schlusstabelle
 

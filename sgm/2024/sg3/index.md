@@ -8,9 +8,10 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 
 # St. Gallen 3
 
-St. Gallen 3 spielt in der
+St. Gallen 3 spielte in der Saison 2024 in der
 {% include sgm/2024/swisschess-link.html gruppe=515 liga=5 round=7 text="3. Regionalliga, Zone N" %}
-unter Teamcaptain Ludwig Sapulowitsch.
+unter Teamcaptain Ludwig Sapulowitsch. Die Mannschaft belegte den 2. Platz und verpasste die Qualifikation für die
+Aufstiegsspiele nur knapp.
 
 ## Schlusstabelle
 
