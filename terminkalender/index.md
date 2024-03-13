@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terminkalender
-subtitle: Aktueller Terminkalender 2023
+subtitle: Aktueller Terminkalender 2024
 ---
 
 ### Januar 2024
