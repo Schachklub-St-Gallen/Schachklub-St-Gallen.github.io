@@ -24,11 +24,6 @@ Platz 1: Mihaly Köhalmi-Szabo / Platz 2: Kishan Udipi Kala / Platz 3: Ziad Kana
 U16 ([chess-results](https://chess-results.com/tnr809732.aspx?lan=1&art=4){:target="\_blank"}):\
 Platz 1: Johannes Rappazzo / Platz 2: Thierry Breyer / Platz 3: Philippe Breyer
 
-## Fundsachen
-
-**Folgende Gegenstände sind beim Qualiturnier liegengeblieben. Falls Sie etwas hiervon vermissen, dann bitte eine E-Mail an [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch) schreiben.**
-
-![Fundgegenstände](/assets/img/qualiturnier/fundsachen.jpeg)
 
 ## Anwesenheitskontrolle
 **Freitag, 22.09.: 16.00 Uhr – 17.45 Uhr: Anwesenheitskontrolle**, bitte erscheint frühzeitig, damit wir pünktlich starten können.
