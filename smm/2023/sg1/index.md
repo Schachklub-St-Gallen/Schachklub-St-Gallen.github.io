@@ -14,9 +14,12 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 
 ## St. Gallen 1
 
-St. Gallen 1 spielt in der
+St. Gallen 1 spielte in der Saison 2023 in der
 {% include smm/2023/swisschess-link.html gruppe=301 liga=3 round=7 text="1. Liga, Gruppe Ost" %}
-unter Teamcaptain Roman Schmuki.
+unter Teamcaptain Roman Schmuki. Da St. Gallen 1 das Aufstiegsspiel gegen Wollishofen gewonnen hat, spielt St. Gallen 1
+in der Saison 2024 in der NLB.
+
+![Schlusstabelle](/assets/img/smm/schlusstabellen_smm_2023.png)
 
 ## Schlusstabelle
 

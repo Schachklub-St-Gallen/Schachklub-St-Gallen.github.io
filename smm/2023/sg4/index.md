@@ -14,9 +14,11 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 
 ## St. Gallen 4
 
-St. Gallen 4 spielt in der
+St. Gallen 4 spielte in der Saison 2023 in der
 {% include smm/2023/swisschess-link.html gruppe=602 liga=6 round=7 text="4. Liga, Gruppe Ost 2" %}
-unter Teamcaptain Lorenz Markus.
+unter Teamcaptain Lorenz Markus. St. Gallen 4 belegte den 1. Platz und steigt damit in die 3. Liga auf.
+
+![Schlusstabelle](/assets/img/smm/schlusstabellen_smm_2023.png)
 
 ## Schlusstabelle
 
