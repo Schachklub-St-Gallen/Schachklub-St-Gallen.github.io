@@ -70,7 +70,7 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 ## Vorstand
 
 | Präsident/Webmaster | Jan Frei |
-| Vizepräsident/Webmaster | Dimitri Kindle |
+| Vizepräsident | Dimitri Kindle |
 | Kassier | Christian Salerno |
 | Leiter Schachschule | Thomas Schoch |
 | Turniere/Kommunikation | Miguel Garcia |
