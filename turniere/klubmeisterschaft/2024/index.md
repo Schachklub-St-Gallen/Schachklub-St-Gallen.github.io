@@ -15,10 +15,11 @@ Wir bitten um Voranmeldung mittels diesem Formular [hier](https://forms.gle/4bWD
 
 | Startnr. | Vorname  | Nachname     | Elo  | prov. Gruppe |
 |----------|----------|--------------|------|--------------|
-| 1        | Wolfgang | Eisenbeiss   | 1784 |              |
-| 2        | Martin   | Eichenberger | 1770 |              |
-| 3        | Jan      | Frei         | 1737 |              |
-| 3        | Thomas   | Gebhardt     | 1490 |              |
+| 1        | Wolfgang | Eisenbeiss   | 1784 | A            |
+| 2        | Martin   | Eichenberger | 1770 | (A) / B      |
+| 3        | Jan      | Frei         | 1737 | A / (B)      |
+| 4        | Thomas   | Gebhardt     | 1490 | B            |
+| 5        | Daniel   | Szokody      | -    | B            |
 
 ### Vergangene Klubmeisterschaften
 
