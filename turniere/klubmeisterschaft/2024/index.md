@@ -11,7 +11,7 @@ sind in der [Ausschreibung](Klubmeisterschaft2024.pdf){:target="\_blank"}.
 
 Wir bitten um Voranmeldung mittels diesem Formular [hier](https://forms.gle/4bWDWroHpca8rcoG8){:target="\_blank"}.
 
-### Provisorische Teilnehmerliste (Stand 10.03.2024)
+### Provisorische Teilnehmerliste (Stand 05.04.2024)
 
 | Startnr. | Vorname  | Nachname     | Elo  | prov. Gruppe |
 |----------|----------|--------------|------|--------------|
