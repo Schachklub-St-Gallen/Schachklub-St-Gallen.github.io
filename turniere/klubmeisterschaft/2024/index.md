@@ -11,15 +11,17 @@ sind in der [Ausschreibung](Klubmeisterschaft2024.pdf){:target="\_blank"}.
 
 Wir bitten um Voranmeldung mittels diesem Formular [hier](https://forms.gle/4bWDWroHpca8rcoG8){:target="\_blank"}.
 
-### Provisorische Teilnehmerliste (Stand 05.04.2024)
+### Provisorische Teilnehmerliste (Stand 10.04.2024)
 
 | Startnr. | Vorname  | Nachname     | Elo  | prov. Gruppe |
 |----------|----------|--------------|------|--------------|
-| 1        | Wolfgang | Eisenbeiss   | 1784 | A            |
-| 2        | Martin   | Eichenberger | 1770 | (A) / B      |
-| 3        | Jan      | Frei         | 1737 | A / (B)      |
-| 4        | Thomas   | Gebhardt     | 1490 | B            |
-| 5        | Daniel   | Szokody      | -    | B            |
+| 1        | Wolfgang | Eisenbeiss   | 1796 | A            |
+| 3        | Jan      | Frei         | 1765 | A            |
+| 3        | Martin   | Eichenberger | 1745 | B            |
+| 4        | Thomas   | Gebhardt     | 1486 | B            |
+| 5        | Niklaus  | Faller       | 1350 | B            |
+| 6        | Daniel   | Szokody      | -    | B            |
+| 7        | Silas    | Tapernoux    | -    | B            |
 
 ### Vergangene Klubmeisterschaften
 
