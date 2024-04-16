@@ -16,6 +16,6 @@ der [Klubmeisterschaft 2024](/turniere/klubmeisterschaft/2024).
 ### Anmeldung
 
 **Zur Anmeldung bitte folgendes Formular
-ausfüllen: [Formular Klubmeisterschaft 2024][hier](https://forms.gle/4bWDWroHpca8rcoG8){:target="\_blank"}**
+ausfüllen: [Formular Klubmeisterschaft 2024](https://forms.gle/4bWDWroHpca8rcoG8){:target="\_blank"}**
 
 _Miguel Garcia_ / _Jan Frei_
