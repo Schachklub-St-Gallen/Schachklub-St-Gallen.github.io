@@ -13,15 +13,17 @@ Wir bitten um Voranmeldung mittels diesem Formular [hier](https://forms.gle/4bWD
 
 ### Provisorische Teilnehmerliste (Stand 10.04.2024)
 
-| Startnr. | Vorname  | Nachname     | Elo  | prov. Gruppe |
-|----------|----------|--------------|------|--------------|
-| 1        | Wolfgang | Eisenbeiss   | 1796 | A            |
-| 3        | Jan      | Frei         | 1765 | A            |
-| 3        | Martin   | Eichenberger | 1745 | B            |
-| 4        | Thomas   | Gebhardt     | 1486 | B            |
-| 5        | Niklaus  | Faller       | 1350 | B            |
-| 6        | Daniel   | Szokody      | -    | B            |
-| 7        | Silas    | Tapernoux    | -    | B            |
+| Startnr. | Vorname     | Nachname     | Elo  | prov. Gruppe |
+|----------|-------------|--------------|------|--------------|
+| 1        | Baumgartner | Hansueli     | 1970 | A            |
+| 2        | Wittenbrock | Frank        | 1959 | A            |
+| 3        | Wolfgang    | Eisenbeiss   | 1796 | A            |
+| 4        | Jan         | Frei         | 1765 | A            |
+| 5        | Martin      | Eichenberger | 1745 | B            |
+| 6        | Thomas      | Gebhardt     | 1486 | B            |
+| 7        | Niklaus     | Faller       | 1350 | B            |
+| 8        | Daniel      | Szokody      | -    | B            |
+| 9        | Silas       | Tapernoux    | -    | B            |
 
 ### Vergangene Klubmeisterschaften
 
