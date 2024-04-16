@@ -1,13 +1,13 @@
 ### St. Gallen 3 - Wil 1 (1.5 - 4.5)
 
-| Brett | St. Gallen 3               | Wil 1                     | 1.5-4.5 |
-|-------|----------------------------|---------------------------|---------|
-| 1     | Linda Thöny (1790)         | Christian Jentgens (1884) | 0-1     |
-| 2     | Ludwig Sapulowitsch (1532) | Peter Fässler (1799)      | 0-1     |
-| 3     | Martin Eichenberger (1770) | Hanspeter Wehrli (1784)   | 0-1     |
-| 4     | Livio Ciardo (1408)        | Chris Brühwiler (1484)    | ½-½     |
-| 5     | Jelmer van der Meulen      | Werner Stucki (1690)      | 1-0     |
-| 6     | Thomas Gebhardt (1490)     | Paul Sprenger (1384)      | 0-1     |
+| Brett | St. Gallen 3               | Wil 1                     | 1½-½ |
+|-------|----------------------------|---------------------------|------|
+| 1     | Linda Thöny (1790)         | Christian Jentgens (1884) | 0-1  |
+| 2     | Ludwig Sapulowitsch (1532) | Peter Fässler (1799)      | 0-1  |
+| 3     | Martin Eichenberger (1770) | Hanspeter Wehrli (1784)   | 0-1  |
+| 4     | Livio Ciardo (1408)        | Chris Brühwiler (1484)    | ½-½  |
+| 5     | Jelmer van der Meulen      | Werner Stucki (1690)      | 1-0  |
+| 6     | Thomas Gebhardt (1490)     | Paul Sprenger (1384)      | 0-1  |
 
 Wird die dritte Liga für St. Gallen 3 ein holpriger Weg, den wir gemeinsam mit sportlicher Motivation durchschreiten
 müssen und bereit sein nie aufzugeben und die bittere Niederlage wegstecken. War das nur eine einmalige leichte
