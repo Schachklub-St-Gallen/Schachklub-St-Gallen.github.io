@@ -34,7 +34,8 @@ An der MV übernahmen ausserdem noch zwei Mitglieder folgenden Funktionen:
 
 - Thomas Gebhardt übernimmt die Verantwortung für das Klublokal am Montagabend (ohne Turniere).
 - Hansueli Baumgartner übernimmt die Protokollführung an den Mitgliederversammlungen.
-  Ich bedanke mich recht herzlich für das Engagement!
+
+Ich bedanke mich recht herzlich für das Engagement!
 
 Vakante Posten sind noch immer:
 
