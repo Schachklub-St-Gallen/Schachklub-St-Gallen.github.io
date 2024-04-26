@@ -19,6 +19,10 @@ Aufstiegsspiele nur knapp.
 
 _Schlusstabelle nach der 7. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
 
+## Aufstiegsspiel
+
+{% include sgm/2024/sg3/bericht-aufstiegsspiel.md %}
+
 ## 7. Runde - 24. Februar 2024
 
 {% include sgm/2024/sg3/bericht-r7.md %}
