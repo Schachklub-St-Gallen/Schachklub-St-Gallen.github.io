@@ -87,13 +87,14 @@ subtitle: Aktueller Terminkalender 2024
 | <nobr>Sa 10.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |      <span style="color:red">Sommerfest</span>      |
 | <nobr>Sa 24.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SMM (Gonzen - SG2, Herisau - SG3, Winterthur - SG4) |
 | <nobr>So 25.08</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                 SMM (SG1 - Zürich)                  |
+| <nobr>Sa 31.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |                 SMM (SG2 - Triesen)                 |
 
 ### September 2024 (unvollständig)
 
-| Datum                 |          Zeit          |  Ort   |                   Veranstaltung                    |
-|-----------------------|:----------------------:|:------:|:--------------------------------------------------:|
-| <nobr>Sa 14.09</nobr> | <nobr>14:00 Uhr</nobr> | divers | SMM (SG2 - Triesen, Toggenburg - SG3, SG4 - Buchs) |
-| <nobr>So 15.09</nobr> | <nobr>12:30 Uhr</nobr> | divers |              SMM (Trubschachen - SG1)              |
+| Datum                 |          Zeit          |  Ort   |            Veranstaltung            |
+|-----------------------|:----------------------:|:------:|:-----------------------------------:|
+| <nobr>Sa 14.09</nobr> | <nobr>14:00 Uhr</nobr> | divers | SMM (Toggenburg - SG3, SG4 - Buchs) |
+| <nobr>So 15.09</nobr> | <nobr>12:30 Uhr</nobr> | divers |      SMM (Trubschachen - SG1)       |
 
 ### Oktober 2024 (unvollständig)
 
