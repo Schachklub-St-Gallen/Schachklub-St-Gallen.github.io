@@ -33,7 +33,7 @@ Michael indes spielt eine sehr solide Partie und hat ein Spiel mit zwei Freibaue
 Dame. Leider schafft sein Gegner jedoch mit der Rückgabe der Qualität ein Dauerschach, und die Partie endet Remis.
 
 Insgesamt ein sehr ausgeglichener Wettkampf, der mit einem gerechten Unentschieden endet. Nach dem Match gehen wir noch
-in Chur auf den guten Match anstossen. Wolfgang, der am nächsten Tag seinen 93. Geburtstag feiert - noch ein weitaus
+in Chur auf den guten Match anstossen. Wolfgang, der am nächsten Tag seinen 92. Geburtstag feiert - noch ein weitaus
 besserer Grund
 zum Anstossen - lädt uns zu einem Prosecco und kleinem Snack ein. Danke Wolfgang, und alles Gute!
 
