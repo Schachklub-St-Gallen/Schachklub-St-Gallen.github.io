@@ -22,11 +22,15 @@ St. Gallen 4 spielt in der {% include smm/2024/swisschess-link.html gruppe=502 l
 
 _Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 und 8 steigen direkt ab._
 
+## 4. Runde - 25. Mai 2024
+
+{% include smm/2024/sg4/bericht-r4.md %}
+
 ## 3. Runde - 27. April 2024
 
 {% include smm/2024/sg4/bericht-r3.md %}
 
-## 2. Runde - 14. April 2024
+## 2. Runde - 13. April 2024
 
 {% include smm/2024/sg4/bericht-r2.md %}
 
