@@ -24,6 +24,8 @@ _Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 9 und 10 steige
 
 ## 5. Runde - 23. Juni 2024
 
+{% include smm/2024/sg1/bericht-r5.md %}
+
 ## 4. Runde - 26. Mai 2024
 
 {% include smm/2024/sg1/bericht-r4.md %}
