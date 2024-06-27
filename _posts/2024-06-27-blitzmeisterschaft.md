@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Blitzmeisterschaft mit 5+3 am vergangenen Montag
-subtitle: Benjamin Rohner gewinnt die Blitzmeisterschaft mit 6 aus 7 Punkten
+title: Benjamin Rohner gewinnt die Blitzmeisterschaft mit 6 aus 7 Punkten
+subtitle: Blitzmeisterschaft mit 5+3 am vergangenen Montag
 ---
 
-Am vergangenen Montag spilten wir die Blitzmeisterschaft mit 5 Minuten pro Spieler und 3 Sekunden Zuschlag pro Zug.
+Am vergangenen Montag spielten wir die Blitzmeisterschaft mit 5 Minuten pro Spieler und 3 Sekunden Zuschlag pro Zug.
 
 Benjamin Rohner gewann das Turnier mit 6 aus 7 Punkten, gefolgt von Roman Schmuki mit 5.5 und Alexander King mit 5
 Punkten.
