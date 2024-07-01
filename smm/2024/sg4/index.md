@@ -14,9 +14,9 @@ subtitle: Alle Informationen zur SMM-Saison 2024
 
 ## St. Gallen 4
 
-St. Gallen 4 spielt in der {% include smm/2024/swisschess-link.html gruppe=502 liga=5 round=4 text="3. Liga, Gruppe Ost 2" %} unter Teamcaptain Lorenz Markus.
+St. Gallen 4 spielt in der {% include smm/2024/swisschess-link.html gruppe=502 liga=5 round=5 text="3. Liga, Gruppe Ost 2" %} unter Teamcaptain Lorenz Markus.
 
-## Zwischentabelle (Runde 4)
+## Zwischentabelle (Runde 5)
 
 {% include smm/2024/sg4/tabelle.html %}
 
