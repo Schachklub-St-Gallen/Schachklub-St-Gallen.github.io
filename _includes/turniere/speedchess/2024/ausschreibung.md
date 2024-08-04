@@ -40,3 +40,5 @@ Gallen).
 
 Anmeldeschluss: Jeweils 19:45 Uhr am Turniertag. Wir bitten um Voranmeldung über
 dieses [Formular](https://forms.gle/vepNwcsfe1KvceMv6){:target="\_blank"}.
+
+![QR Code](/assets/img/turniere/speedchess/2024/qr-code.png)
