@@ -3,17 +3,17 @@
 Der Schachklub St. Gallen führt dieses Jahr den Speed Chess Grand Prix durch. Das Turnier findet an vier Montagen im
 Tschudiwies statt. Die Spieldaten sind folgende:
 
-- Mo, 12.08.24, 19:45 Uhr: 1. Runde
-  - Rapid 10 Minuten + 5 Sekunden Inkrement
+- Mo, **12.08.24**, 19:45 Uhr: 1. Runde
+  - **Rapid** 10 Minuten + 5 Sekunden Inkrement
   - 5 Runden Schweizer System (Feinwertung gemäss Statuten Schachklub St. Gallen)
-- Mo, 26.08.24, 19:45 Uhr: 2. Runde
-  - Blitz 5 Minuten + 3 Sekunden Inkrement
+- Mo, **26.08.24**, 19:45 Uhr: 2. Runde
+  - **Blitz** 5 Minuten + 3 Sekunden Inkrement
   - 7 Runden Schweizer System (Feinwertung gemäss Statuten Schachklub St. Gallen)
-- Mo, 09.09.24, 19:45 Uhr: 3. Runde
-  - Blitz 3 Minuten + 2 Sekunden Inkrement
+- Mo, **09.09.24**, 19:45 Uhr: 3. Runde
+  - **Blitz** 3 Minuten + 2 Sekunden Inkrement
   - 9 Runden Schweizer System (Feinwertung gemäss Statuten Schachklub St. Gallen)
-- Mo, 23.09.24, 19:45 Uhr: 4. Runde
-  - Bullet 1 Minute + 2 Sekunden Inkrement, mit anschliessender Siegerehrung
+- Mo, **23.09.24**, 19:45 Uhr: 4. Runde
+  - **Bullet** 1 Minute + 2 Sekunden Inkrement, mit anschliessender Siegerehrung
   - 9 Runden Schweizer System (Feinwertung gemäss Statuten Schachklub St. Gallen)
 
 **Turniermodus**: Grand Prix. Es werden pro Person die Punkte der besten drei aus vier Turniere gewertet (d.h. mit
