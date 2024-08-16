@@ -20,7 +20,6 @@ author: Jan Frei
 ###############################################
 
 navbar-links:
-  Qualiturnier 2023: "qualiturnier"
   Über uns: "info"
   Berichte: "/"
   Turnierübersicht:
@@ -32,6 +31,7 @@ navbar-links:
     - SGM: "sgm/2024/sg1"
     - SMM: "smm/2024/sg1"
     - Führungsliste: "fuehrungsliste"
+    - Qualiturnier 2023: "qualiturnier"
   Terminkalender: "terminkalender"
   Schachschule: "https://www.schachschule-sg.ch/"
 
