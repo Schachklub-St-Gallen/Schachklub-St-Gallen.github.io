@@ -4,24 +4,12 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2024
 ---
 
-### Juli 2024
-
-| Datum                 |          Zeit          |     Ort     |   Veranstaltung    |
-|-----------------------|:----------------------:|:-----------:|:------------------:|
-| <nobr>Mo 01.07</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Freier Spieleabend |
-| <nobr>Mo 08.07</nobr> |           -            |      -      |   (Sommerpause)    |
-
 ### August 2024
 
-| Datum                 |          Zeit          |     Ort     |                       Veranstaltung                       |
-|-----------------------|:----------------------:|:-----------:|:---------------------------------------------------------:|
-| <nobr>Sa 10.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |         <span style="color:red">Sommerfest</span>         |
-| <nobr>Mo 12.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Speed Chess 1 (Rapid 10+5)</span> |
-| <nobr>Mo 19.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                    Freier Spieleabend                     |
-| <nobr>Sa 24.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |    SMM (Gonzen - SG2, Herisau - SG3, Winterthur - SG4)    |
-| <nobr>So 25.08</nobr> | <nobr>12:30 Uhr</nobr> | Tschudiwies |                    SMM (SG1 - Zürich)                     |
-| <nobr>Mo 26.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                 Speed Chess 2 (Blitz 5+3)                 |
-| <nobr>Sa 31.08</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                    SMM (SG2 - Triesen)                    |
+| Datum                 |          Zeit          |     Ort     |                      Veranstaltung                       |
+|-----------------------|:----------------------:|:-----------:|:--------------------------------------------------------:|
+| <nobr>Mo 26.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Speed Chess 2 (Blitz 5+3)</span> |
+| <nobr>Sa 31.08</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                   SMM (SG2 - Triesen)                    |
 
 ### September 2024
 
