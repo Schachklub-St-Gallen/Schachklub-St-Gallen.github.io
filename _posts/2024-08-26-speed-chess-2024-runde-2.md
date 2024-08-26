@@ -4,8 +4,8 @@ title: Speed Chess Runde 2
 subtitle: Die zweite Runde des St. Galler Speed Chess Turniers 2024 ist gespielt.
 ---
 
-Halit Rexhepi gewinnt die zweite Runde des St. Galler Speed Chess Turniers 2024. Er gewinnt 6.5 von 7 Partien vor Jan
-Fecker mit ebenfalls 6.5 Punkten, aber einem Buchholzpunkt weniger. Auf dem dritten Platz folgt Aaron Potterat mit 5
+Halit Rexhepi gewinnt die zweite Runde des St. Galler Speed Chess Turniers 2024. Er gewinnt mit 6.5 von 7 Punkten vor
+Jan Fecker auf Platz 2 mit ebenfalls 6.5 Punkten, aber einem Buchholzpunkt weniger. Auf dem dritten Platz folgt Aaron Potterat mit 5
 Punkten.
 
 ![Runde 1](/assets/img/turniere/speedchess/2024/runde-2-blitz.png)
