@@ -12,6 +12,10 @@ subtitle: Alle Infos zum diesjährigen Speed Chess Grand Prix Turnier.
 
 ### Runde 2
 
-![Runde 1](/assets/img/turniere/speedchess/2024/runde-2-blitz.png)
+![Runde 2](/assets/img/turniere/speedchess/2024/runde-2-blitz.png)
+
+### Runde 3
+
+![Runde 3](/assets/img/turniere/speedchess/2024/runde-3-blitz.png)
 
 {% include turniere/speedchess/2024/ausschreibung.md %}

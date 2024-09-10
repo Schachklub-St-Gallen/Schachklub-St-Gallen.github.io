@@ -4,18 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2024
 ---
 
-### August 2024
-
-| Datum                 |          Zeit          |     Ort     |                      Veranstaltung                       |
-|-----------------------|:----------------------:|:-----------:|:--------------------------------------------------------:|
-| <nobr>Mo 26.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Speed Chess 2 (Blitz 5+3)</span> |
-| <nobr>Sa 31.08</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |                   SMM (SG2 - Triesen)                    |
-
 ### September 2024
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
 |-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 02.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
 | <nobr>Mo 09.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |               Speed Chess 3 (Blitz 3+2)               |
 | <nobr>Sa 14.09</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |          SMM (Toggenburg - SG3, SG4 - Buchs)          |
 | <nobr>So 15.09</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |               SMM (Trubschachen - SG1)                |

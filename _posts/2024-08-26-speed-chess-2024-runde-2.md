@@ -8,7 +8,7 @@ Halit Rexhepi gewinnt die zweite Runde des St. Galler Speed Chess Turniers 2024.
 Jan Fecker auf Platz 2 mit ebenfalls 6.5 Punkten, aber einem Buchholzpunkt weniger. Auf dem dritten Platz folgt Aaron Potterat mit 5
 Punkten.
 
-![Runde 1](/assets/img/turniere/speedchess/2024/runde-2-blitz.png)
+![Runde 2](/assets/img/turniere/speedchess/2024/runde-2-blitz.png)
 
 Es freut mich, dass 11 Spieler an der zweiten Runde teilgenommen haben, darunter zwei neue Gesichter: Jos Frommherz und
 Aleksandar Petrovic. Herzlich willkommen!
