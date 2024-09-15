@@ -20,7 +20,7 @@ St. Gallen 3 spielt in der {% include smm/2024/swisschess-link.html gruppe=501 l
 
 {% include smm/2024/sg3/tabelle.html %}
 
-_Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 und 8 steigen direkt ab._
+_Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 steigt direkt ab._
 
 ## 7. Runde - 14. September 2024
 

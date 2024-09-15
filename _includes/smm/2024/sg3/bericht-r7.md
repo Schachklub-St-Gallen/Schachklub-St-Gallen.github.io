@@ -7,4 +7,4 @@
 | 3     | Brian Sieben (1650)        | Joel Frischknecht (1757)   | 1-0  |
 | 4     | Shahanah Schmid (1856)     | Jelmer van der Meulen      | 1-0  |
 | 5     | Raphael Vogt (1525)        | Thomas Gebhardt (1472)     | 1-0  |
-| 6     | Noa Lia Sennhauser (1429)  |                            | 1-0  |
+| 6     | Noa Lia Sennhauser (1429)  | FF                         | 1-0  |
