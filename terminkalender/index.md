@@ -8,12 +8,9 @@ subtitle: Aktueller Terminkalender 2024
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
 |-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 09.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |               Speed Chess 3 (Blitz 3+2)               |
-| <nobr>Sa 14.09</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |          SMM (Toggenburg - SG3, SG4 - Buchs)          |
-| <nobr>So 15.09</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |               SMM (Trubschachen - SG1)                |
 | <nobr>Mo 16.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
 | <nobr>Mo 23.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |              Speed Chess 4 (Bullet 1+2)               |
-| <nobr>So 30.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Vortrag Milan Novkovic</span> |
+| <nobr>Mo 30.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Vortrag Milan Novkovic</span> |
 
 ### Oktober 2024
 
