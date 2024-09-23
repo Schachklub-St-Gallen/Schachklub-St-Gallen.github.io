@@ -10,7 +10,7 @@ verlorener Direktbegegnung gegen Halit.
 
 ![Runde 4](/assets/img/turniere/speedchess/2024/runde-4-bullet.png)
 
-In der Gesamtwertung gewinnt halit Rexhepi mit 69 Punkten und holt sich damit den ersten Titel des St. Galler Speed
+In der Gesamtwertung gewinnt Halit Rexhepi mit 69 Punkten und holt sich damit den ersten Titel des St. Galler Speed
 Chess Champions. Jan Fecker wird mit 63 Punkten Zweiter und Aaron Potterat mit 32.5 Punkten Dritter.
 
 Der Preis des besten Juniors geht an Silas Tapernoux, der mit 28 Punkten den vierten Platz belegt. Bester Senior wird
@@ -24,7 +24,7 @@ der [Turnierseite](/turniere/speedchess/2024).
 
 {% include turniere/speedchess/2024/ranking.md %}
 
-Ich bedanke mich für die rege Teilnahme und wünsche allen Teilnehmern und freue mich darauf, euch beim Vortrag von IM
-Milan Novkovic am kommenden Montag zu sehen.
+Ich bedanke mich für die rege Teilnahme und freue mich darauf, euch beim Vortrag von IM
+Milan Novkovic am kommenden Montag wiederzusehen.
 
 _Jan Frei_
