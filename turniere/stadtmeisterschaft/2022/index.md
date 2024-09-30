@@ -14,6 +14,4 @@ Den Schlussbericht zur letzten Runde findet ihr bei den Berichten: **[Dimitri Ki
 
 {% include turniere/stadtmeisterschaft/2022/resultate.html %}
 
-### Vergangene Stadtmeisterschaften
-
-Infos zur vergangenen Stadtmeisterschaft 2021 findet ihr [hier](http://www.schachklub-sg.ch/turniere/stadtmeisterschaft/2021).
+{% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}

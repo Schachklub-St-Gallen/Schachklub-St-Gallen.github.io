@@ -12,6 +12,4 @@ Den Schlussbericht zur letzten Runde ist bei den Berichten: **[Marc Potterat ist
 
 {% include turniere/stadtmeisterschaft/2021/resultate.html %}
 
-### Vergangene Stadtmeisterschaften
-
-Alle Informationen zu älteren Stadtmeisterschaften findet ihr im [Archiv](http://archiv.schachklub-sg.ch/klubturnier.php){:target="\_blank"}.
+{% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}

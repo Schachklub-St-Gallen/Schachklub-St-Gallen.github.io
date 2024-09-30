@@ -16,7 +16,4 @@ Den Schlussbericht zur letzten Runde findet ihr bei den Berichten: **[Roman Schm
 
 {% include turniere/stadtmeisterschaft/2023/resultate.html %}
 
-### Vergangene Stadtmeisterschaften
-
-Infos zur vergangenen Stadtmeisterschaft 2022 findet
-ihr [hier](http://www.schachklub-sg.ch/turniere/stadtmeisterschaft/2022).
+{% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}
