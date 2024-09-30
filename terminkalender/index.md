@@ -8,8 +8,6 @@ subtitle: Aktueller Terminkalender 2024
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
 |-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 16.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
-| <nobr>Mo 23.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |              Speed Chess 4 (Bullet 1+2)               |
 | <nobr>Mo 30.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Vortrag Milan Novkovic</span> |
 
 ### Oktober 2024
