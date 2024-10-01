@@ -12,12 +12,14 @@ Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterscha
 
 **Wir bitten um Voranmeldung über das [Anmeldeformular](https://forms.gle/w8ai1EabNHSuSdBN9){:target="\_blank"}**.
 
-## Teilnehmerliste (Stand 30. September 2024)
+## Teilnehmerliste (Stand 01. Oktober 2024)
 
 - Frank Wittenbrock
 - Jan Frei
 - Linda Thöny
 - Mario Manser
+- Michael Nyffenegger
+- Miguel Garcia
 - Miloš Dörr
 - Niklaus Faller
 - Silas Tapernoux
