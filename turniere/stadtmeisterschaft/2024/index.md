@@ -12,13 +12,12 @@ Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterscha
 
 **Wir bitten um Voranmeldung über das [Anmeldeformular](https://forms.gle/w8ai1EabNHSuSdBN9){:target="\_blank"}**.
 
-## Teilnehmerliste (Stand 15. Oktober 2024)
+## Teilnehmerliste (Stand 16. Oktober 2024)
 
 - Aleksandar Petrovic
 - David Habjanic
 - Frank Wittenbrock
 - Jan Frei
-- Linda Thöny
 - Mario Manser
 - Marius Grossglauser
 - Martin Eichenberger
