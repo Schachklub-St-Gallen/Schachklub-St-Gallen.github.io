@@ -4,20 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2024
 ---
 
-### September 2024
-
-| Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
-|-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 30.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Vortrag Milan Novkovic</span> |
-
 ### Oktober 2024
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                      |
 |-----------------------|:----------------------:|:-----------:|:------------------------------------------------------:|
-| <nobr>Sa 05.10</nobr> | <nobr>13:00 Uhr</nobr> | Tschudiwies |                   SMM (SG1 - Uzwil)                    |
-| <nobr>So 06.10</nobr> | <nobr>11:00 Uhr</nobr> |   divers    |                   SMM (Olten - SG1)                    |
-| <nobr>Mo 07.10</nobr> |           -            |      -      |            (Herbstferien, kein Klubbetrieb)            |
-| <nobr>Mo 14.10</nobr> |           -            |      -      |            (Herbstferien, kein Klubbetrieb)            |
 | <nobr>Mo 21.10</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Stadtmeisterschaft RD 1</span> |
 | <nobr>Mo 28.10</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Stadtmeisterschaft RD 2                 |
 
