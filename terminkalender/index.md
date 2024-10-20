@@ -29,6 +29,6 @@ subtitle: Aktueller Terminkalender 2024
 | <nobr>Mo 16.12</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |       Stadtmeisterschaft RD 7        |
 | <nobr>Mo 23.12</nobr> |           -            |      -      | (Weihnachtsferien, kein Klubbetrieb) |
 
-### Vergangene Terminkalender
+## Vergangene Terminkalender
 
 - [2024](/terminkalender/2024)
