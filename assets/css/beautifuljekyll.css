@@ -37,7 +37,7 @@ body {
   position: relative;
   background-color: var(--page-col);
   {% if site.page-img %}
-  background: url({{ site.page-img | relative_url }}) no-repeat center center fixed; 
+  background: url({{ site.page-img | relative_url }}) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1174,10 +1174,23 @@ pre {
 .results-table [align="center"] { text-align: center; }
 .results-table [align="right"]  { text-align: right; }
 
-/* Tablet screens (min-width: 768px) */
 @media (min-width: 768px) {
     .results-table-large {
         width: 90vw;
+        margin-left: calc(360px - 45vw);
     }
 }
 
+@media (min-width: 992px) {
+    .results-table-large {
+        width: 90vw;
+        margin-left: calc(480px - 45vw);
+    }
+}
+
+@media (min-width: 1200px) {
+    .results-table-large {
+        width: 90vw;
+        margin-left: calc(570px - 45vw);
+    }
+}
