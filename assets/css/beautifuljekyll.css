@@ -1194,3 +1194,17 @@ pre {
         margin-left: calc(365px - 40vw);
     }
 }
+
+@media (min-width: 1600px) {
+    .results-table-large {
+        width: 70vw;
+        margin-left: calc(365px - 35vw);
+    }
+}
+
+@media (min-width: 2000px) {
+    .results-table-large {
+        width: 60vw;
+        margin-left: calc(365px - 30vw);
+    }
+}
