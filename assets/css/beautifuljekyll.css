@@ -1190,21 +1190,21 @@ pre {
 
 @media (min-width: 1200px) {
     .results-table-large {
-        width: 80vw;
-        margin-left: calc(365px - 40vw);
+        width: 90vw;
+        margin-left: calc(365px - 45vw);
     }
 }
 
 @media (min-width: 1600px) {
     .results-table-large {
-        width: 70vw;
-        margin-left: calc(365px - 35vw);
+        width: 80vw;
+        margin-left: calc(365px - 40vw);
     }
 }
 
 @media (min-width: 2000px) {
     .results-table-large {
-        width: 60vw;
-        margin-left: calc(365px - 30vw);
+        width: 70vw;
+        margin-left: calc(365px - 35vw);
     }
 }
