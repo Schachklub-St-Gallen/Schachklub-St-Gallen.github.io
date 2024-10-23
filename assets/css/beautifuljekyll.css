@@ -1153,7 +1153,7 @@ pre {
     margin-top: 7px;
   }
 }
-.results-table             { white-space: nowrap; overflow-x: scroll; }
+.results-table             { white-space: nowrap; overflow-x: auto; }
 .results-table body        { text-align:left; background: #ffffff }
 .results-table h3          { font-family: "Verdana", "Arial", monospace; font-size:10pt;margin: 6px 0px 6px 0px;border: 0px 0px 0px 0px;padding: 0px 0px 0px 0px; background: #C8C8C8;}
 .results-table p           { font-family: "Verdana", "Arial", monospace; margin:  6px 10px 6px 3px; font-size: 10pt; text-align:left; border: 1px 1px 1px 1px; padding: 0px 0px 0px 0px;}
@@ -1197,14 +1197,14 @@ pre {
 
 @media (min-width: 1600px) {
     .results-table-large {
-        width: 80vw;
-        margin-left: calc(365px - 40vw);
+        width: 84vw;
+        margin-left: calc(365px - 42vw);
     }
 }
 
 @media (min-width: 2000px) {
     .results-table-large {
-        width: 70vw;
-        margin-left: calc(365px - 35vw);
+        width: 78vw;
+        margin-left: calc(365px - 39vw);
     }
 }
