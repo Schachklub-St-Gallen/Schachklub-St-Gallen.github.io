@@ -1190,7 +1190,7 @@ pre {
 
 @media (min-width: 1200px) {
     .results-table-large {
-        width: 90vw;
-        margin-left: calc(365px - 45vw);
+        width: 80vw;
+        margin-left: calc(365px - 40vw);
     }
 }
