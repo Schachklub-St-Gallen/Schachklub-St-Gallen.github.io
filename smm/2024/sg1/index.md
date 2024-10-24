@@ -14,13 +14,21 @@ subtitle: Alle Informationen zur SMM-Saison 2024
 
 ## St. Gallen 1
 
-St. Gallen 1 spielt in der {% include smm/2024/swisschess-link.html gruppe=201 liga=2 round=6 text="NLB, Gruppe Ost" %} unter Teamcaptain Roman Schmuki.
+St. Gallen 1 spielt in der {% include smm/2024/swisschess-link.html gruppe=201 liga=2 round=9 text="NLB, Gruppe Ost" %} unter Teamcaptain Roman Schmuki.
 
-## Zwischentabelle (Runde 6)
+## Schlusstabelle
 
 {% include smm/2024/sg1/tabelle.html %}
 
-_Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 9 und 10 steigen direkt ab._
+_Rang 1 steigt in die NLA auf. Rang 9 und 10 steigen direkt ab._
+
+## 9. Runde - 06. Oktober 2024
+
+{% include smm/2024/sg1/bericht-r9.md %}
+
+## 8. Runde - 05. Oktober 2024
+
+{% include smm/2024/sg1/bericht-r8.md %}
 
 ## 7. Runde - 15. September 2024
 
