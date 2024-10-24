@@ -47,7 +47,7 @@ _Jan Frei_
 
 {% include smm/2024/sg1/bericht-r8.md %}
 
-{% include smm/2024/sg2/bericht-r9.md %}
+{% include smm/2024/sg1/bericht-r9.md %}
 
 <style>
 table th, table td:nth-of-type(4) {
