@@ -40,6 +40,6 @@ spielte die Zeitnotphase hervorragend. Dies trug ihm den Gewinn ein.
 6.5 : 1.5 Punkte, fünf Siege, drei Unentschieden und keine einzige Verlustpartie: Die Bilanz für unsere Mannschaft fällt
 glänzend aus. 
 
-__Der Mannschaftsleiter__
+_Der Mannschaftsleiter_
 
-__Roman Schmuki__
+_Roman Schmuki_
