@@ -20,30 +20,42 @@ Tribschen, welches die Direktbegegnung gegen St. Gallen 1 gewonnen hat, steigt s
 _St. Gallen 1 landet auf dem 2. Platz in der NLB._
 
 Für St. Gallen 2, St. Gallen 3 und St. Gallen 4 war die Saison bereits nach der 7. Runde zu Ende. (siehe
-[Bericht nach der 7. Runde](/2024-09-15-smm-runde-7.md))
+[Bericht nach der 7. Runde](/2024-09-15-smm-runde-7))
 
 St. Gallen 2, St. Gallen 3 und St. Gallen 4 steigen alle mit dem unglücklichen 7. Platz in die jeweils nächsttiefere
 Liga ab.
+
+#### Schlusstabelle der NLB, Gruppe Ost
 
 {% include smm/2024/sg2/tabelle.html %}
 
 _St. Gallen 2 landet auf dem 7. Platz in der 2. Liga und steigt in die 3. Liga ab._
 
+#### Schlusstabelle der 2. Liga, Gruppe Ost 1
+
 {% include smm/2024/sg3/tabelle.html %}
 
 _St. Gallen 3 landet auf dem 7. Platz in der 3. Liga und steigt in die 4. Liga ab._
 
+#### Schlusstabelle der 3. Liga, Gruppe Ost 1
+
 {% include smm/2024/sg4/tabelle.html %}
+
+#### Schlusstabelle der 3. Liga, Gruppe Ost 2 
 
 _St. Gallen 4 landet auf dem 7. Platz in der 3. Liga und steigt in die 4. Liga ab._
 
-Alle Tabellen Abschlusstabellen der SMM-Saison findet ihr [hier](/smm/2024/sg1). Den SMM-Schlussbericht auf Swisschess
-findet ihr
+Alle Tabellen Abschlusstabellen der SMM-Saison findet ihr [hier](/smm/2024/sg1).
+
+Den SMM-Schlussbericht auf Swisschess findet ihr
 [hier](https://www.swisschess.ch/news-112/smm-tribschen-und-nyon-steigen-in-die-nationalliga-a-auf-wettswil-uzwil-genf-ii-und-sion-absteiger-in-die-1-liga.html){:
 target="\_blank"}.
-Unten angefügt findet ihr die Resultate der 8. und 9. Runde von St. Gallen 1.
 
 _Jan Frei_
+
+<br>
+
+Folgend noch die Resultate der 8. und 9. Runde von St. Gallen 1:
 
 {% include smm/2024/sg1/bericht-r8.md %}
 
