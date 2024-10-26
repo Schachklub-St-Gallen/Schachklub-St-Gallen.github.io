@@ -14,7 +14,9 @@ subtitle: Alle Informationen zur SMM-Saison 2024
 
 ## St. Gallen 3
 
-St. Gallen 3 spielt in der {% include smm/2024/swisschess-link.html gruppe=501 liga=5 round=7 text="3. Liga, Gruppe Ost 1" %} unter Teamcaptain Ludwig Sapulowitsch.
+St. Gallen 3 spielte in der
+{% include smm/2024/swisschess-link.html gruppe=501 liga=5 round=7 text="3. Liga, Gruppe Ost 1" %} unter Teamcaptain
+Ludwig Sapulowitsch. Die Mannschaft belegte den 7. Rang und steigt in die 4. Liga ab.
 
 ## Schlusstabelle
 

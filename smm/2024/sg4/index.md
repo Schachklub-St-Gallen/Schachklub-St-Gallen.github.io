@@ -14,7 +14,9 @@ subtitle: Alle Informationen zur SMM-Saison 2024
 
 ## St. Gallen 4
 
-St. Gallen 4 spielt in der {% include smm/2024/swisschess-link.html gruppe=502 liga=5 round=7 text="3. Liga, Gruppe Ost 2" %} unter Teamcaptain Lorenz Markus.
+St. Gallen 4 spielte in der
+{% include smm/2024/swisschess-link.html gruppe=502 liga=5 round=7 text="3. Liga, Gruppe Ost 2" %}
+unter Teamcaptain Lorenz Markus. Die Mannschaft belegte den 7. Rang und steigt in die 4. Liga ab.
 
 ## Schlusstabelle
 

@@ -14,7 +14,9 @@ subtitle: Alle Informationen zur SMM-Saison 2024
 
 ## St. Gallen 1
 
-St. Gallen 1 spielt in der {% include smm/2024/swisschess-link.html gruppe=201 liga=2 round=9 text="NLB, Gruppe Ost" %} unter Teamcaptain Roman Schmuki.
+St. Gallen 1 spielte in der
+{% include smm/2024/swisschess-link.html gruppe=201 liga=2 round=9 text="NLB, Gruppe Ost" %}
+unter Teamcaptain Roman Schmuki. Die Mannschaft belegte den 2. Rang und bleibt in der NLB.
 
 ## Schlusstabelle
 

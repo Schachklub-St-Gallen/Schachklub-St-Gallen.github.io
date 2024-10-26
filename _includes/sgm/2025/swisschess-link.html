@@ -1,0 +1,7 @@
+<a id="sgm-link" data-gruppe="&agruppe={{ include.gruppe }}" data-liga="&aliga={{ include.liga }}" data-round="&around={{ include.round }}" target="_blank">{{ include.text }}</a>
+<script>
+    var sgmLink = document.getElementById("sgm-link")
+    sgmLink.setAttribute("href", "https://www.swisschess.ch/sgm.html?old=" +
+            window.btoa("/turniere/sgm.php?ajahr=2025" + sgmLink.getAttribute("data-gruppe") +
+                sgmLink.getAttribute("data-liga") + sgmLink.getAttribute("data-round")));
+</script>

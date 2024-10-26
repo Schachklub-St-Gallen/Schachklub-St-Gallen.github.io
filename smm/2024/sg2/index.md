@@ -14,7 +14,9 @@ subtitle: Alle Informationen zur SMM-Saison 2024
 
 ## St. Gallen 2
 
-St. Gallen 2 spielt in der {% include smm/2024/swisschess-link.html gruppe=401 liga=4 round=7 text="2. Liga, Gruppe Ost 1" %} unter Teamcaptain Jan Frei.
+St. Gallen 2 spielte in der
+{% include smm/2024/swisschess-link.html gruppe=401 liga=4 round=7 text="2. Liga, Gruppe Ost 1" %}
+unter Teamcaptain Jan Frei. Die Mannschaft belegte den 7. Rang und steigt in die 3. Liga ab.
 
 ## Schlusstabelle
 
