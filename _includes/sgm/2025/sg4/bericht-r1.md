@@ -1,6 +1,6 @@
 ### SV March-Höfe 1 - St. Gallen 4 (2.5 - 1.5)
 
-| Brett | SpielerJoueur            | SpielerJoueur         | 2½-1½ |
+| Brett | SV March-Höfe 1          | St. Gallen 4          | 2½-1½ |
 |-------|--------------------------|-----------------------|-------|
 | 1     | Taras Mogylevskiy (1795) | Andriy Pryimak (1885) | 1-0   |
 | 2     | Stefan Molinari (1788)   | Jan Frei (1768)       | 0-1   |
