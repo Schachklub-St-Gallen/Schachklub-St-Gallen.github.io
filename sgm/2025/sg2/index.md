@@ -4,6 +4,12 @@ title: SGM 2025
 subtitle: Alle Informationen zur SGM-Saison 2025
 ---
 
+### Saisons
+
+{% include smm/sgm-buttons-year.html year=2025 team=2 %}
+
+### Mannschaften
+
 {% include sgm/2025/sgm-buttons.html active=2 %}
 
 # St. Gallen 2
