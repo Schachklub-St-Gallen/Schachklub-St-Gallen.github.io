@@ -22,7 +22,7 @@ Frank Wittenbrock.
 
 {% include sgm/2025/sg2/tabelle.html %}
 
-_Zwischentabelle nach der 1. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 7 steigt direkt ab._
+_Zwischentabelle nach der 1. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
 ## 1. Runde - 26. Oktober 2024
 
