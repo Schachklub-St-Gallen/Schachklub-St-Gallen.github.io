@@ -6,7 +6,7 @@ subtitle: Alle Informationen zur SGM-Saison 2024
 
 ### Saisons
 
-{% include smm/sgm-buttons-year.html year=2024 team=4 %}
+{% include sgm/sgm-buttons-year.html year=2024 team=4 %}
 
 ### Mannschaften
 

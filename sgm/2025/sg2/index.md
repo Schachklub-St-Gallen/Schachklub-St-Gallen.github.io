@@ -6,7 +6,7 @@ subtitle: Alle Informationen zur SGM-Saison 2025
 
 ### Saisons
 
-{% include smm/sgm-buttons-year.html year=2025 team=2 %}
+{% include sgm/sgm-buttons-year.html year=2025 team=2 %}
 
 ### Mannschaften
 
@@ -15,8 +15,8 @@ subtitle: Alle Informationen zur SGM-Saison 2025
 # St. Gallen 2
 
 St. Gallen 2 spielt in der Saison 2025 in der
-{% include sgm/2025/swisschess-link.html gruppe=408 liga=4 round=1 text="2. Regionalliga, Zone H" %}
-unter Teamcaptain Frank Wittenbrock.
+{% include sgm/2025/swisschess-link.html gruppe=408 liga=4 round=1 text="2. Regionalliga, Zone H" %} unter Teamcaptain
+Frank Wittenbrock.
 
 ## Zwischentabelle
 

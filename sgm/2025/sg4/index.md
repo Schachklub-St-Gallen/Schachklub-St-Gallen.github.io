@@ -6,7 +6,7 @@ subtitle: Alle Informationen zur SGM-Saison 2025
 
 ### Saisons
 
-{% include smm/sgm-buttons-year.html year=2025 team=4 %}
+{% include sgm/sgm-buttons-year.html year=2025 team=4 %}
 
 ### Mannschaften
 
@@ -15,8 +15,8 @@ subtitle: Alle Informationen zur SGM-Saison 2025
 # St. Gallen 4
 
 St. Gallen 4 spielt in der Saison 2025 in der
-{% include sgm/2025/swisschess-link.html gruppe=515 liga=5 round=1 text="3. Regionalliga, Zone O" %}
-unter Teamcaptain Lorenz Markus.
+{% include sgm/2025/swisschess-link.html gruppe=515 liga=5 round=1 text="3. Regionalliga, Zone O" %} unter Teamcaptain
+Jan Fecker.
 
 ## Zwischentabelle
 

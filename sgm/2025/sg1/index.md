@@ -6,7 +6,7 @@ subtitle: Alle Informationen zur SGM-Saison 2025
 
 ### Saisons
 
-{% include smm/sgm-buttons-year.html year=2025 team=1 %}
+{% include sgm/sgm-buttons-year.html year=2025 team=1 %}
 
 ### Mannschaften
 
@@ -15,8 +15,9 @@ subtitle: Alle Informationen zur SGM-Saison 2025
 # St. Gallen 1
 
 St. Gallen 1 spielt in der Saison 2025 in der
-{% include sgm/2025/swisschess-link.html gruppe=202 liga=2 round=1 text="2. Bundesliga, Zone B" %}
-unter Teamcaptain Jan Fecker.
+{% include sgm/2025/swisschess-link.html gruppe=202 liga=2 round=1 text="2. Bundesliga, Zone B" %} unter Teamcaptain Jan
+Fecker.
+
 ## Zwischentabelle
 
 {% include sgm/2025/sg1/tabelle.html %}
