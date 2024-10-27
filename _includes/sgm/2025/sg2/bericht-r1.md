@@ -1,5 +1,7 @@
 ### Rheintal 1 - St. Gallen 2 (2.5 - 2.5)
 
+_Tabelle folgt_
+
 Gegen die Rheintaler Routiniers - allesamt Senioren - erreichte das mit drei Junioren angetretene zweite St. Galler Team
 ein 2.5:2.5, was ein ordentlicher Start in die Saison ist. Chancen auf den Mannschaftssieg gab es nur auf St. Galler
 Seite, letztlich gewann aber nur Riccardo mit einer scharfen Angriffspartie, in der er in nicht rochierter Stellung auch
