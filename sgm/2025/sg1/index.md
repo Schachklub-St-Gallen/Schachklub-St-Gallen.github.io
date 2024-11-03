@@ -24,6 +24,10 @@ Fecker.
 
 _Zwischentabelle nach der 1. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
+## 2. Runde - 03. November 2024
+
+{% include sgm/2025/sg1/bericht-r2.md %}
+
 ## 1. Runde - 26. Oktober 2024
 
 {% include sgm/2025/sg1/bericht-r1.md %}
