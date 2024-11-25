@@ -4,15 +4,6 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2024
 ---
 
-### November 2024
-
-| Datum                 |          Zeit          |     Ort     |            Veranstaltung            |
-|-----------------------|:----------------------:|:-----------:|:-----------------------------------:|
-| <nobr>Mo 04.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |       Stadtmeisterschaft RD 3       |
-| <nobr>Mo 11.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Nachholpartien / Freier Spieleabend |
-| <nobr>Mo 18.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |       Stadtmeisterschaft RD 4       |
-| <nobr>Mo 25.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |       Stadtmeisterschaft RD 5       |
-
 ### Dezember 2024
 
 | Datum                 |          Zeit          |     Ort     |                            Veranstaltung                             |
