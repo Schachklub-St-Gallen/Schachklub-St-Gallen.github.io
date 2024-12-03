@@ -34,7 +34,7 @@ subtitle: Aktueller Terminkalender 2024
 | <nobr>Mo 10.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                             Freier Spieleabend                             |
 | <nobr>Mo 17.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                             Freier Spieleabend                             |
 | <nobr>Sa 22.02</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |        SGM (SG1 - Zug, SG2 - Flawil, SG3 - Bodan, Romanshorn - SG4)        |
-| <nobr>Mo 24.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">St. Galler Blitzmeisterschaft 2024</span>      |
+| <nobr>Mo 24.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">St. Galler Blitzmeisterschaft 2025</span>      |
 
 ### März 2025
 
