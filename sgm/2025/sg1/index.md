@@ -22,7 +22,7 @@ Fecker.
 
 {% include sgm/2025/sg1/tabelle.html %}
 
-_Zwischentabelle nach der 1. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
+_Zwischentabelle nach der 2. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
 ## 3. Runde - 07. Dezember 2024
 
