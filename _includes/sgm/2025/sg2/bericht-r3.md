@@ -8,13 +8,13 @@
 | 4     | Pierluigi Schaad (1786) | Alexander King (1884)              | 0-1 |
 | 5     | Urs Grazioli (1666)     | Jan Frei (1768)                    | 0-1 |
 
-St. Gallen 2 gewinnt klar mit 4:1. Viktor gewint zuerst mit einer stark gespielten Partie! Ruedi, mit unklarer Position,
+St. Gallen 2 gewinnt klar mit 4:1. Viktor gewinnt zuerst mit einer stark gespielten Partie! Ruedi, mit unklarer Position,
 einigt sich auf ein Remis, da die verbleibenden drei Partien gut ausschauen für St. Gallen, und er auch in Zeitnot
-geraten ist. Riccardo einigt sich im Endspiel mit ungleichfarbigem Läufer auf ein Remis.
+geraten ist. Riccardo einigt sich im Endspiel mit ungleichfarbigen Läufern auf ein Remis.
 
-Gut eine Stunde später gewinnt Alexander, indem er seinen Gegner Matt setzt. Jan gewinnt ebenfalls im Endspiel
-mit zwei Mehrbauern.
+Gut eine Stunde später gewinnt Alexander, indem er seinen Gegner Matt setzt. Jan gewinnt kurz später ebenfalls nach 
+Abwicklung ins Turmendspiel mit zwei Mehrbauern.
 
-Eine gute Leistung von St. Gallen 2, und ein wichtiger Sieg, um weiterhin auf Kurs für den Wiezstieg zu bleiben.
+Eine gute Leistung von St. Gallen 2, und ein wichtiger Sieg, um weiterhin auf Kurs für den Wiederaufstieg zu bleiben.
 
 _Jan Frei_
