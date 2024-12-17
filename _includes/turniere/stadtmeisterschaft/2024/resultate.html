@@ -1,13 +1,12 @@
 <ul class="nav nav-tabs">
     <li class="nav-item">
-        <a class="nav-link" href="#schlussrangliste" data-toggle="tab">
-            Zwischenrangliste
-            <!--            Schlussrangliste-->
+        <a class="nav-link active" href="#schlussrangliste" data-toggle="tab">
+            Schlussrangliste
         </a>
     </li>
     <li class="nav-item dropdown">
         <a
-                class="nav-link dropdown-toggle active"
+                class="nav-link dropdown-toggle"
                 data-toggle="dropdown"
                 href="#"
                 role="button"
@@ -22,7 +21,7 @@
             <a class="dropdown-item" href="#runde-4" data-toggle="tab">4. Runde</a>
             <a class="dropdown-item" href="#runde-5" data-toggle="tab">5. Runde</a>
             <a class="dropdown-item" href="#runde-6" data-toggle="tab">6. Runde</a>
-            <a class="dropdown-item active" href="#runde-7" data-toggle="tab">7. Runde</a>
+            <a class="dropdown-item" href="#runde-7" data-toggle="tab">7. Runde</a>
         </div>
     </li>
     <li class="nav-item">
@@ -32,7 +31,7 @@
     </li>
 </ul>
 <div class="tab-content">
-    <div role="tabpanel" class="tab-pane" id="schlussrangliste">
+    <div role="tabpanel" class="tab-pane active" id="schlussrangliste">
         {% include turniere/stadtmeisterschaft/2024/schlussrangliste.html %}
     </div>
     <div role="tabpanel" class="tab-pane" id="runde-1">
@@ -53,7 +52,7 @@
     <div role="tabpanel" class="tab-pane" id="runde-6">
         {% include turniere/stadtmeisterschaft/2024/runde-6.html %}
     </div>
-    <div role="tabpanel" class="tab-pane active" id="runde-7">
+    <div role="tabpanel" class="tab-pane" id="runde-7">
         {% include turniere/stadtmeisterschaft/2024/runde-7.html %}
     </div>
     <div role="tabpanel" class="tab-pane" id="startrangliste">
