@@ -22,7 +22,7 @@ Ludwig Sapulowitsch.
 
 {% include sgm/2025/sg3/tabelle.html %}
 
-_Zwischentabelle nach der 2. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
+_Zwischentabelle nach der 4. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
 
 ## 4. Runde - 11. Januar 2025
 
