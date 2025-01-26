@@ -1,6 +1,6 @@
-### Toggenburg 2 - St. Gallen 4 (3 - 1)
+### St. Gallen 4 - Triesen 3 (3 - 1)
 
-| Brett | Toggenburg 2           | St. Gallen 4                 | 3-1 |
+| Brett | St. Gallen 4           | Triesen 3                    | 3-1 |
 |-------|------------------------|------------------------------|-----|
 | 1     | Miguel Garcia (1880)   | Alexander Vogt (1819)        | ½-½ |
 | 2     | Silas Tapernoux (1749) | Remo Blum                    | ½-½ |
