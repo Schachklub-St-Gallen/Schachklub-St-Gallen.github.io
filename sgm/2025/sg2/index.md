@@ -24,6 +24,10 @@ Frank Wittenbrock.
 
 _Zwischentabelle nach der 4. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
+## 6. Runde - 09. Februar 2025
+
+{% include sgm/2025/sg2/bericht-r6.md %}
+
 ## 5. Runde - 25. Januar 2025
 
 {% include sgm/2025/sg2/bericht-r5.md %}
