@@ -24,6 +24,10 @@ Fecker.
 
 _Zwischentabelle nach der 4. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele. Rang 8 steigt direkt ab._
 
+## 7. Runde - 22. Februar 2025
+
+{% include sgm/2025/sg1/bericht-r7.md %}
+
 ## 6. Runde - 09. Februar 2025
 
 {% include sgm/2025/sg1/bericht-r6.md %}
