@@ -1,13 +1,29 @@
 ---
 layout: page
 title: Terminkalender
-subtitle: Aktueller Terminkalender 2025
+subtitle: Terminkalender 2025
 ---
+
+### Januar 2025
+
+| Datum                 |          Zeit          |     Ort     |                                Veranstaltung                                |
+|-----------------------|:----------------------:|:-----------:|:---------------------------------------------------------------------------:|
+| <nobr>Mo 06.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           <span style="color:red">Dreikönigs-Blitzturnier</span>            |
+| <nobr>Sa 11.01</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |  SGM (Triesen - SG1, Romanshorn - SG2, Winterthur - SG3, Toggenburg - SG4)  |
+| <nobr>Mo 13.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                             Freier Spieleabend                              |
+| <nobr>Mo 20.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                             Freier Spieleabend                              |
+| <nobr>Sa 25.01</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SGM (Sprengschach Wil - SG1, SG2 - Gonzen, Frauenfeld - SG3, SG4 - Triesen) |
+| <nobr>Mo 27.01</nobr> |           -            |      -      |                       (Sportferien, kein Klubbetrieb)                       |
 
 ### Februar 2025
 
 | Datum                 |          Zeit          |     Ort     |                               Veranstaltung                                |
 |-----------------------|:----------------------:|:-----------:|:--------------------------------------------------------------------------:|
+| <nobr>Mo 03.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                                Rapidturnier                                |
+| <nobr>Sa 08.02</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SGM (SG Zürich - SG1, Winterthur - SG2, Wil - SG3, Sprengschach Wil - SG4) |
+| <nobr>Mo 10.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                             Freier Spieleabend                             |
+| <nobr>Mo 17.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                             Freier Spieleabend                             |
+| <nobr>Sa 22.02</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |        SGM (SG1 - Zug, SG2 - Flawil, SG3 - Bodan, Romanshorn - SG4)        |
 | <nobr>Mo 24.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">St. Galler Blitzmeisterschaft 2025</span>      |
 
 ### März 2025

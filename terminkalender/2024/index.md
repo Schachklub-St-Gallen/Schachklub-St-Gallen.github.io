@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terminkalender
-subtitle: Aktueller Terminkalender 2024
+subtitle: Terminkalender 2024
 ---
 
 ### Januar 2024
@@ -136,4 +136,5 @@ subtitle: Aktueller Terminkalender 2024
 
 ### Vergangene Terminkalender
 
+- [2025](/terminkalender/2025)
 - [2024](/terminkalender/2024)

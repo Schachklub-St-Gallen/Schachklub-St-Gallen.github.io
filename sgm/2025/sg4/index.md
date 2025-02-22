@@ -22,7 +22,7 @@ Jan Fecker.
 
 {% include sgm/2025/sg4/tabelle.html %}
 
-_Zwischentabelle nach der 4. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
+_Zwischentabelle nach der 6. Runde. Rang 1 qualifiziert sich für Aufstiegsspiele._
 
 ## 7. Runde - 22. Februar 2025
 
