@@ -20,7 +20,7 @@ Jan Frei.
 
 ## Zwischentabelle
 
-{% include smm/2025/table-loader.html round=1 %}
+{% include smm/2025/sg2/tabelle.html %}
 
 _Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 und 8 steigen direkt ab._
 

@@ -92,21 +92,17 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 
 ## Teamcaptains SGM
 
-| Team                            | Name                |
-|---------------------------------|---------------------|
-| [St. Gallen 1](../sgm/2025/sg1) | Jan Fecker          |
-| [St. Gallen 2](../sgm/2025/sg2) | Frank Wittenbrock   |
-| [St. Gallen 3](../sgm/2025/sg3) | Luwdig Sapulowitsch |
-| [St. Gallen 4](../sgm/2025/sg4) | Jan Fecker          |
+- [St. Gallen 1](../sgm/2025/sg1): Jan Fecker
+- [St. Gallen 2](../sgm/2025/sg2): Frank Wittenbrock
+- [St. Gallen 3](../sgm/2025/sg3): Luwdig Sapulowitsch
+- [St. Gallen 4](../sgm/2025/sg4): Jan Fecker
 
 ## Teamcaptains SMM
 
-| Team                            | Name          |
-|---------------------------------|---------------|
-| [St. Gallen 1](../smm/2025/sg1) | Roman Schmuki |
-| [St. Gallen 2](../smm/2025/sg2) | Jan Frei      |
-| [St. Gallen 3](../smm/2025/sg3) | Livio Ciardo  |
-| [St. Gallen 4](../smm/2025/sg4) | Jan Fecker    |
+- [St. Gallen 1](../smm/2025/sg1): Roman Schmuki
+- [St. Gallen 2](../smm/2025/sg2): Jan Frei
+- [St. Gallen 3](../smm/2025/sg3): Livio Ciardo
+- [St. Gallen 4](../smm/2025/sg4): Jan Fecker
 
 ## Organisation Freier Spielabend
 

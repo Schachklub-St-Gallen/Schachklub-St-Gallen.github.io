@@ -20,7 +20,7 @@ Roman Schmuki.
 
 ## Zwischentabelle
 
-{% include smm/2025/table-loader.html round=1 %}
+{% include smm/2025/sg1/tabelle.html %}
 
 _Rang 1 steigt in die NLA auf. Rang 9 und 10 steigen direkt ab._
 
