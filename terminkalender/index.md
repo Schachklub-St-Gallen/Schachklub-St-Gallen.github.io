@@ -4,21 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2025
 ---
 
-### Februar 2025
-
-| Datum                 |          Zeit          |     Ort     |                               Veranstaltung                                |
-|-----------------------|:----------------------:|:-----------:|:--------------------------------------------------------------------------:|
-| <nobr>Mo 24.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">St. Galler Blitzmeisterschaft 2025</span>      |
-
 ### März 2025
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
 |-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 03.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
-| <nobr>Mo 10.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
-| <nobr>Mo 17.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                     Rapidturnier                      |
-| <nobr>Sa 22.03</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SMM (Rheintal – SG2, SG3 spielfrei, Winterthur – SG4) |
-| <nobr>So 23.03</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                SMM (Nimzowitsch – SG1)                |
 | <nobr>Mo 24.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Mitgliederversammlung</span>  |
 | <nobr>Mo 31.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
 
