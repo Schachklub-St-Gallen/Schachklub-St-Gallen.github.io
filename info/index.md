@@ -110,7 +110,7 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 
 ## Turnierleitung
 
-- Miguel Garcia (Koordination)
+- Miguel Garcia (Hauptturnierleiter)
 - Frank Wittenbrock
 - Silas Tapernoux
 

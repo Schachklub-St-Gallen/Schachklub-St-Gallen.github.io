@@ -1,6 +1,6 @@
 ### Nimzowitsch 1 - St. Gallen 1 (6 - 2)
 
-| Brett | Nimzowitsch 1       | SpielerJoueur          | 6-2 |
+| Brett | Nimzowitsch 1       | St. Gallen 1           | 6-2 |
 |-------|---------------------|------------------------|-----|
 | 1     | Joseph Gallagher    | Martin Leutwyler       | 1-0 |
 | 2     | Sacha Georges       | Milan Novkovic         | 0-1 |

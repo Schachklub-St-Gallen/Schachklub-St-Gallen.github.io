@@ -1,6 +1,6 @@
 ### Winterthur 7 - St. Gallen 4 (1.5 - 2.5)
 
-| Brett | SpielerJoueur       | SpielerJoueur      | 1½-2½ |
+| Brett | Winterthur 7        | St. Gallen 4       | 1½-2½ |
 |-------|---------------------|--------------------|-------|
 | 1     | Martin Rapold       | Silas Tapernoux    | 0-1   |
 | 2     | Enrico Di Crescenzo | Markus Romer       | ½-½   |
