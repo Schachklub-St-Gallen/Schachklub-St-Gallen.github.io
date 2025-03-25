@@ -4,11 +4,15 @@ title: Über uns
 subtitle: Alle Infos zum Schachklub St. Gallen.
 ---
 
-Der SK St. Gallen pflegt und fördert das Schachspiel. Der Klub wurde im Jahr 1862 gegründet und zählt rund 90 Mitglieder.
+Der SK St. Gallen pflegt und fördert das Schachspiel. Der Klub wurde im Jahr 1862 gegründet und zählt rund 90
+Mitglieder.
 
-Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19.30 Uhr in das Schulhaus Tschudiwies, Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17.30 Uhr findet dort das Juniorentraining der in den Klub integrierten Schachschule St. Gallen statt.
+Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19.30 Uhr in das Schulhaus Tschudiwies,
+Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17.30 Uhr findet dort das Juniorentraining der in den Klub
+integrierten Schachschule St. Gallen statt.
 
-Der Klub nimmt mit je vier Teams teil an der Schweizer Mannschaftsmeisterschaft (SMM) und an der Schweizer Gruppenmeisterschaft (SGM).
+Der Klub nimmt mit je vier Teams teil an der Schweizer Mannschaftsmeisterschaft (SMM) und an der Schweizer
+Gruppenmeisterschaft (SGM).
 
 Wir freuen uns über jede(n), der reinschaut! Für Anfänger bieten wir ein bis zweimal im Jahr Einsteigerkurse an.
 
@@ -25,8 +29,10 @@ Alle Infos zu jedem Klubabend sind im **[Terminkalender](../terminkalender)** zu
 
 ## Anreise
 
-- **ÖV**: Das Klublokal befindet sich ca. 10 bis 15 Gehminuten vom Bahnhof St. Gallen entfernt. Mit dem Bus kann man mit der Linie 5 in Richtung Riethüsli fahren und bei der Haltestelle Melonenstrasse aussteigen.
-- **Auto**: In den anliegenden Strassen um das Klublokal hat es Blaue Zonen Parkplätze. Das nächste Parkhaus ist das Parkhaus Kreuzbleiche, welches gut 10 Gehminuten vom Klublokal entfernt ist.
+- **ÖV**: Das Klublokal befindet sich ca. 10 bis 15 Gehminuten vom Bahnhof St. Gallen entfernt. Mit dem Bus kann man mit
+  der Linie 5 in Richtung Riethüsli fahren und bei der Haltestelle Melonenstrasse aussteigen.
+- **Auto**: In den anliegenden Strassen um das Klublokal hat es Blaue Zonen Parkplätze. Das nächste Parkhaus ist das
+  Parkhaus Kreuzbleiche, welches gut 10 Gehminuten vom Klublokal entfernt ist.
 
 Das Klublokal befindet sich im 1. Stock im linken Gebäude des ehemaligen Schulhauses Tschudiwies.
 
@@ -34,22 +40,28 @@ Das Klublokal befindet sich im 1. Stock im linken Gebäude des ehemaligen Schulh
 
 ## Kontaktformular
 
-Möchtest du Mitglied des Schachklubs St. Gallen werden oder einfach einmal reinschnuppern? Gerne beantworten wir deine Fragen:
+Möchtest du Mitglied des Schachklubs St. Gallen werden oder einfach einmal reinschnuppern? Gerne beantworten wir deine
+Fragen:
 
 {% include email_form.html %}
 
 ## Jugendschach
 
 - Spiel, Plausch und Turniere
-- Jeden Montag ausser in den Schulferien um 17:30 Uhr bis 19:30 Uhr im Schulhaus Tschudiwies.
+- Dreimal in der Woche ausser in den Schulferien im Schulhaus Tschudiwies:
+    - Montag, 17:30 Uhr bis 19:30 Uhr
+    - Dienstag, 17:30 Uhr bis 19:30 Uhr
+    - Freitag, 16:30 Uhr bis 18:30 Uhr
 - Neue Interessenten bitte vorher [anmelden](https://www.schachschule-sg.ch/jugendschach/anmeldung){:target="\_blank"}.
-- Weitere Informationen sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/jugendschach/kurse){:target="\_blank"} zu finden.
+- Weitere Informationen sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/jugendschach/kurse){:
+  target="\_blank"} zu finden.
 
 ## Schachkurse
 
 - Schachkurse für Erwachsene
-- Mittwochs ab 19:00 Uhr im Schulhaus Tschudiwies
-- Weiter Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/erwachsene/kurse){:target="\_blank"} zu finden.
+- Donnerstags ab 19:00 Uhr im Schulhaus Tschudiwies
+- Weiter Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/erwachsene/kurse){:target="
+  \_blank"} zu finden.
 
 ## Kontakt
 
@@ -77,3 +89,36 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 | Leiter Schachschule          | Thomas Schoch     |
 | Leiter Turniere              | Miguel Garcia     |
 | Koordination SMM/SGM         | Jan Fecker        |
+
+## Teamcaptains SGM
+
+| Team                            | Name                |
+|---------------------------------|---------------------|
+| [St. Gallen 1](../sgm/2025/sg1) | Jan Fecker          |
+| [St. Gallen 2](../sgm/2025/sg2) | Frank Wittenbrock   |
+| [St. Gallen 3](../sgm/2025/sg3) | Luwdig Sapulowitsch |
+| [St. Gallen 4](../sgm/2025/sg4) | Jan Fecker          |
+
+## Teamcaptains SMM
+
+| Team                            | Name          |
+|---------------------------------|---------------|
+| [St. Gallen 1](../smm/2025/sg1) | Roman Schmuki |
+| [St. Gallen 2](../smm/2025/sg2) | Jan Frei      |
+| [St. Gallen 3](../smm/2025/sg3) | Livio Ciardo  |
+| [St. Gallen 4](../smm/2025/sg4) | Jan Fecker    |
+
+## Organisation Freier Spielabend
+
+- Thomas Gebhardt
+
+## Turnierleitung
+
+- Miguel Garcia (Koordination)
+- Frank Wittenbrock
+- Silas Tapernoux
+
+## Revision
+
+- Michael Bruhin
+- Noah Fecker

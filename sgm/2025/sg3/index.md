@@ -18,7 +18,7 @@ St. Gallen 3 spielt in der Saison 2025 in der
 {% include sgm/2025/swisschess-link.html gruppe=514 liga=5 round=7 text="3. Regionalliga, Zone N" %} unter Teamcaptain
 Ludwig Sapulowitsch.
 
-## Zwischentabelle
+## Schlusstabelle
 
 {% include sgm/2025/sg3/tabelle.html %}
 
