@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2025
 ## St. Gallen 4
 
 St. Gallen 4 spielte in der
-{% include smm/2025/swisschess-link.html gruppe=502 liga=5 round=1 text="3. Liga, Gruppe Ost 2" %}
+{% include smm/2025/swisschess-link.html gruppe=603 liga=6 round=1 text="4. Liga, Gruppe Ost 3" %}
 unter Teamcaptain Lorenz Markus.
 
 ## Zwischentabelle
