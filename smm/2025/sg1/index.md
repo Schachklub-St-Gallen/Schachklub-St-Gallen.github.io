@@ -24,6 +24,10 @@ Roman Schmuki.
 
 _Rang 1 steigt in die NLA auf. Rang 9 und 10 steigen direkt ab._
 
+## 2. Runde - 06. April 2025
+
+{% include smm/2025/sg1/bericht-r2.md %}
+
 ## 1. Runde - 23. März 2025
 
 {% include smm/2025/sg1/bericht-r1.md %}
