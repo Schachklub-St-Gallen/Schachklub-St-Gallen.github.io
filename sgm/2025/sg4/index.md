@@ -14,9 +14,9 @@ subtitle: Alle Informationen zur SGM-Saison 2025
 
 # St. Gallen 4
 
-St. Gallen 4 spielt in der Saison 2025 in der
+St. Gallen 4 spielte in der Saison 2025 in der
 {% include sgm/2025/swisschess-link.html gruppe=515 liga=5 round=7 text="3. Regionalliga, Zone O" %} unter Teamcaptain
-Jan Fecker.
+Jan Fecker. Die Mannschaft belegte den 5. Platz und verbleibt in der 3. Regionalliga.
 
 ## Schlusstabelle
 
