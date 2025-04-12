@@ -44,8 +44,8 @@ gesetzten Rochaden ging es auch hier ums Ganze, aber beide Akteure waren auch be
 trotzten allen Tricks in allen Partiephasen und am Ende gab es eine gerechte Punkteteilung zum Endstand von 4:1 für St.
 Gallen.
 
-Ein guten Anteil am Erfolg dieser Saison haben auch die beiden Junioren Viktor Guba (3/4) und Riccardo Piacquadio (
-3.5/5), die beide für das Aufstiegsspiel verhindert waren. Ferner Jan Frei (2/3), Wolfgang Eisenbeiss (1/2), Miro
+Ein guten Anteil am Erfolg dieser Saison haben auch die beiden Junioren Viktor Guba (3/4) und Riccardo Piacquadio
+(3.5/5), die beide für das Aufstiegsspiel verhindert waren. Ferner Jan Frei (2/3), Wolfgang Eisenbeiss (1/2), Miro
 Settegrana, Miguel Garcia, Roman Schmuki und Edin Haralcic. Herzlichen Dank für Euren Einsatz! Ab 1. November gibt es
 dafür zur Belohnung noch stärkere Gegner.
 
