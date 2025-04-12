@@ -1,7 +1,7 @@
 ---
 layout: post
-title: St. Gallen 2 steigt in die 1. Liga auf
-subtitle: St. Gallen 2 gewinnt das Aufstiegsspiel gegen Sprengschach mit 4:1 und steigt zurück in die 1. Regionalliga auf.
+title: "SGM: St. Gallen 2 steigt auf"
+subtitle: St. Gallen 2 gewinnt das Aufstiegsspiel gegen Sprengschach Wil 2 mit 4:1 schafft damit den direkten Wiederaufstieg in die 1. Regionalliga.
 ---
 
 _Update folgt_
