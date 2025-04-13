@@ -4,20 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2025
 ---
 
-### März 2025
-
-| Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
-|-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 24.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Mitgliederversammlung</span>  |
-| <nobr>Mo 31.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
-
 ### April 2025
 
 | Datum                 |          Zeit          |     Ort     |                            Veranstaltung                            |
 |-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------------:|
-| <nobr>Sa 05.04</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SMM (SG2 – Gonzen, SG3 – Rapperswil-Jona, SG4 – Schaffhausen/Munot) |
-| <nobr>So 06.04</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                         SMM (Glarus – SG1)                          |
-| <nobr>Mo 07.04</nobr> |           -            |      -      |                 (Frühlingsferien, kein Klubbetrieb)                 |
 | <nobr>Mo 14.04</nobr> |           -            |      -      |                 (Frühlingsferien, kein Klubbetrieb)                 |
 | <nobr>Mo 21.04</nobr> |           -            |      -      |                   (Ostermontag, kein Klubbetrieb)                   |
 | <nobr>Sa 26.04</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |       SMM (Glarus – SG2, Winterthur – SG3, Romanshorn – SG4)        |
