@@ -8,10 +8,6 @@ subtitle: Aktueller Terminkalender 2025
 
 | Datum                 |          Zeit          |     Ort     |                            Veranstaltung                            |
 |-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------------:|
-| <nobr>Mo 14.04</nobr> |           -            |      -      |                 (Frühlingsferien, kein Klubbetrieb)                 |
-| <nobr>Mo 21.04</nobr> |           -            |      -      |                   (Ostermontag, kein Klubbetrieb)                   |
-| <nobr>Sa 26.04</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |       SMM (Glarus – SG2, Winterthur – SG3, Romanshorn – SG4)        |
-| <nobr>So 27.04</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                   SMM (SG1 – Swisschess Academy)                    |
 | <nobr>Mo 28.04</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |        <span style="color:red">Klubmeisterschaft RD 1</span>        |
 
 ### Mai 2025
