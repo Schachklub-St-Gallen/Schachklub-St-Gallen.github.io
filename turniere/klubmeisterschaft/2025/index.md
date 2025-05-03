@@ -5,7 +5,7 @@ subtitle: Alle Informationen zur Klubmeisterschaft 2025
 ---
 
 Die diesjährige Klubmeisterschaft findet vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung
-sind in der Ausschreibung.
+sind in der [Ausschreibung](Klubmeisterschaft2025.pdf){:target="\_blank"}.
 
 ### Resultate
 
