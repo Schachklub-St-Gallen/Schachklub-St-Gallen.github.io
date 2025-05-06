@@ -38,7 +38,9 @@ Das Klublokal befindet sich im 1. Stock im linken Gebäude des ehemaligen Schulh
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1349.8757530821356!2d9.364678339166312!3d47.41678790773824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b1f0b28882695%3A0xc43c45d21cef232c!2sSchachklub%20St.%20Gallen!5e0!3m2!1sen!2sus!4v1708895068948!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Kontaktformular
+## Kontakt
+
+E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 
 Möchtest du Mitglied des Schachklubs St. Gallen werden oder einfach einmal reinschnuppern? Gerne beantworten wir deine
 Fragen:
@@ -63,10 +65,6 @@ Fragen:
 - Weiter Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/erwachsene/kurse){:target="
   \_blank"} zu finden.
 
-## Kontakt
-
-Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
-
 ## Jahresbeiträge
 
 |                                          | Klubbeitrag | SSB Beitrag* | Total       |
@@ -79,7 +77,9 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 
 (*) Beitrag an den Schweizerischen Schachbund (SSB) für die Spiellizenz für Wettkämpfe ausserhalb des Klubabends.
 
-## Vorstand
+## Funktionsträger des Schachklubs St. Gallen
+
+### Vorstand
 
 | Funktion                     | Name              |
 |------------------------------|-------------------|
@@ -90,31 +90,31 @@ Per E-Mail: [kontakt@schachklub-sg.ch](mailto:kontakt@schachklub-sg.ch)
 | Leiter Turniere              | Miguel Garcia     |
 | Koordination SMM/SGM         | Jan Fecker        |
 
-## Teamcaptains SGM
+### Teamcaptains SGM
 
 - [St. Gallen 1](../sgm/2025/sg1): Jan Fecker
 - [St. Gallen 2](../sgm/2025/sg2): Frank Wittenbrock
 - [St. Gallen 3](../sgm/2025/sg3): Luwdig Sapulowitsch
 - [St. Gallen 4](../sgm/2025/sg4): Jan Fecker
 
-## Teamcaptains SMM
+### Teamcaptains SMM
 
 - [St. Gallen 1](../smm/2025/sg1): Roman Schmuki
 - [St. Gallen 2](../smm/2025/sg2): Jan Frei
 - [St. Gallen 3](../smm/2025/sg3): Livio Ciardo
 - [St. Gallen 4](../smm/2025/sg4): Jan Fecker
 
-## Organisation Freier Spielabend
+### Organisation Freier Spielabend
 
 - Thomas Gebhardt
 
-## Turnierleitung
+### Turnierleitung
 
 - Miguel Garcia (Hauptturnierleiter)
 - Frank Wittenbrock
 - Silas Tapernoux
 
-## Revision
+### Revision
 
 - Michael Bruhin
 - Noah Fecker
