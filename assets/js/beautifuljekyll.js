@@ -150,11 +150,9 @@ let BeautifulJekyllJS = {
       const tableWidth = table.offsetWidth;
       const viewportWidth = window.innerWidth;
 
-      // Your dynamic logic here — for example:
-      // Let's center the table based on some offset logic
-      const desiredMargin = 365 - (tableWidth / 2);
-      table.style.marginLeft = `${desiredMargin}px`;
-      console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${desiredMargin}px`);
+      const marginLeft = (viewportWidth - tableWidth) / 2;
+      table.style.marginLeft = `${marginLeft}px`;
+      console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${marginLeft}px`);
     }
 
     // Run on load and on resize
