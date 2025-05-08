@@ -144,9 +144,11 @@ let BeautifulJekyllJS = {
   initTableResizer : function() {
     function centerSingleTable(table) {
       const tableWidth = table.offsetWidth;
+      const tBody = table.querySelector('tbody');
+      const tBodyWidth = tBody.offsetWidth;
       const viewportWidth = window.innerWidth;
       const parentOffsetWidth = table.parentElement.offsetWidth;
-      const marginLeft = (parentOffsetWidth - tableWidth) / 2;
+      const marginLeft = (parentOffsetWidth - tBodyWidth) / 2;
       table.style.marginLeft = `${marginLeft}px`;
     }
 
