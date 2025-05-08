@@ -146,7 +146,7 @@ let BeautifulJekyllJS = {
       const tableWidth = table.offsetWidth;
       const viewportWidth = window.innerWidth;
       const layoutOffset = 345; // TODO: get this from CSS
-      const marginLeft = (tableWidth + layoutOffset - viewportWidth) / 2;
+      const marginLeft = (tableWidth / 2) + layoutOffset;
       table.style.marginLeft = `${marginLeft}px`;
     }
 
