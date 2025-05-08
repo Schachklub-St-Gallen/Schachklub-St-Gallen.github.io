@@ -142,22 +142,22 @@ let BeautifulJekyllJS = {
   },
 
   initTableResizer : function() {
-    function updateMarginLeft() {
-      console.log("updating margin left");
-      const table = document.querySelector('.results-table-large');
-      if (!table) return;
-
-      const tableWidth = table.offsetWidth;
+    function centerAllTables() {
+      const tables = document.querySelectorAll('.centered-table-large');
       const viewportWidth = window.innerWidth;
+      console.log("updating margin left", viewportWidth, tables.length);
 
-      const marginLeft = (tableWidth - viewportWidth) / 2;
-      table.style.marginLeft = `${marginLeft}px`;
-      console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${marginLeft}px`);
+      tables.forEach(table => {
+        const tableWidth = table.offsetWidth;
+        const marginLeft = (tableWidth - viewportWidth) / 2;
+        table.style.marginLeft = `${marginLeft}px`;
+        console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${marginLeft}px`);
+      });
     }
 
     // Run on load and on resize
-    window.addEventListener('load', updateMarginLeft);
-    window.addEventListener('resize', updateMarginLeft);
+    window.addEventListener('load', centerAllTables);
+    window.addEventListener('resize', centerAllTables);
   }
 };
 

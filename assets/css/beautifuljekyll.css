@@ -1168,31 +1168,31 @@ pre {
 .results-table [align="right"]  { text-align: right; }
 
 @media (min-width: 768px) {
-    .results-table-large {
+    .centered-table-large {
         width: 90vw;
     }
 }
 
 @media (min-width: 992px) {
-    .results-table-large {
+    .centered-table-large {
         width: 90vw;
     }
 }
 
 @media (min-width: 1200px) {
-    .results-table-large {
+    .centered-table-large {
         width: 90vw;
     }
 }
 
 @media (min-width: 1600px) {
-    .results-table-large {
+    .centered-table-large {
         width: 84vw;
     }
 }
 
 @media (min-width: 2000px) {
-    .results-table-large {
+    .centered-table-large {
         width: 78vw;
     }
 }
