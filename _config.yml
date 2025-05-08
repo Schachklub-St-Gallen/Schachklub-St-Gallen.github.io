@@ -22,10 +22,11 @@ author: Jan Frei
 navbar-links:
   Über uns: "info"
   Berichte: "/"
+  Klubmeisterschaft: "turniere/klubmeisterschaft/2025"
   Turnierübersicht:
-    - Speed Chess: "turniere/speedchess/2024"
     - Klubmeisterschaft: "turniere/klubmeisterschaft/2025"
     - Stadtmeisterschaft: "turniere/stadtmeisterschaft/2024"
+    - Speed Chess: "turniere/speedchess/2024"
     - Rapid Grand Prix: "turniere/rapidgrandprix/2023"
   Schachsport:
     - SGM: "sgm/2025/sg1"
