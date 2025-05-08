@@ -142,16 +142,33 @@ let BeautifulJekyllJS = {
   },
 
   initTableResizer : function() {
+    function centerSingleTable(table) {
+      const tableWidth = table.offsetWidth;
+      const viewportWidth = window.innerWidth;
+      const marginLeft = (tableWidth - viewportWidth) / 2;
+      table.style.marginLeft = `${marginLeft}px`;
+      console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${marginLeft}px`);
+    }
+
+    function centerTableWhenVisible(table) {
+      const observer = new MutationObserver(() => {
+        if (table.offsetParent !== null) { // it's now visible
+          centerSingleTable(table);
+          observer.disconnect();
+        }
+      });
+
+      observer.observe(table, { attributes: true, attributeFilter: ['style', 'class'] });
+    }
+
     function centerAllTables() {
       const tables = document.querySelectorAll('.centered-table-large');
-      const viewportWidth = window.innerWidth;
-      console.log("updating margin left", viewportWidth, tables.length);
-
       tables.forEach(table => {
-        const tableWidth = table.offsetWidth;
-        const marginLeft = (tableWidth - viewportWidth) / 2;
-        table.style.marginLeft = `${marginLeft}px`;
-        console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${marginLeft}px`);
+        if (table.offsetParent !== null) {
+          centerSingleTable(table);
+        } else {
+          centerTableWhenVisible(table);
+        }
       });
     }
 
