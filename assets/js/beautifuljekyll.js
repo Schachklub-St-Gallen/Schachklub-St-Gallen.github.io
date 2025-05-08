@@ -152,6 +152,7 @@ let BeautifulJekyllJS = {
 
     function centerTableWhenVisible(table) {
       const observer = new MutationObserver(() => {
+        console.log('Table visibility changed', table.offsetParent, table.className);
         if (table.offsetParent !== null) { // it's now visible
           centerSingleTable(table);
           observer.disconnect();
