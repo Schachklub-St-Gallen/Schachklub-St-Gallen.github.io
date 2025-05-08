@@ -145,8 +145,8 @@ let BeautifulJekyllJS = {
     function centerSingleTable(table) {
       const tableWidth = table.offsetWidth;
       const viewportWidth = window.innerWidth;
-      const layoutOffset = 345; // TODO: get this from CSS
-      const marginLeft = layoutOffset - (tableWidth / 2);
+      const parentOffsetWidth = table.parentElement.offsetWidth;
+      const marginLeft = (parentOffsetWidth - tableWidth) / 2;
       table.style.marginLeft = `${marginLeft}px`;
     }
 
