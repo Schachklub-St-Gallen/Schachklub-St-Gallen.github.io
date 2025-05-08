@@ -1170,34 +1170,29 @@ pre {
 @media (min-width: 768px) {
     .results-table-large {
         width: 90vw;
-        margin-left: calc(345px - 45vw);
     }
 }
 
 @media (min-width: 992px) {
     .results-table-large {
         width: 90vw;
-        margin-left: calc(385px - 45vw);
     }
 }
 
 @media (min-width: 1200px) {
     .results-table-large {
         width: 90vw;
-        margin-left: calc(365px - 45vw);
     }
 }
 
 @media (min-width: 1600px) {
     .results-table-large {
         width: 84vw;
-        margin-left: calc(365px - 42vw);
     }
 }
 
 @media (min-width: 2000px) {
     .results-table-large {
         width: 78vw;
-        margin-left: calc(365px - 39vw);
     }
 }

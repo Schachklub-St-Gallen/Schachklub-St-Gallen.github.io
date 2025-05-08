@@ -30,6 +30,8 @@ let BeautifulJekyllJS = {
 
     BeautifulJekyllJS.initSearch();
 
+    BeautifulJekyllJS.initTableResizer();
+
     // append .table to all tables for bootstrap styles
     $('table').addClass('table');
   },
@@ -137,6 +139,27 @@ let BeautifulJekyllJS = {
         $("body").removeClass("overflow-hidden");
       }
     });
+  },
+
+  initTableResizer : function() {
+    function updateMarginLeft() {
+      console.log("updating margin left");
+      const table = document.querySelector('.results-table-large');
+      if (!table) return;
+
+      const tableWidth = table.offsetWidth;
+      const viewportWidth = window.innerWidth;
+
+      // Your dynamic logic here — for example:
+      // Let's center the table based on some offset logic
+      const desiredMargin = 365 - (tableWidth / 2);
+      table.style.marginLeft = `${desiredMargin}px`;
+      console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${desiredMargin}px`);
+    }
+
+    // Run on load and on resize
+    window.addEventListener('load', updateMarginLeft);
+    window.addEventListener('resize', updateMarginLeft);
   }
 };
 
