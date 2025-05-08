@@ -145,21 +145,20 @@ let BeautifulJekyllJS = {
     function centerSingleTable(table) {
       const tableWidth = table.offsetWidth;
       const viewportWidth = window.innerWidth;
-      const marginLeft = (tableWidth - viewportWidth) / 2;
+      const layoutOffset = 345; // TODO: get this from CSS
+      const marginLeft = (tableWidth + layoutOffset - viewportWidth) / 2;
       table.style.marginLeft = `${marginLeft}px`;
-      console.log(`Table width: ${tableWidth}, Viewport width: ${viewportWidth}, Margin left: ${marginLeft}px`);
     }
 
     function centerTableWhenVisible(table) {
       const observer = new MutationObserver(() => {
-        console.log('Table visibility changed', table.offsetParent, table.className);
         if (table.offsetParent !== null) { // it's now visible
           centerSingleTable(table);
           observer.disconnect();
         }
       });
 
-      observer.observe(table, { attributes: true, attributeFilter: ['style', 'class'] });
+      observer.observe(table.parentElement, { attributes: true, attributeFilter: ['style', 'class'] });
     }
 
     function centerAllTables() {
