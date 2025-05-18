@@ -24,6 +24,10 @@ Teamcaptain Jan Fecker.
 
 _Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele._
 
+## 4. Runde - 17. Mai 2025
+
+{% include smm/2025/sg4/bericht-r4.md %}
+
 ## 3. Runde - 26. April 2025
 
 {% include smm/2025/sg4/bericht-r3.md %}
