@@ -8,7 +8,7 @@ Die diesjährige Klubmeisterschaft findet vor Ort im Tschudiwies statt. Alle wei
 sind in der [Ausschreibung](Klubmeisterschaft2025.pdf){:target="\_blank"}.
 
 Den Schlussbericht zur letzten Runde findet ihr bei den Berichten:
-**[Yasin Chennaoui ist Klubmeister 2025!](/2025-05-278-klubmeisterschaft-2025-schlussbericht)**
+**[Yasin Chennaoui ist Klubmeister 2025!](/2025-05-27-klubmeisterschaft-2025-schlussbericht)**
 
 ### Resultate
 
