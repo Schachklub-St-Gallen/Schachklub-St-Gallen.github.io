@@ -16,7 +16,7 @@ _Yasin Chennaoui gewinnt die Klubmeisterschaft 2025._
 Auf dem zweiten Platz landet Miguel Garcia mit 4 Punkten. Er gewinnt in der letzten Runde gegen Marc Potterat und
 sichert sich damit den zweiten Platz in der Schlussrangliste. Marc Potterat wird Dritter mit 3.5 Punkten. Auf dem
 vierten Platz landet Jan Frei mit ebenfalls 3.5 Punkten, aber der deutlich schlechteren Buchholzwertung. Mit jeweils 3
-Punkten folgen Halit Rexhepi und Frnak Wittenbrock auf den Plätzen 5 und 6.
+Punkten folgen Halit Rexhepi und Frank Wittenbrock auf den Plätzen 5 und 6.
 
 ![Top4](/assets/img/klubmeisterschaft/2025/resultate.png)
 _Die Schlussrangliste der Klubmeisterschaft. Die vollständige Rangliste sowie die Ergebnisse aller Runden findet ihr
@@ -26,6 +26,5 @@ Herzlichen Glückwunsch an alle Preisgewinner der Klubmeisterschaft 2025! Mein b
 Garcia für die hervorragende Organisation des Turniers. Ein grosser Dank geht auch an alle
 Teilnehmer, die mit ihrem
 Engagement und ihren spannenden Partien zu einem gelungenen Turnier beigetragen haben.
-
 
 _Jan Frei_
