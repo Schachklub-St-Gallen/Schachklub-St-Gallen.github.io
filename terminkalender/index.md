@@ -4,22 +4,11 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2025
 ---
 
-### April 2025
-
-| Datum                 |          Zeit          |     Ort     |                            Veranstaltung                            |
-|-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------------:|
-| <nobr>Mo 28.04</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |        <span style="color:red">Klubmeisterschaft RD 1</span>        |
-
 ### Mai 2025
 
-| Datum                 |          Zeit          |     Ort     |                           Veranstaltung                            |
-|-----------------------|:----------------------:|:-----------:|:------------------------------------------------------------------:|
-| <nobr>Mo 05.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                       Klubmeisterschaft RD 2                       |
-| <nobr>Mo 12.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                       Klubmeisterschaft RD 3                       |
-| <nobr>Sa 17.05</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SMM (Rapperswil-Jona – SG2, Uzwil – SG3, Schaffhausen/Munot – SG4) |
-| <nobr>So 18.05</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                          SMM (Réti – SG1)                          |
-| <nobr>Mo 19.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                       Klubmeisterschaft RD 4                       |
-| <nobr>Mo 26.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                       Klubmeisterschaft RD 5                       |
+| Datum                 |          Zeit          |     Ort     |     Veranstaltung      |
+|-----------------------|:----------------------:|:-----------:|:----------------------:|
+| <nobr>Mo 26.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Klubmeisterschaft RD 5 |
 
 ### Juni 2025
 
@@ -61,7 +50,6 @@ subtitle: Aktueller Terminkalender 2025
 |-----------------------|:----------------------:|:------:|:-----------------:|
 | <nobr>Sa 11.10</nobr> | <nobr>12:30 Uhr</nobr> | divers | SMM (SG1 – Bodan) |
 | <nobr>So 12.10</nobr> | <nobr>12:30 Uhr</nobr> | divers | SMM (SG1 – Olten) |
-
 
 ## Vergangene Terminkalender
 

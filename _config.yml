@@ -29,8 +29,8 @@ navbar-links:
     - Speed Chess: "turniere/speedchess/2024"
     - Rapid Grand Prix: "turniere/rapidgrandprix/2023"
   Schachsport:
-    - SGM: "sgm/2025/sg1"
     - SMM: "smm/2025/sg1"
+    - SGM: "sgm/2025/sg1"
     - Führungsliste: "fuehrungsliste"
     - Qualiturnier 2023: "qualiturnier"
   Terminkalender: "terminkalender"
