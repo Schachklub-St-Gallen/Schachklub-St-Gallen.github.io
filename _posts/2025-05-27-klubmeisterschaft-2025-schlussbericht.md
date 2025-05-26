@@ -27,4 +27,5 @@ Garcia für die hervorragende Organisation des Turniers. Ein grosser Dank geht a
 Teilnehmer, die mit ihrem
 Engagement und ihren spannenden Partien zu einem gelungenen Turnier beigetragen haben.
 
+
 _Jan Frei_
