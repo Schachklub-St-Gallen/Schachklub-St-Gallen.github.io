@@ -4,12 +4,6 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2025
 ---
 
-### Mai 2025
-
-| Datum                 |          Zeit          |     Ort     |     Veranstaltung      |
-|-----------------------|:----------------------:|:-----------:|:----------------------:|
-| <nobr>Mo 26.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Klubmeisterschaft RD 5 |
-
 ### Juni 2025
 
 | Datum                 |          Zeit          |     Ort     |                         Veranstaltung                         |
