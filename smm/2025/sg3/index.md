@@ -24,6 +24,10 @@ Livio Ciardo.
 
 _Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele._
 
+## 5. Runde - 21. Juni 2025
+
+{% include smm/2025/sg3/bericht-r5.md %}
+
 ## 4. Runde - 17. Mai 2025
 
 {% include smm/2025/sg3/bericht-r4.md %}
