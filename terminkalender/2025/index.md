@@ -84,7 +84,7 @@ subtitle: Terminkalender 2025
 
 | Datum                 |          Zeit          |     Ort     |                    Veranstaltung                     |
 |-----------------------|:----------------------:|:-----------:|:----------------------------------------------------:|
-| <nobr>So 10.08</nobr> | <nobr>14:00 Uhr</nobr> | Tschudiwies |      <span style="color:red">Sommerfest</span>       |
+| <nobr>So 10.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |      <span style="color:red">Sommerfest</span>       |
 | <nobr>Mo 11.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                  |
 | <nobr>Mo 18.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  <span style="color:red">Blitzmeisterschaft</span>   |
 | <nobr>Sa 23.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SMM (SG2 – Chur, SG3 – Toggenburg, SG4 – Winterthur) |
