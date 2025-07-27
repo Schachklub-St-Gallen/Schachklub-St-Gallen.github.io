@@ -93,15 +93,15 @@ subtitle: Terminkalender 2025
 
 ### September 2025
 
-| Datum                 |          Zeit          |     Ort     |                   Veranstaltung                   |
-|-----------------------|:----------------------:|:-----------:|:-------------------------------------------------:|
-| <nobr>Mo 01.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Rapidmeisterschaft</span> |
-| <nobr>Mo 08.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Freier Spieleabend                 |
-| <nobr>Sa 13.09</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |         SMM (Wil – SG2, Romanshorn – SG3)         |
-| <nobr>So 14.09</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |              SMM (SG1 – Winterthur)               |
-| <nobr>Mo 15.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Freier Spieleabend                 |
-| <nobr>Mo 22.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Freier Spieleabend                 |
-| <nobr>Mo 29.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |         (Herbstferien, kein Klubbetrieb)          |
+| Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
+|-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
+| <nobr>Mo 01.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |   <span style="color:red">Rapidmeisterschaft</span>   |
+| <nobr>Mo 08.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Vortrag FM Noah Fecker</span> |
+| <nobr>Sa 13.09</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |           SMM (Wil – SG2, Romanshorn – SG3)           |
+| <nobr>So 14.09</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                SMM (SG1 – Winterthur)                 |
+| <nobr>Mo 15.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
+| <nobr>Mo 22.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
+| <nobr>Mo 29.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           (Herbstferien, kein Klubbetrieb)            |
 
 ### Oktober 2025
 
