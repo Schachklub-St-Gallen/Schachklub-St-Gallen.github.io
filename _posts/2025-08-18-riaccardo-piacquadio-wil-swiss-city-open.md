@@ -18,6 +18,6 @@ zweiten Platz. Riccardo wurde verdienter Dritter (und bester U16-Spieler).
 
 Herzlichen Glückwunsch, Riccardo!
 
-Link: [https://s1.chess-results.com/tnrWZ.aspx?lan=1&art=1&rd=5&flag=30&SNode=S0&tno=899663]()
+Link: [https://s1.chess-results.com/tnrWZ.aspx?lan=1&art=1&rd=5&flag=30&SNode=S0&tno=899663](https://s1.chess-results.com/tnrWZ.aspx?lan=1&art=1&rd=5&flag=30&SNode=S0&tno=899663)
 
 ![Siegerfoto](/assets/img/2025-08-18-wil-swiss-city-open.png)
