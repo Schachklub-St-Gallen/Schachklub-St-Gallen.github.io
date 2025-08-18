@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Riccardo Piacquadio: 3. Platz beim Wil Swiss City Open 2025"
-thumbnail-img: /assets/img/stadtmeisterschaft/2024/siegerfoto.png
+thumbnail-img: /assets/img/2025-08-18-wil-swiss-city-open.png
 ---
 
 Der 14-jährige Riccardo Piacquadio setzt seine beeindruckende Serie von Schacherfolgen fort. An diesem Wochenende in
@@ -19,3 +19,5 @@ zweiten Platz. Riccardo wurde verdienter Dritter (und bester U16-Spieler).
 Herzlichen Glückwunsch, Riccardo!
 
 Link: https://s1.chess-results.com/tnrWZ.aspx?lan=1&art=1&rd=5&flag=30&SNode=S0&tno=899663
+
+![Siegerfoto](/assets/img/2025-08-18-wil-swiss-city-open.png)
