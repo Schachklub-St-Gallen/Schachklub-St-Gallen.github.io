@@ -24,6 +24,10 @@ Jan Frei.
 
 _Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 und 8 steigen direkt ab._
 
+## 6. Runde - 23. August 2025
+
+{% include smm/2025/sg2/bericht-r6.md %}
+
 ## 5. Runde - 21. Juni 2025
 
 {% include smm/2025/sg2/bericht-r5.md %}

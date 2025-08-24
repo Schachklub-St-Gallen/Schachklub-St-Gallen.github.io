@@ -24,6 +24,10 @@ Roman Schmuki.
 
 _Rang 1 steigt in die NLA auf. Rang 9 und 10 steigen direkt ab._
 
+## 6. Runde - 24. August 2025
+
+{% include smm/2025/sg1/bericht-r6.md %}
+
 ## 5. Runde - 22. Juni 2025
 
 {% include smm/2025/sg1/bericht-r5.md %}
