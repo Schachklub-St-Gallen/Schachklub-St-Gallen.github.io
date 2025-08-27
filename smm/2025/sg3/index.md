@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2025
 ## St. Gallen 3
 
 St. Gallen 3 spielt in der
-{% include smm/2025/swisschess-link.html gruppe=602 liga=6 round=5 text="4. Liga, Gruppe Ost 2" %} unter Teamcaptain
+{% include smm/2025/swisschess-link.html gruppe=602 liga=6 round=6 text="4. Liga, Gruppe Ost 2" %} unter Teamcaptain
 Livio Ciardo.
 
 ## Zwischentabelle
