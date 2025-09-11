@@ -20,7 +20,8 @@ An dieser Stelle möchte ich schon jetzt Roman Schmuki ganz herzlich für seinen
 die 1. Mannschaft danken!
 
 Mit grosser Freude kann ich nun verkünden, dass Toni Thaler die Mannschaftsleitung ab 2026 übernimmt! Toni
-bringt bereits Erfahrung als SMM-Captain mit und ist eine gute Ablösung für Roman.
+bringt bereits Erfahrung als SMM-Captain mit, er hat die 1. Mannschaft bereits in der Vergangenheit für viele Jahre
+geleitet.
 
 Auch St. Gallen 2 wird in gute Hände übergeben: die zweite St. Galler Mannschaft, welche nächstes Jahr hoffentlich
 wieder in der 2. Liga spielt, werden ab 2026 Ruedi Gautschi und Marcel Schneider als Co-Captains leiten.
