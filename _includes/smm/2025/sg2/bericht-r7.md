@@ -10,7 +10,7 @@
 | 6     | Gianluca La Rocca       | Christoph Ellinger (1776) | 0-1 |
 
 St. Gallen 2 gewinnt auch das letzte Spiel der Saison und beendet die Saison damit mit 7 Siegen aus 7 Spielen
-auf dem 1. Rang. Total erreicht St. Gallen 2 14 Mannschaftspunkte und 34 Brettpunkte, mit 6 Brettpunkten Vorsprung
+auf dem 1. Rang. Total erreicht St. Gallen 2 14 Mannschaftspunkte und 34 Brettpunkte, mit 6 Mannschaftspunkten Vorsprung
 vor dem zweitplatzierten Team.
 
 Das Aufstiegsspiel wird am 25. Oktober 2025 stattfinden, wir haben ein Heimspiel gegen den Zweitplatzierten
