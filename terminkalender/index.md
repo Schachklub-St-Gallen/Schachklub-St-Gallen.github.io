@@ -4,31 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2025
 ---
 
-### Juli 2025 (Sommerferien, kein Klubbetrieb)
-
-| Datum                 | Zeit | Ort |          Veranstaltung           |
-|-----------------------|:----:|:---:|:--------------------------------:|
-| <nobr>Mo 07.07</nobr> |  -   |  -  | (Sommerferien, kein Klubbetrieb) |
-
-### August 2025
-
-| Datum                 |          Zeit          |     Ort     |                    Veranstaltung                     |
-|-----------------------|:----------------------:|:-----------:|:----------------------------------------------------:|
-| <nobr>So 10.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |      <span style="color:red">Sommerfest</span>       |
-| <nobr>Mo 11.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                  |
-| <nobr>Mo 18.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  <span style="color:red">Blitzmeisterschaft</span>   |
-| <nobr>Sa 23.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SMM (SG2 – Chur, SG3 – Toggenburg, SG4 – Winterthur) |
-| <nobr>So 24.08</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |               SMM (SG1 – Trubschachen)               |
-| <nobr>Mo 25.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                  |
-
 ### September 2025
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
 |-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 01.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |   <span style="color:red">Rapidmeisterschaft</span>   |
-| <nobr>Mo 08.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Vortrag FM Noah Fecker</span> |
-| <nobr>Sa 13.09</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |           SMM (Wil – SG2, Romanshorn – SG3)           |
-| <nobr>So 14.09</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                SMM (SG1 – Winterthur)                 |
 | <nobr>Mo 15.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
 | <nobr>Mo 22.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
 | <nobr>Mo 29.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           (Herbstferien, kein Klubbetrieb)            |
