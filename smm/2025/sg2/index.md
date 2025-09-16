@@ -16,9 +16,10 @@ subtitle: Alle Informationen zur SMM-Saison 2025
 
 St. Gallen 2 spielt in der
 {% include smm/2025/swisschess-link.html gruppe=501 liga=5 round=7 text="3. Liga, Gruppe Ost 1" %} unter Teamcaptain
-Jan Frei.
+Jan Frei. St. Gallen 2 beendet die Saison auf dem 1. Rang mit 7 Siegen aus 7 Spielen, und qualifiziert sich damit für
+die Aufstiegsspiele in die 2. Liga.
 
-## Zwischentabelle
+## Schlusstabelle
 
 {% include smm/2025/sg2/tabelle.html %}
 
