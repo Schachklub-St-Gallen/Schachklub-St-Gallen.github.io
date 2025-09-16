@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2025
 ## St. Gallen 1
 
 St. Gallen 1 spielt in der
-{% include smm/2025/swisschess-link.html gruppe=201 liga=2 round=6 text="NLB, Gruppe Ost" %} unter Teamcaptain
+{% include smm/2025/swisschess-link.html gruppe=201 liga=2 round=7 text="NLB, Gruppe Ost" %} unter Teamcaptain
 Roman Schmuki.
 
 ## Zwischentabelle
