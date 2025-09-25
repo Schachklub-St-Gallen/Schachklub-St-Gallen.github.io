@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stadtmeisterschaft 2023
-subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
+subtitle: Alle Infos zur Stadtmeisterschaft 2023.
 ---
 
 Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt. Das Turnier startet am 23. Oktober 2023

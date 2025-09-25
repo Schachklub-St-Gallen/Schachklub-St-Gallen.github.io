@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stadtmeisterschaft 2021
-subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
+subtitle: Alle Infos zur Stadtmeisterschaft 2021.
 ---
 
 Die diesjährige Stadtmeisterschaft fand vor Ort im Tschudiwies statt. Alle weiteren Infos sowie Details zur Anmeldung sind in der [Ausschreibung](Stadtmeisterschaft2021 Ausschreibung.pdf).

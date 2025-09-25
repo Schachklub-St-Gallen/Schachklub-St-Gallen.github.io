@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stadtmeisterschaft 2024
-subtitle: Alle Infos zur diesjährigen Stadtmeisterschaft.
+subtitle: Alle Infos zur Stadtmeisterschaft 2024.
 ---
 
 Die diesjährige offene Stadtmeisterschaft findet wie letztes Jahr vor Ort statt. Das Turnier startet am 21. Oktober 2024
