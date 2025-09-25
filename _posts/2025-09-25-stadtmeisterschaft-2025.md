@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Offene Stadtmeisterschaft 2024
-subtitle: Die St. Galler Stadtmeisterschaft 2024 ist ausgeschrieben.
+title: Offene Stadtmeisterschaft 2025
+subtitle: Die St. Galler Stadtmeisterschaft 2025 ist ausgeschrieben.
 ---
 
 Die offene [Stadtmeisterschaft 2025](/turniere/stadtmeisterschaft/2025) ist ausgeschrieben und startet nach den
