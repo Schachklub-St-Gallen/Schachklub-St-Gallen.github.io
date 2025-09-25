@@ -12,6 +12,4 @@ der [Stadtmeisterschaft](/turniere/stadtmeisterschaft/2025).
 
 ### Anmeldung
 
-**Anmeldungen bitte direkt an Frank Wittenbrock (siehe **[Ausschreibung](/turniere/stadtmeisterschaft/2025/Stadtmeisterschaft 2025.pdf){:target="\_blank"}**).
-
-_Frank Wittenbrock_
+**Anmeldungen bitte direkt an Frank Wittenbrock (siehe [Ausschreibung](/turniere/stadtmeisterschaft/2025/Stadtmeisterschaft 2025.pdf){:target="\_blank"}).**
