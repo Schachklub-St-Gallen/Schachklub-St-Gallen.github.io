@@ -4,14 +4,6 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender 2025
 ---
 
-### September 2025
-
-| Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
-|-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 15.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
-| <nobr>Mo 22.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                   |
-| <nobr>Mo 29.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           (Herbstferien, kein Klubbetrieb)            |
-
 ### Oktober 2025
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                      |
