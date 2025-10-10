@@ -112,6 +112,7 @@ subtitle: Terminkalender 2025
 | <nobr>So 12.10</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                   SMM (SG1 – Olten)                    |
 | <nobr>Mo 13.10</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |            (Herbstferien, kein Klubbetrieb)            |
 | <nobr>Mo 20.10</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Stadtmeisterschaft RD 1</span> |
+| <nobr>Sa 25.10</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |        SMM Aufstiegsspiel (SG2 - Winterthur 5)         |
 | <nobr>Mo 27.10</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Stadtmeisterschaft RD 2                 |
 
 ### November 2025
