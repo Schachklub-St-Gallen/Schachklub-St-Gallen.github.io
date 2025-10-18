@@ -10,8 +10,6 @@ Ex-Schulhaus [Tschudiwies](/info) ausgetragen.
 
 Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterschaft 2025.pdf){:target="\_blank"}**.
 
-{% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}
-
 ### Teilnehmerliste (Stand 17.10.2025)
 
 - Hansueli Baumgartner (1994)
@@ -24,3 +22,5 @@ Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterscha
 - Toni Thaler (2102)
 - Carlos Rodriguez (2150)
 - Michael Nyffenegger (1963)
+
+{% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}
