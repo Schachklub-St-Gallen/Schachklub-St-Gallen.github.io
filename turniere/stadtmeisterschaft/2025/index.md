@@ -12,7 +12,7 @@ Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterscha
 
 {% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}
 
-### Teilnehmerliste (Stand 09.10.2025)
+### Teilnehmerliste (Stand 17.10.2025)
 
 - Hansueli Baumgartner (1994)
 - Aleksandar Petrovic
@@ -20,3 +20,7 @@ Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterscha
 - Mario Manser
 - Martin Eichenberger (1689)
 - Frank Wittenbrock (1949)
+- Gerhard Mannsberger (1873)
+- Toni Thaler (2102)
+- Carlos Rodriguez (2150)
+- Michael Nyffenegger (1963)
