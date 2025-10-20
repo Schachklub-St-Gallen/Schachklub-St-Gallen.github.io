@@ -23,4 +23,8 @@ Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterscha
 - Carlos Rodriguez (2150)
 - Michael Nyffenegger (1963)
 
+### Resultate
+
+{% include turniere/stadtmeisterschaft/2025/resultate.html %}
+
 {% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}
