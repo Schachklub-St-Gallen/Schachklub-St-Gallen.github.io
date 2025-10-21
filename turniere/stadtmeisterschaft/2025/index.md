@@ -10,19 +10,6 @@ Ex-Schulhaus [Tschudiwies](/info) ausgetragen.
 
 Alle weiteren Informationen finder ihr in der **[Ausschreibung](Stadtmeisterschaft 2025.pdf){:target="\_blank"}**.
 
-### Teilnehmerliste (Stand 17.10.2025)
-
-- Hansueli Baumgartner (1994)
-- Aleksandar Petrovic
-- Wolfgang Eisenbeiss (1837)
-- Mario Manser
-- Martin Eichenberger (1689)
-- Frank Wittenbrock (1949)
-- Gerhard Mannsberger (1873)
-- Toni Thaler (2102)
-- Carlos Rodriguez (2150)
-- Michael Nyffenegger (1963)
-
 ### Resultate
 
 {% include turniere/stadtmeisterschaft/2025/resultate.html %}
