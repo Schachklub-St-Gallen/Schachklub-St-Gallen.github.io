@@ -1,6 +1,6 @@
 <ul class="nav nav-tabs">
     <li class="nav-item">
-        <a class="nav-link active" href="#schlussrangliste" data-toggle="tab">
+        <a class="nav-link" href="#schlussrangliste" data-toggle="tab">
             Zwischenrangliste
         </a>
     </li>
@@ -15,7 +15,7 @@
             Runden
         </a>
         <div class="dropdown-menu">
-            <a class="dropdown-item" href="#runde-1" data-toggle="tab">1. Runde</a>
+            <a class="dropdown-item active" href="#runde-1" data-toggle="tab">1. Runde</a>
         </div>
     </li>
     <li class="nav-item">
@@ -25,10 +25,10 @@
     </li>
 </ul>
 <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="schlussrangliste">
+    <div role="tabpanel" class="tab-pane" id="schlussrangliste">
         {% include turniere/stadtmeisterschaft/2025/schlussrangliste.html %}
     </div>
-    <div role="tabpanel" class="tab-pane" id="runde-1">
+    <div role="tabpanel" class="tab-pane active" id="runde-1">
         {% include turniere/stadtmeisterschaft/2025/runde-1.html %}
     </div>
     <div role="tabpanel" class="tab-pane" id="startrangliste">
