@@ -25,6 +25,10 @@ die Aufstiegsspiele in die 2. Liga.
 
 _Rang 1 und Rang 2 qualifizieren sich für Aufstiegsspiele. Rang 7 und 8 steigen direkt ab._
 
+## Aufstiegsspiel - 25. Oktober 2025
+
+{% include smm/2025/sg2/bericht-aufstiegsspiel.md %}
+
 ## 7. Runde - 13. September 2025
 
 {% include smm/2025/sg2/bericht-r7.md %}
