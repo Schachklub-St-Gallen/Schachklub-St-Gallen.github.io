@@ -29,12 +29,13 @@ Hansueli ist in einem Endspiel mit Läufer und Springer und Mehrbauer gegen Turm
 Mehrbauer gegen Dame und Springer. Sowohl Ruedi als auch Hansueli haben gute Chancen auf Gewinn zu spielen, beide Partien
 sind aber noch lange nicht gewonnen, und könnten leicht in einem Remis enden.
 
-Dazu kommt, dass bei einem 3:3 Unentschieden die Berliner Feinwertung zählen würden: d.h., falls Ruedi gewinnt, aber
-Hansueli Remis spielt, würde Winterthur aufsteigen. Falls Hansueli gewinnt, aber Ruedi Remis spielt, gäbe es noch einen
-Stichkampf. (Rapidpartien mit vertauschen Farben)
+Dazu kommt, dass bei einem 3:3 Unentschieden die Berliner Feinwertung zählen würde: falls Ruedi gewinnt, aber
+Hansueli Remis spielt, würde Winterthur aufsteigen, da die Feinwertung aus unserer sicht 6:7 lauten würde.
+Falls Hansueli gewinnt, aber Ruedi Remis spielt, gäbe es noch einen
+Stichkampf, da die Feinwertung dann 7:7 lauten würde. (Rapidpartien mit vertauschen Farben)
 
 Doch dazu kommt es nicht. Ruedi gelingt ein Damenabtausch und er gewinnt damit die Partie. Hansueli schafft es, mit Läufer,
-und Springer den gegnerischen Bauern zu blockieren, und schiebt seine Bauern immer weiter nach
+und Springer den gegnerischen Bauern vor der Umwandlung zu blockieren, und schiebt seine Bauern immer weiter nach
 vorne, bis sein Gegner schliesslich auch zur Aufgabe gezwungen ist. Herzliche Gratulation!
 
 Damit gewinnen wir diese äusserst knappe Kiste mit 3.5:2.5, und spielen in der nächsten Saison wieder in der 2. Liga!
