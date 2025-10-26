@@ -10,10 +10,12 @@ unglücklich abgestiegen ist. Damit gelingt den St. Galler SMM Teams nebst dem A
 äusserst knappen Ligaerhalt der 1. Mannschaft nun noch ein weiterer Erfolg.
 
 Nächste Saison spielt St. Gallen mit folgenden Mannschaften:
-- St. Gallen 1 | NLB | Teamcaptain Toni Thaler
-- St. Gallen 2 | 2. RL | Teamcaptains Ruedi Gautschi und Marcel Schneider
-- St. Gallen 3 | 3. RL | Teamcaptain Jan Fecker
-- St. Gallen 4 | 4. RL | Teamcaptain Livio Ciardo
+- St. Gallen 1: NLB (Teamcaptain Toni Thaler)
+- St. Gallen 2: 2. RL (Teamcaptains Ruedi Gautschi und Marcel Schneider)
+- St. Gallen 3/4: 3. RL (Teamcaptain Jan Fecker)
+- St. Gallen 3/4: 4. RL (Teamcaptain Livio Ciardo)
+
+Folgend der Bericht zum Aufstiegsspiel:
 
 {% include smm/2025/sg2/bericht-aufstiegsspiel.md %}
 
