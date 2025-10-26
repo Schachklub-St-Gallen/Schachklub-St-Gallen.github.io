@@ -39,7 +39,8 @@ und Springer den gegnerischen Bauern vor der Umwandlung zu blockieren, und schie
 vorne, bis sein Gegner schliesslich auch zur Aufgabe gezwungen ist. Herzliche Gratulation!
 
 Damit gewinnen wir diese äusserst knappe Kiste mit 3.5:2.5, und spielen in der nächsten Saison wieder in der 2. Liga!
-Dieses tolle Resultat feiern wir sehr zufrieden mit einem Pizzaessen im la bocca.
+Dieses tolle Resultat feiern wir sehr zufrieden mit einem Pizzaessen im la bocca. Herzlichen Dank an Christian
+für das Sponsoring der Getränke!
 
 ![Aufstiegsfoto](/assets/img/smm/smm-sg2-aufstieg-20251025.jpg)
 
