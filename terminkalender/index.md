@@ -4,21 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender
 ---
 
-### Oktober 2025
-
-| Datum                 |          Zeit          |     Ort     |                     Veranstaltung                      |
-|-----------------------|:----------------------:|:-----------:|:------------------------------------------------------:|
-| <nobr>Mo 20.10</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Stadtmeisterschaft RD 1</span> |
-| <nobr>Sa 25.10</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |        SMM Aufstiegsspiel (SG2 - Winterthur 5)         |
-| <nobr>Mo 27.10</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Stadtmeisterschaft RD 2                 |
-
 ### November 2025
 
 | Datum                 |          Zeit          |     Ort     |                                     Veranstaltung                                     |
 |-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------------------------------:|
-| <nobr>Sa 01.11</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SGM (SG1 - SG Zurich, SG2 - Pfäffikon, Rapperswil-Jona - SG3, SG4 - Sprengschach Wil) |
-| <nobr>Mo 03.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                                  Freier Spieleabend                                   |
-| <nobr>Mo 10.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                                Stadtmeisterschaft RD 3                                |
 | <nobr>Mo 17.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                                Stadtmeisterschaft RD 4                                |
 | <nobr>Sa 22.11</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |             SGM (SG1 - Bodan, Reti - SG2, Buchs - SG3, SG4 - March-Höfe)              |
 | <nobr>Mo 24.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                                Stadtmeisterschaft RD 5                                |
