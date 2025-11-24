@@ -22,6 +22,10 @@ Fecker.
 
 {% include sgm/2026/sg1/tabelle.html %}
 
+## 2. Runde - 22. November 2025
+
+{% include sgm/2026/sg1/bericht-r2.md %}
+
 ## 1. Runde - 01. November 2025
 
 {% include sgm/2026/sg1/bericht-r1.md %}
