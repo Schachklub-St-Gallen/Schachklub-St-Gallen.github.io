@@ -4,14 +4,6 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender
 ---
 
-### November 2025
-
-| Datum                 |          Zeit          |     Ort     |                                     Veranstaltung                                     |
-|-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------------------------------:|
-| <nobr>Mo 17.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                                Stadtmeisterschaft RD 4                                |
-| <nobr>Sa 22.11</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |             SGM (SG1 - Bodan, Reti - SG2, Buchs - SG3, SG4 - March-Höfe)              |
-| <nobr>Mo 24.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                                Stadtmeisterschaft RD 5                                |
-
 ### Dezember 2025
 
 | Datum                 |          Zeit          |     Ort     |                                 Veranstaltung                                 |
