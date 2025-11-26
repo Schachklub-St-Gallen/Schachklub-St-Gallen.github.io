@@ -15,9 +15,12 @@ Roman und Michael spielen in der sechsten Runde gegeneinander.
 Der Gewinner dieses Matches wird in der 7. Runde auch noch im Kampf um den Titel mitmischen können.
 
 Dahinter folgen Jan Fecker, Aleksandar Petkovic, sowie der Turnierleiter Frank Wittenbrock mit je 3 Punkten.
-Frank konnte als einziger Spieler gegen den momentan zweitplatzierten Yasin Chennaoui einen Sieg erringen.
+Frank konnte bis jetzt als einziger Spieler gegen den momentan zweitplatzierten Yasin Chennaoui einen Sieg erringen.
 
 Am kommenden Montag, 01. Dezember 2025 gibt es noch einen freien Spieleabend. Die Runden 6 und 7 werden
 am 8. und 15. Dezember 2025 gespielt.
+
+Die genauen Resultate von jeder Runde findet ihr auf der Seite
+der [Stadtmeisterschaft](/turniere/stadtmeisterschaft/2025).
 
 _Jan Frei_
