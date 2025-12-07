@@ -136,5 +136,6 @@ subtitle: Terminkalender 2024
 
 ### Vergangene Terminkalender
 
+- [2026](/terminkalender/2026)
 - [2025](/terminkalender/2025)
 - [2024](/terminkalender/2024)
