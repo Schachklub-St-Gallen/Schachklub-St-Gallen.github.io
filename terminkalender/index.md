@@ -19,7 +19,7 @@ subtitle: Aktueller Terminkalender
 
 | Datum                 |          Zeit          |     Ort     |                               Veranstaltung                               |
 |-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------------------:|
-| <nobr>Mo 05.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Neujahrs-Blitzturnier                           |
+| <nobr>Mo 05.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           <span style="color:red">Neujahrs-Blitzturnier</span>            |
 | <nobr>Mo 12.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                            Freier Spieleabend                             |
 | <nobr>Mo 19.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                            Freier Spieleabend                             |
 | <nobr>Sa 24.01</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SGM (Nimzowitsch - SG1 , Nimzowitsch - SG2, SG3 - Triesen, Triesen - SG4) |
@@ -29,7 +29,7 @@ subtitle: Aktueller Terminkalender
 
 | Datum                 |          Zeit          |     Ort     |                              Veranstaltung                              |
 |-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------------------------:|
-| <nobr>Mo 02.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                              Rapidturnier                               |
+| <nobr>Mo 02.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |               <span style="color:red">Rapidturnier</span>               |
 | <nobr>Sa 07.02</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SGM (SG1 - Tribschen, SG2 - Gonzen, Toggenburg - SG3, Degersheim - SG4) |
 | <nobr>Mo 09.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                            |
 | <nobr>Mo 16.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                            |
@@ -67,13 +67,13 @@ subtitle: Aktueller Terminkalender
 
 ## Juni 2026
 
-| Datum                 |          Zeit          |     Ort     |   Veranstaltung    |
-|-----------------------|:----------------------:|:-----------:|:------------------:|
-| <nobr>Mo 01.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Freier Spieleabend |
-| <nobr>Mo 08.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Freier Spieleabend |
-| <nobr>Mo 15.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |    Blitzturnier    |
-| <nobr>Mo 22.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Freier Spieleabend |
-| <nobr>Mo 29.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Freier Spieleabend |
+| Datum                 |          Zeit          |     Ort     |                Veranstaltung                |
+|-----------------------|:----------------------:|:-----------:|:-------------------------------------------:|
+| <nobr>Mo 01.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |             Freier Spieleabend              |
+| <nobr>Mo 08.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |             Freier Spieleabend              |
+| <nobr>Mo 15.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Blitzturnier</span> |
+| <nobr>Mo 22.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |             Freier Spieleabend              |
+| <nobr>Mo 29.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |             Freier Spieleabend              |
 
 ## Juli 2026
 
