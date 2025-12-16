@@ -17,7 +17,7 @@ _Die Schlussrangliste. Die vollständige Rangliste sowie die Ergebnisse aller Ru
 auf der Hauptseite der [Stadtmeisterschaft 2025](/turniere/stadtmeisterschaft/2025)._
 
 Erfreulich ist, dass es keine Zwischenfälle und keine Streitigkeiten zu vermelden gibt. Ich bedanke mich bei allen
-Teilnehmenden. Einen besonderen Dank geht an Frank Wittenbrock für die Turnierleitung und an alle. Ebenso danke ich
+Teilnehmenden. Einen besonderen Dank geht an Frank Wittenbrock für die Turnierleitung. Ebenso danke ich
 Mario Manser für die Getränke und Kuchen zur 7. Runde.
 
 Jetzt geht der Schachklub in eine kurze Winterpause. Die Turnierabende starten wieder am 5. Januar mit einem
