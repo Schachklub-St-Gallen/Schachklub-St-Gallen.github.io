@@ -12,6 +12,10 @@ den Titel des Stadtmeisters 2025 sichern. Herzliche Gratulation!
 
 Jan Fecker belegt den 2. Platz mit 5 Punkten vor Roman Schmuki, der mit ebenfalls 5 Punkten den 3. Platz belegt.
 
+![Rangliste](/assets/img/stadtmeisterschaft/2025/rangliste.png)\
+_Die Schlussrangliste. Die vollständige Rangliste sowie die Ergebnisse aller Runden findet ihr
+auf der Hauptseite der [Stadtmeisterschaft 2025](/turniere/stadtmeisterschaft/2025)._
+
 Erfreulich ist, dass es keine Zwischenfälle und keine Streitigkeiten zu vermelden gibt. Ich bedanke mich bei allen
 Teilnehmenden. Einen besonderen Dank geht an Frank Wittenbrock für die Turnierleitung und an alle. Ebenso danke ich
 Mario Manser für die Getränke und Kuchen zur 7. Runde.
