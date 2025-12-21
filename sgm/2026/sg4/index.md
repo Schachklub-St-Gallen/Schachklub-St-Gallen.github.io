@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SGM-Saison 2026
 # St. Gallen 4
 
 St. Gallen 4 spielt in der Saison 2026 in der
-{% include sgm/2026/swisschess-link.html gruppe=515 liga=5 round=7 text="3. Regionalliga, Zone O" %} unter Teamcaptain
+{% include sgm/2026/swisschess-link.html gruppe=519 liga=5 round=7 text="3. Regionalliga, Zone S" %} unter Teamcaptain
 Jan Fecker.
 
 ## Zwischentabelle
