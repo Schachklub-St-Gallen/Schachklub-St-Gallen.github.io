@@ -4,25 +4,24 @@ title: Carlos Rodriguez ist Stadtmeister 2025!
 subtitle: Carlos Rodriguez gewinnt die St. Galler Stadtmeisterschaft 2025 vor Jan Fecker und Roman Schmuki.
 ---
 
-Im Tschudiwies haben in den vergangenen zwei Monaten 16 Schachbegeisterte Mitglieder sowie Schachinteressierte aus der
-Region um den Titel St. Galler [Stadtmeisterschaft 2025](/turniere/stadtmeisterschaft/2025) gespielt.
+Carlos Rodriguez gewinnt gleich bei seinem ersten Anlauf die St. Galler Stadtmeisterschaft! Herzliche Gratulation!
+Carlos holte hervorragende 6/7 und remisierte nur gegen Michael und Yasin.
 
-Carlos Rodrigez, der seit Herbst 2025 Mitglied im Schachklub St. Gallen ist, konnte sich mit 6 Punkten aus 7 Runden
-den Titel des Stadtmeisters 2025 sichern. Herzliche Gratulation!
+Auf den Rängen 2 und 3 folgen mit einem Punkt Rückstand und jeweils 5/7 Jan Fecker und Roman Schmuki vor Michael
+Nyffenegger und Yasin Chennaoui mit je 4.5/7.
 
-Jan Fecker belegt den 2. Platz mit 5 Punkten vor Roman Schmuki, der mit ebenfalls 5 Punkten den 3. Platz belegt.
+Den Preis für den besten Spieler unter Spielstärkezahl 2000 gewinnt Michael Nyffenegger, unter 1800 Aaron Potterat und
+unter 1600 Aleksandar Petrovic. Der Preis für den besten Senior geht an Toni Thaler.
 
 ![Rangliste](/assets/img/stadtmeisterschaft/2025/rangliste.png)\
 _Die Schlussrangliste. Die vollständige Rangliste sowie die Ergebnisse aller Runden findet ihr
 auf der Hauptseite der [Stadtmeisterschaft 2025](/turniere/stadtmeisterschaft/2025)._
 
-Erfreulich ist, dass es keine Zwischenfälle und keine Streitigkeiten zu vermelden gibt. Ich bedanke mich bei allen
-Teilnehmenden. Einen besonderen Dank geht an Frank Wittenbrock für die Turnierleitung und an alle. Ebenso danke ich
-Mario Manser für die Getränke und Kuchen zur 7. Runde.
+Herzlichen Dank für Eure Teilnahme und das faire Turnier.
 
 Jetzt geht der Schachklub in eine kurze Winterpause. Die Turnierabende starten wieder am 5. Januar mit einem
 Neujahrs-Blitzturnier.
 
-Frohe Festtage und einen guten Rutsch ins neue Jahr!
+Ich wünsche schöne Festtage und einen guten Rutsch ins Jahr 2026!
 
-_Jan Frei_
+_Frank Wittenbrock_
