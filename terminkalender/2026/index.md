@@ -9,7 +9,7 @@ subtitle: Terminkalender 2026
 | Datum                 |          Zeit          |     Ort     |                               Veranstaltung                               |
 |-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------------------:|
 | <nobr>Mo 05.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           <span style="color:red">Neujahrs-Blitzturnier</span>            |
-| <nobr>Mo 12.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |               <span style="color:red">Spezialturnier</span>               |
+| <nobr>Mo 12.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           <span style="color:red">Spezialturnier (prov)</span>            |
 | <nobr>Mo 19.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                            Freier Spieleabend                             |
 | <nobr>Sa 24.01</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SGM (Nimzowitsch - SG1 , Nimzowitsch - SG2, SG3 - Triesen, Triesen - SG4) |
 | <nobr>Mo 26.01</nobr> |           -            |      -      |                     (Winterferien, kein Klubbetrieb)                      |
