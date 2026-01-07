@@ -87,20 +87,20 @@ Fragen:
 | Vizepräsident, Kommunikation | Dimitri Kindle    |
 | Kassier                      | Christian Salerno |
 | Leiter Schachschule          | Thomas Schoch     |
-| Leiter Turniere              | Miguel Garcia     |
+| Leiter Turniere              |                   |
 | Koordination SMM/SGM         | Jan Fecker        |
 
 ### Teamcaptains SGM
 
 - [St. Gallen 1](../sgm/2025/sg1): Jan Fecker
 - [St. Gallen 2](../sgm/2025/sg2): Frank Wittenbrock
-- [St. Gallen 3](../sgm/2025/sg3): Luwdig Sapulowitsch
+- [St. Gallen 3](../sgm/2025/sg3): Livio Ciardo
 - [St. Gallen 4](../sgm/2025/sg4): Jan Fecker
 
 ### Teamcaptains SMM
 
-- [St. Gallen 1](../smm/2025/sg1): Roman Schmuki
-- [St. Gallen 2](../smm/2025/sg2): Jan Frei
+- [St. Gallen 1](../smm/2025/sg1): Toni Thaler
+- [St. Gallen 2](../smm/2025/sg2): Ruedi Gautschi / Marcel Schneider
 - [St. Gallen 3](../smm/2025/sg3): Livio Ciardo
 - [St. Gallen 4](../smm/2025/sg4): Jan Fecker
 
@@ -110,7 +110,7 @@ Fragen:
 
 ### Turnierleitung
 
-- Miguel Garcia (Hauptturnierleiter)
+- Mario Manser (Hauptturnierleiter)
 - Frank Wittenbrock
 - Silas Tapernoux
 
