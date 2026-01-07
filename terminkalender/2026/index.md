@@ -30,8 +30,8 @@ subtitle: Terminkalender 2026
 | Datum                 |          Zeit          |     Ort     |                         Veranstaltung                         |
 |-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------:|
 | <nobr>Mo 02.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                       |
-| <nobr>Mo 09.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">Mitgliederversammlung</span>      |
 | <nobr>Sa 07.03</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |  SGM (Sursee - SG1, SG2 - Chur, Triesen - SG3, Flawil - SG4)  |
+| <nobr>Mo 09.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">Mitgliederversammlung</span>      |
 | <nobr>Mo 16.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |          <span style="color:red">Rapidturnier</span>          |
 | <nobr>Mo 23.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Simultan mit IM Milan Novkovic</span> |
 | <nobr>Mo 30.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                       |
