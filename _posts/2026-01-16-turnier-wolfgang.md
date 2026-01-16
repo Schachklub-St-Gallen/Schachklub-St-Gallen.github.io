@@ -33,16 +33,19 @@ es sich beim Gegner um Maroczy gehandelt haben müsste. Auch Kortschnoi zollte s
 und taxierte einige Züge als typisch für die Spielweise zu Marozys Lebzeiten. Am Klubabend erläuterte Wolfgang auch
 Inhalte der „Geistlehre aus dem Jenseits“, so auch der Titel des Buches vom Ehrenmitglied des Schachklubs St. Gallen.
 
-Interview mit Wolfgang zum Thema Geisteslehre:
-[«Kontakt zur geistigen Welt – Wolfgang Eisenbeiss im Gespräch»](https://www.youtube.com/watch?v=P7VJimxuiKg){:target="\_blank"}
-
-_Tagblatt-Artikel zu Wolfgangs 80. Geburtstag:
-[«Der Mann, der Schach spricht»](https://www.tagblatt.ch/ostschweiz/stgallen/der-mann-der-schach-spricht-ld.306378){:target="\_blank"}_
-
-{% include turniere/rapidturnier/2026/01/schlusstabelle.html %}
-
 Das Rapidturnier gewann Yasin Chennaoui mit 4/4 vor Jan Fecker und Ruedi Gautschi (je 3/4), siehe auch Tabelle. Alle
 Teilnehmer verabschiedeten sich dankbar von Wolfgang und wünschten ihm für die verbleibenden Tage auf Erden und alles,
 was danach kommt: „Alles Gute, lieber Wolfgang“.
 
 _Frank Wittenbrock_
+
+<br>
+
+Interview mit Wolfgang zum Thema Geisteslehre:
+[«Kontakt zur geistigen Welt – Wolfgang Eisenbeiss im Gespräch»](https://www.youtube.com/watch?v=P7VJimxuiKg){:target="\_blank"}
+
+Tagblatt-Artikel zu Wolfgangs 80. Geburtstag:
+[«Der Mann, der Schach spricht»](https://www.tagblatt.ch/ostschweiz/stgallen/der-mann-der-schach-spricht-ld.306378){:target="\_blank"}
+
+Schlusstabelle Rapidturnier zu Ehren von Wolfgang Eisenbeiss:
+[Schlusstabelle](/turniere/rapidturnier/2026/01){:target="\_blank"}
