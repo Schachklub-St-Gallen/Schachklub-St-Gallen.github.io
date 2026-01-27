@@ -22,6 +22,10 @@ Frank Wittenbrock.
 
 {% include sgm/2026/sg2/tabelle.html %}
 
+## 4. Runde - 24. Januar 2026
+
+{% include sgm/2026/sg2/bericht-r4.md %}
+
 ## 3. Runde - 13. Dezember 2025
 
 {% include sgm/2026/sg2/bericht-r3.md %}
