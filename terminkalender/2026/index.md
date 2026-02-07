@@ -21,7 +21,7 @@ subtitle: Terminkalender 2026
 | <nobr>Mo 02.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |               <span style="color:red">Rapidturnier</span>               |
 | <nobr>Sa 07.02</nobr> | <nobr>14:00 Uhr</nobr> |   divers    | SGM (SG1 - Tribschen, SG2 - Gonzen, Toggenburg - SG3, Degersheim - SG4) |
 | <nobr>Mo 09.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                            |
-| <nobr>Mo 16.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                            |
+| <nobr>Mo 16.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |       <span style="color:red">Simultan mit Yasin Chennaoui</span>       |
 | <nobr>Sa 21.02</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |   SGM (SG1 - Triesen, SG2 - Frauenfeld, SG3 - Chur, SG4 - Romanshorn)   |
 | <nobr>Mo 23.02</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                           Freier Spieleabend                            |
 
