@@ -22,6 +22,10 @@ Livio Ciardo.
 
 {% include sgm/2026/sg3/tabelle.html %}
 
+## 5. Runde - 07. Februar 2026
+
+{% include sgm/2026/sg3/bericht-r5.md %}
+
 ## 4. Runde - 24. Januar 2026
 
 {% include sgm/2026/sg3/bericht-r4.md %}

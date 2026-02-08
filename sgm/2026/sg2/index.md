@@ -22,6 +22,10 @@ Frank Wittenbrock.
 
 {% include sgm/2026/sg2/tabelle.html %}
 
+## 5. Runde - 07. Februar 2026
+
+{% include sgm/2026/sg2/bericht-r5.md %}
+
 ## 4. Runde - 24. Januar 2026
 
 {% include sgm/2026/sg2/bericht-r4.md %}
