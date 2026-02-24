@@ -24,7 +24,7 @@ Jan Fecker.
 
 ## 6. Runde - 21. Februar 2026
 
-{% include sgm/2026/sg2/bericht-r6.md %}
+{% include sgm/2026/sg4/bericht-r6.md %}
 
 ## 5. Runde - 07. Februar 2026
 
