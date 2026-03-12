@@ -67,13 +67,13 @@ Fragen:
 
 ## Jahresbeiträge
 
-|                                          | Klubbeitrag | SSB Beitrag* | Total       |
-|------------------------------------------|-------------|--------------|-------------|
-| Aktivmitglieder                          | 100 CHF     | 100 CHF      | **200 CHF** |
-| Gönner (Mitgliedschaft ohne Spiellizenz) | 120 CHF     | -            | **120 CHF** |
-| Familien / Studenten / Senioren (Ü60)    | 60 CHF      | 100 CHF      | **160 CHF** |
-| Schüler / Lehrlinge (U20)                | 30 CHF      | 50 CHF       | **80 CHF**  |
-| Doppelmitglieder                         | 40 CHF      | 100 CHF      | **140 CHF** |
+|                                                    | Klubbeitrag | SSB Beitrag* | Total       |
+|----------------------------------------------------|-------------|--------------|-------------|
+| Aktivmitglieder                                    | 110 CHF     | 110 CHF      | **220 CHF** |
+| Gönner (Mitgliedschaft ohne Spiellizenz)           | 120 CHF     | -            | **120 CHF** |
+| Familien / Studenten / Senioren (Ü60) / IV-Bezüger | 60 CHF      | 110 CHF      | **170 CHF** |
+| Schüler / Lehrlinge (U20)                          | 30 CHF      | 60 CHF       | **90 CHF**  |
+| Doppelmitglieder                                   | 40 CHF      | 110 CHF      | **150 CHF** |
 
 (*) Beitrag an den Schweizerischen Schachbund (SSB) für die Spiellizenz für Wettkämpfe ausserhalb des Klubabends.
 
@@ -87,7 +87,7 @@ Fragen:
 | Vizepräsident, Kommunikation | Dimitri Kindle    |
 | Kassier                      | Christian Salerno |
 | Leiter Schachschule          | Thomas Schoch     |
-| Leiter Turniere              |                   |
+| Leiter Turniere              | Mario Manser      |
 | Koordination SMM/SGM         | Jan Fecker        |
 
 ### Teamcaptains SGM
@@ -116,5 +116,12 @@ Fragen:
 
 ### Revision
 
+- Linda Thöny
 - Michael Bruhin
 - Noah Fecker
+
+<style>
+table th, table td:nth-of-type(4) {
+    white-space: nowrap;
+}
+</style>
