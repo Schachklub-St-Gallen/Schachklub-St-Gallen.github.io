@@ -22,6 +22,10 @@ Frank Wittenbrock.
 
 {% include sgm/2026/sg2/tabelle.html %}
 
+## 7. Runde - 07. März 2026
+
+{% include sgm/2026/sg2/bericht-r7.md %}
+
 ## 6. Runde - 21. Februar 2026
 
 {% include sgm/2026/sg2/bericht-r6.md %}
