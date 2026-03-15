@@ -99,10 +99,10 @@ Fragen:
 
 ### Teamcaptains SMM
 
-- [St. Gallen 1](../smm/2025/sg1): Toni Thaler
-- [St. Gallen 2](../smm/2025/sg2): Ruedi Gautschi / Marcel Schneider
-- [St. Gallen 3](../smm/2025/sg3): Jan Fecker
-- [St. Gallen 4](../smm/2025/sg4): Livio Ciardo
+- [St. Gallen 1](../smm/2026/sg1): Toni Thaler
+- [St. Gallen 2](../smm/2026/sg2): Ruedi Gautschi / Marcel Schneider
+- [St. Gallen 3](../smm/2026/sg3): Jan Fecker
+- [St. Gallen 4](../smm/2026/sg4): Livio Ciardo
 
 ### Organisation Freier Spielabend
 
