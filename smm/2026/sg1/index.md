@@ -1,0 +1,85 @@
+---
+layout: page
+title: SMM 2026
+subtitle: Alle Informationen zur SMM-Saison 2026
+---
+
+### Saisons
+
+{% include smm/smm-buttons-year.html year=2026 team=1 %}
+
+### Mannschaften
+
+{% include smm/2026/smm-buttons.html active=1 %}
+
+## St. Gallen 1
+
+St. Gallen 1 spielt in der
+{% include smm/2026/swisschess-link.html gruppe=201 liga=2 round=7 text="NLB, Gruppe Ost" %} unter Teamcaptain
+Toni Thaler.
+
+[//]: # (## Schlusstabelle)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/tabelle.html %})
+
+[//]: # ()
+[//]: # (_Rang 1 steigt in die NLA auf. Rang 9 und 10 steigen direkt ab._)
+
+[//]: # ()
+[//]: # (## 8. Runde - 11. Oktober 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r8.md %})
+
+[//]: # ()
+[//]: # (## 9. Runde - 12. Oktober 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r9.md %})
+
+[//]: # ()
+[//]: # (## 7. Runde - 14. September 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r7.md %})
+
+[//]: # ()
+[//]: # (## 6. Runde - 24. August 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r6.md %})
+
+[//]: # ()
+[//]: # (## 5. Runde - 22. Juni 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r5.md %})
+
+[//]: # ()
+[//]: # (## 4. Runde - 18. Mai 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r4.md %})
+
+[//]: # ()
+[//]: # (## 3. Runde - 27. April 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r3.md %})
+
+[//]: # ()
+[//]: # (## 2. Runde - 06. April 2026)
+
+[//]: # ()
+[//]: # ({% include smm/2026/sg1/bericht-r2.md %})
+
+## 1. Runde - 15. März 2026
+
+{% include smm/2026/sg1/bericht-r1.md %}
+
+<style>
+table th, table td:nth-of-type(4) {
+    white-space: nowrap;
+}
+</style>
