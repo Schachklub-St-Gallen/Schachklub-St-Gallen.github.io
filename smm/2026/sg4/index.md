@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2026
 ## St. Gallen 4
 
 St. Gallen 4 spielt in der
-{% include smm/2026/swisschess-link.html gruppe=603 liga=6 round=6 text="4. Liga, Gruppe Ost 3" %} unter
+{% include smm/2026/swisschess-link.html gruppe=601 liga=6 round=6 text="4. Liga, Gruppe Ost 1" %} unter
 Teamcaptain Livio Ciardo.
 
 ## 1. Runde - 14. März 2026

@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2026
 ## St. Gallen 3
 
 St. Gallen 3 spielt in der
-{% include smm/2026/swisschess-link.html gruppe=502 liga=5 round=7 text="3. Liga, Gruppe Ost 2" %} unter Teamcaptain
+{% include smm/2026/swisschess-link.html gruppe=501 liga=5 round=7 text="3. Liga, Gruppe Ost 1" %} unter Teamcaptain
 Jan Fecker.
 
 ## 1. Runde - 14. März 2026
