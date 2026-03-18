@@ -62,7 +62,7 @@ Fragen:
 
 - Schachkurse für Erwachsene
 - Donnerstags ab 19:00 Uhr im Schulhaus Tschudiwies
-- Weiter Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/erwachsene/kurse){:target="
+- Weitere Infos sind auf der Homepage der [Schachschule](https://www.schachschule-sg.ch/erwachsene/kurse){:target="
   \_blank"} zu finden.
 
 ## Jahresbeiträge

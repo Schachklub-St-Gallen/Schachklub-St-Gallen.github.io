@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yasin Chennaoui gewinnt Dreikönigs-Blitzturnier
-subtitle: Platz zwei geht an Dimitri Kindle, Platz dre an Halit Rexhepi
+subtitle: Platz zwei geht an Dimitri Kindle, Platz drei an Halit Rexhepi
 ---
 
 Zum Start ins neue Jahr spielten wir am Montag, 6. Januar das Dreikönigs-Turnier. 19 Teilnehmerinnen und Teilnehmer

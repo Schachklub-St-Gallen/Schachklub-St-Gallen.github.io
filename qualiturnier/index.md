@@ -16,7 +16,7 @@ U10 ([chess-results](https://chess-results.com/tnr809168.aspx?lan=1&art=4){:targ
 Platz 1: Vivian Varghese / Platz 2: Sahasra Aragonda / Platz 3: Rafa Adnin
 
 U12 ([chess-results](https://chess-results.com/tnr809662.aspx?lan=1&art=4){:target="\_blank"}):\
-Platz 1: Dimitri Aeschbacher / Platz: 2 Shreyank Kumar / Platz 3: Marius Neuschild
+Platz 1: Dimitri Aeschbacher / Platz 2: Shreyank Kumar / Platz 3: Marius Neuschild
 
 U14 ([chess-results](https://chess-results.com/tnr809733.aspx?lan=1&art=4){:target="\_blank"}):\
 Platz 1: Mihaly Köhalmi-Szabo / Platz 2: Kishan Udipi Kala / Platz 3: Ziad Kanana
@@ -75,7 +75,7 @@ Turniereinsatz : CHF 50.
 
 ### Bezahlung
 
-Überweisung bis spätestens 14. September 2023. Die Anmeldung gilt erst mit eingegangenem Betrag als bestätigt. Essensbestellungen bitte bei den Anmeldungen vermerken. Sie erhalten darauhin eine Email mit den Zahlungsinstruktionen.
+Überweisung bis spätestens 14. September 2023. Die Anmeldung gilt erst mit eingegangenem Betrag als bestätigt. Essensbestellungen bitte bei den Anmeldungen vermerken. Sie erhalten daraufhin eine Email mit den Zahlungsinstruktionen.
 
 **Bitte im E-Banking als Zahlungszweck unbedingt Name, Vorname & Kategorie des Teilnehmers / der Teilnehmerin angeben!**
 
@@ -109,7 +109,7 @@ Sonderkonditionen gibt es für das B&B Hotel in St. Fiden oder für Gruppen die 
 
 ### Verpflegung
 
-Es werden Menus zum Preis von 16.50 im Festzelt gleich neben der Spielhalle angeboten. In Freidorf selber befinden sich keine Verpflegungsmöglichkeiten.
+Es werden Menüs zum Preis von 16.50 im Festzelt gleich neben der Spielhalle angeboten. In Freidorf selber befinden sich keine Verpflegungsmöglichkeiten.
 
 Mittagessen Samstag: \
 **a)** Spaghetti Bolognese, Gemüse, Reibkäse \
