@@ -4,24 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender
 ---
 
-### März 2026
-
-| Datum                 |          Zeit          |     Ort     |                         Veranstaltung                         |
-|-----------------------|:----------------------:|:-----------:|:-------------------------------------------------------------:|
-| <nobr>Mo 02.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                       |
-| <nobr>Sa 07.03</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |  SGM (Sursee - SG1, SG2 - Chur, Triesen - SG3, Flawil - SG4)  |
-| <nobr>Mo 09.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |     <span style="color:red">Mitgliederversammlung</span>      |
-| <nobr>Sa 14.03</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |        SMM (SG2 - Triesen, SG3 - Thal, SG4 - Triesen)         |
-| <nobr>So 15.03</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                      SMM (SG1 - Glarus)                       |
-| <nobr>Mo 16.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |          <span style="color:red">Rapidturnier</span>          |
-| <nobr>Mo 23.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Simultan mit IM Milan Novkovic</span> |
-| <nobr>Mo 30.03</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                      Freier Spieleabend                       |
-
 ## April 2026
 
 | Datum                 |          Zeit          |     Ort     |                     Veranstaltung                     |
 |-----------------------|:----------------------:|:-----------:|:-----------------------------------------------------:|
-| <nobr>Mo 06.04</nobr> |           -            |      -      |          (Frühlingsferien, kein Klubbetrieb)          |
 | <nobr>Mo 13.04</nobr> |           -            |      -      |          (Frühlingsferien, kein Klubbetrieb)          |
 | <nobr>Sa 18.04</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |      SMM (Flawil - SG2, Chur - SG3, Bodan - SG4)      |
 | <nobr>So 19.04</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                SMM (Nimzowitsch - SG1)                |
