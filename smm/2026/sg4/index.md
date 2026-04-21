@@ -18,6 +18,10 @@ St. Gallen 4 spielt in der
 {% include smm/2026/swisschess-link.html gruppe=601 liga=6 round=6 text="4. Liga, Gruppe Ost 1" %} unter
 Teamcaptain Livio Ciardo.
 
+## 2. Runde - 18. April 2026
+
+{% include smm/2026/sg4/bericht-r2.md %}
+
 ## 1. Runde - 14. März 2026
 
 {% include smm/2026/sg4/bericht-r1.md %}
