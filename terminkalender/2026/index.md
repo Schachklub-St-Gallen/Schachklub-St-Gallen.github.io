@@ -82,10 +82,11 @@ subtitle: Terminkalender 2026
 
 ## August 2026 (unvollständig)
 
-| Datum                 |          Zeit          |  Ort   |           Veranstaltung           |
-|-----------------------|:----------------------:|:------:|:---------------------------------:|
-| <nobr>Sa 22.08</nobr> | <nobr>14:00 Uhr</nobr> | divers | SMM (Gonzen - SG2, Engadin - SG3) |
-| <nobr>So 23.08</nobr> | <nobr>12:30 Uhr</nobr> | divers |         SMM (Uzwil - SG1)         |
+| Datum                 |          Zeit          |     Ort     |               Veranstaltung               |
+|-----------------------|:----------------------:|:-----------:|:-----------------------------------------:|
+| <nobr>Sa 08.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies | <span style="color:red">Sommerfest</span> |
+| <nobr>Sa 22.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |     SMM (Gonzen - SG2, Engadin - SG3)     |
+| <nobr>So 23.08</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |             SMM (Uzwil - SG1)             |
 
 ## September 2026 (unvollständig)
 
