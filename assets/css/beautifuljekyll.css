@@ -1196,3 +1196,11 @@ pre {
         width: 78vw;
     }
 }
+
+.acrevis-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 80%;
+}
