@@ -120,6 +120,8 @@ Fragen:
 - Michael Bruhin
 - Noah Fecker
 
+{% include sponsoren.html %}
+
 <style>
 table th, table td:nth-of-type(4) {
     white-space: nowrap;
