@@ -1202,7 +1202,7 @@ pre {
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
-  width: 80%;
+  max-width: 400px;
 }
 
 .acrevis-logo-img {
@@ -1212,5 +1212,6 @@ pre {
 .sponsoren-header {
   align-self: start;
   margin-top: 50px;
+  font-size: 2.6rem;
 }
 
