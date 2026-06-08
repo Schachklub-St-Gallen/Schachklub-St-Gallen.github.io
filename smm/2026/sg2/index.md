@@ -18,6 +18,10 @@ St. Gallen 2 spielt in der
 {% include smm/2026/swisschess-link.html gruppe=401 liga=4 round=7 text="2. Liga, Gruppe Ost 1" %} unter den
 Teamcaptains Ruedi Gautschi und Marcel Schneider.
 
+## 4. Runde - 06. Juni 2026
+
+{% include smm/2026/sg2/bericht-r4.md %}
+
 ## 3. Runde - 09. Mai 2026
 
 {% include smm/2026/sg2/bericht-r3.md %}
