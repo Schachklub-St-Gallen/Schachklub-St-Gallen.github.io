@@ -18,6 +18,10 @@ St. Gallen 3 spielt in der
 {% include smm/2026/swisschess-link.html gruppe=501 liga=5 round=7 text="3. Liga, Gruppe Ost 1" %} unter Teamcaptain
 Jan Fecker.
 
+## 5. Runde - 20. Juni 2026
+
+{% include smm/2026/sg3/bericht-r5.md %}
+
 ## 4. Runde - 06. Juni 2026
 
 {% include smm/2026/sg3/bericht-r4.md %}
