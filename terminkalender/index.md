@@ -4,12 +4,6 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender
 ---
 
-## Juni 2026
-
-| Datum                 |          Zeit          |     Ort     |   Veranstaltung    |
-|-----------------------|:----------------------:|:-----------:|:------------------:|
-| <nobr>Mo 29.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Freier Spieleabend |
-
 ## Juli 2026
 
 | Datum                 | Zeit | Ort |          Veranstaltung           |
@@ -36,7 +30,7 @@ subtitle: Aktueller Terminkalender
 | <nobr>Sa 12.09</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |          SMM (SG2 - Rheintal, SG3 - Uzwil)           |
 | <nobr>So 13.09</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |                SMM (Mendrisio - SG1)                 |
 | <nobr>Mo 14.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                Stadtmeisterschaft R2                 |
-| <nobr>Mo 21.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |      Vor-/Nachholspieltag / Freier Spieleabend       |
+| <nobr>Mo 21.09</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spieleabend                  |
 | <nobr>Mo 28.09</nobr> |           -            |      -      |           (Herbstferien, kein Klubbetrieb)           |
 
 ## Oktober 2026
@@ -52,13 +46,13 @@ subtitle: Aktueller Terminkalender
 
 ## November 2026
 
-| Datum                 |          Zeit          |     Ort     |               Veranstaltung               |
-|-----------------------|:----------------------:|:-----------:|:-----------------------------------------:|
-| <nobr>Mo 02.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Vor-/Nachholspieltag / Freier Spieleabend |
-| <nobr>Mo 09.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           Stadtmeisterschaft R5           |
-| <nobr>Mo 16.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           Stadtmeisterschaft R6           |
-| <nobr>Mo 23.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |   Nachholspieltag / Freier Spieleabend    |
-| <nobr>Mo 30.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |        Vor-/Stadtmeisterschaft R7         |
+| Datum                 |          Zeit          |     Ort     |     Veranstaltung     |
+|-----------------------|:----------------------:|:-----------:|:---------------------:|
+| <nobr>Mo 02.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  Freier Spieleabend   |
+| <nobr>Mo 09.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Stadtmeisterschaft R5 |
+| <nobr>Mo 16.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Stadtmeisterschaft R6 |
+| <nobr>Mo 23.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  Freier Spieleabend   |
+| <nobr>Mo 30.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Stadtmeisterschaft R7 |
 
 ## Dezember 2026
 
