@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Rapid Grand Prix 2022
-subtitle: Alle Infos zum diesjährigen Rapid Grand Prix Turnier.
+subtitle: Alle Infos zum diesjährigen Rapid-Grand-Prix-Turnier.
 ---
 
-Das Rapid Grand Prix Turnier findet dieses Jahr an vier Montagen im Tschudiwies statt. Die Spieldaten sind folgende:
+Das Rapid-Grand-Prix-Turnier findet dieses Jahr an vier Montagen im Tschudiwies statt. Die Spieldaten sind folgende:
 
 1. Runde: 14.02.22
 2. Runde: 07.03.22
@@ -13,7 +13,7 @@ Das Rapid Grand Prix Turnier findet dieses Jahr an vier Montagen im Tschudiwies 
 
 ### Schlussrangliste
 
-Die Punktevergabe pro Runde ist wie folgt: 1.Rang: (20) 2. Rang (15) 3. Rang (10) 4. Rang (8) 5. Rang (6) 6. Rang (5) 7. Rang (4) 8. Rang (3) 9. Rang (2) 10. Rang (1)
+Die Punktevergabe pro Runde ist wie folgt: 1. Rang: (20) 2. Rang (15) 3. Rang (10) 4. Rang (8) 5. Rang (6) 6. Rang (5) 7. Rang (4) 8. Rang (3) 9. Rang (2) 10. Rang (1)
 
 Für die Gesamtwertung werden die drei besten Turnierrunden gezählt. Alle weiteren Infos sind in der [Ausschreibung](Ausschreibung Rapid Grand Prix 2022.pdf).
 

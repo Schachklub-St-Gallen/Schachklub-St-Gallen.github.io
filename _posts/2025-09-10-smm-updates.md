@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neue Mannschaftsleiter in der SMM
-subtitle: In den St. Galler SMM Teams gibt es neue Captains ab 2026.
+subtitle: In den St. Galler SMM-Teams gibt es neue Captains ab 2026.
 ---
 
 Es gibt erfreuliche News zur SMM. Die aktuelle Saison ist für St. Gallen 3 und St. Gallen 4 bereits vorbei. St. Gallen 4

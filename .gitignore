@@ -9,6 +9,8 @@ beautiful-jekyll-theme-*.gem
 
 *:Zone.Identifier
 
+.omo/
+
 # Created by https://www.toptal.com/developers/gitignore/api/ruby,linux,macos,windows,visualstudiocode,jekyll,webstorm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=ruby,linux,macos,windows,visualstudiocode,jekyll,webstorm+all
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qualiturnier
-subtitle: 1. Qualifikationsturnier 22.- 24. September 2023 für die Schweizer Meisterschaft 2024 U10, U12, U14, U16 in Freidorf TG, Bahnhof Roggwil-Berg
+subtitle: 1. Qualifikationsturnier 22.–24. September 2023 für die Schweizer Meisterschaft 2024 U10, U12, U14, U16 in Freidorf TG, Bahnhof Roggwil-Berg
 ---
 
 _Im Auftrag des Schweizerischen Schachbundes (SSB), organisiert vom Schachklub St. Gallen_
@@ -26,7 +26,7 @@ Platz 1: Johannes Rappazzo / Platz 2: Thierry Breyer / Platz 3: Philippe Breyer
 
 
 ## Anwesenheitskontrolle
-**Freitag, 22.09.: 16.00 Uhr – 17.45 Uhr: Anwesenheitskontrolle**, bitte erscheint frühzeitig, damit wir pünktlich starten können.
+**Freitag, 22.09.: 16:00 Uhr – 17:45 Uhr: Anwesenheitskontrolle**, bitte erscheint frühzeitig, damit wir pünktlich starten können.
 
 **Kontakt:** [qualiturnier@schachklub-sg.ch](mailto:qualiturnier@schachklub-sg.ch)
 
@@ -35,7 +35,7 @@ Platz 1: Johannes Rappazzo / Platz 2: Thierry Breyer / Platz 3: Philippe Breyer
 
 Die Liste der Spieler, die bereits bezahlt haben, wird [auf der Homepage](/qualiturnier/startlisten) veröffentlicht und regelmässig aktualisiert.
 
-Die Liste mit allen angemeldeten Spieler wird auf [chess-results](https://chess-results.com/tnr809168.aspx) veröffentlicht und regelmässig aktualisiert.
+Die Liste mit allen angemeldeten Spielern wird auf [chess-results](https://chess-results.com/tnr809168.aspx) veröffentlicht und regelmässig aktualisiert.
 
 ## Informationen
 
@@ -52,10 +52,10 @@ Mehrzweckhalle Freidorf, Jakobsbergstrasse 4, 9306 Freidorf TG, Nähe Bahnhof Ro
 
 ### Modus alle Kategorien
 
-- 3 Runden CH-System Rapid, Bedenkzeit : 15 Min. + 3 Sek. pro Zug ohne Notationspflicht
+- 3 Runden CH-System Rapid, Bedenkzeit: 15 Min. + 3 Sek. pro Zug ohne Notationspflicht
 - 4 Runden CH-System Langzeit, Bedenkzeit: 90 Min. + 30 Sek. pro Zug mit Notationspflicht
 
-Remisangebote sind erst ab dem 31. Zug erlaubt
+Remisangebote sind erst ab dem 31. Zug erlaubt.
 
 ### Reglement
 
@@ -69,13 +69,13 @@ U16: Geldpreise CHF 150/100/50
 
 ### Einsätze
 
-Turniereinsatz : CHF 50.
+Turniereinsatz: CHF 50.
 
 
 
 ### Bezahlung
 
-Überweisung bis spätestens 14. September 2023. Die Anmeldung gilt erst mit eingegangenem Betrag als bestätigt. Essensbestellungen bitte bei den Anmeldungen vermerken. Sie erhalten daraufhin eine Email mit den Zahlungsinstruktionen.
+Überweisung bis spätestens 14. September 2023. Die Anmeldung gilt erst mit eingegangenem Betrag als bestätigt. Essensbestellungen bitte bei den Anmeldungen vermerken. Sie erhalten daraufhin eine E-Mail mit den Zahlungsinstruktionen.
 
 **Bitte im E-Banking als Zahlungszweck unbedingt Name, Vorname & Kategorie des Teilnehmers / der Teilnehmerin angeben!**
 
@@ -87,25 +87,25 @@ Turniereinsatz : CHF 50.
 ### Zeitplan U10/U12/U14/U16
 
 Freitag, 22. September: \
-16.00 Uhr – 17.45 Uhr: Anwesenheitskontrolle, Verteilung Essensbons im Festzelt \
-18.00 Uhr: Begrüssung im Festzelt \
-18.30 Uhr: 1.-3. Runde Rapid - Es wird pünktlich gestartet!
+16:00 Uhr – 17:45 Uhr: Anwesenheitskontrolle, Verteilung Essensbons im Festzelt \
+18:00 Uhr: Begrüssung im Festzelt \
+18:30 Uhr: 1.-3. Runde Rapid - Es wird pünktlich gestartet!
 
 Samstag, 23. September: \
-09.15 Uhr: 4. Runde Langzeit \
-12.00 Uhr – 14.00 Uhr: Mittagessen \
-14.30 Uhr: 5. Runde Langzeit
+09:15 Uhr: 4. Runde Langzeit \
+12:00 Uhr – 14:00 Uhr: Mittagessen \
+14:30 Uhr: 5. Runde Langzeit
 
 Sonntag, 24. September: \
-09.15 Uhr: 6. Runde Langzeit \
-12.00 Uhr – 14.00 Uhr: Mittagessen \
-13.45 Uhr: 7. Runde Langzeit \
-ca. 17.30 Uhr: Rangverkündigung im Festzelt
+09:15 Uhr: 6. Runde Langzeit \
+12:00 Uhr – 14:00 Uhr: Mittagessen \
+13:45 Uhr: 7. Runde Langzeit \
+ca. 17:30 Uhr: Rangverkündigung im Festzelt
 
 ### Übernachtungsmöglichkeiten
 
 In St. Gallen, Romanshorn und in der Region finden sich diverse Hotels mit kurzem Anfahrtsweg. \
-Sonderkonditionen gibt es für das B&B Hotel in St. Fiden oder für Gruppen die Jugendherberge Romanshorn mit dem Rabattcode „Qualiturnier“. Bitte die Buchung per Mail selber vornehmen.
+Sonderkonditionen gibt es für das B&B Hotel in St. Fiden oder für Gruppen in der Jugendherberge Romanshorn mit dem Rabattcode „Qualiturnier“. Bitte die Buchung per Mail selber vornehmen.
 
 ### Verpflegung
 
@@ -116,7 +116,7 @@ Mittagessen Samstag: \
 **b)** Spaghetti mit Tomatensauce, Gemüse, Reibkäse
 
 Mittagessen Sonntag: \
-**a)** Stroganoff vom Geflügelstreifen an Rahmsauce, Hausgemachte Spätzli, Gemüse \
+**a)** Stroganoff vom Geflügelstreifen an Rahmsauce, hausgemachte Spätzli, Gemüse \
 **b)** Soja-Tofu-Ragout mit Gemüse, Lauchcrèmesauce (ohne Rahm), Hausgem. Spätzli
 
 **!Mittagsmenus nur auf Vorbestellung!**

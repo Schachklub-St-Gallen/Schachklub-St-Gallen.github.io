@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/smm/smm-sg2-aufstieg-20251025.jpg
 ---
 
 Mit einem äusserst knappen 3.5:2.5 steigt St. Gallen 2 zurück in die 2. Liga auf, nachdem die Mannschaft letztes Jahr
-unglücklich abgestiegen ist. Damit gelingt den St. Galler SMM Teams nebst dem Aufstieg der 4. Mannschaft und dem
+unglücklich abgestiegen ist. Damit gelingt den St. Galler SMM-Teams nebst dem Aufstieg der 4. Mannschaft und dem
 äusserst knappen Ligaerhalt der 1. Mannschaft nun noch ein weiterer Erfolg.
 
 Nächste Saison spielt St. Gallen mit folgenden Mannschaften:
@@ -15,7 +15,7 @@ Nächste Saison spielt St. Gallen mit folgenden Mannschaften:
 - St. Gallen 3/4: 3. RL (Teamcaptain Jan Fecker)
 - St. Gallen 3/4: 4. RL (Teamcaptain Livio Ciardo)
 
-Folgend der Bericht zum Aufstiegsspiel:
+Es folgt der Bericht zum Aufstiegsspiel:
 
 {% include smm/2025/sg2/bericht-aufstiegsspiel.md %}
 

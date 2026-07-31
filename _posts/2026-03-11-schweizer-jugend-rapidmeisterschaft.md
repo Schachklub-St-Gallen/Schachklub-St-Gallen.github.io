@@ -3,7 +3,7 @@ layout: post
 title: Schweizer Jugend-Rapidmeisterschaft 2026
 ---
 
-Der Nachwuchsspieler Riccardo Daniele Piacquadio (U16) nahm an der Schweizer JugendRapidmeisterschaft 2026 (SJRM) in
+Der Nachwuchsspieler Riccardo Daniele Piacquadio (U16) nahm an der Schweizer Jugend-Rapidmeisterschaft 2026 (SJRM) in
 Ittigen teil. Die Teilnahme erfolgte auf Einladung des Regionalcoaches der Region Ost Adrian Unterluggauer, der die
 Spielerinnen und Spieler für dieses nationale Jugendturnier nominiert.
 

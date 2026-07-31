@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Speed Chess Grand Prix 2024
-subtitle: Alle Infos zum diesjährigen Speed Chess Grand Prix Turnier.
+subtitle: Alle Infos zum diesjährigen Speed-Chess-Grand-Prix-Turnier.
 ---
 
 **[Halit Rexhepi gewinnt den St. Galler Speed Chess Grand Prix 2024.](/2024-09-23-speed-chess-2024-runde-4)**

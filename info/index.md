@@ -7,12 +7,12 @@ subtitle: Alle Infos zum Schachklub St. Gallen.
 Der SK St. Gallen pflegt und fördert das Schachspiel. Der Klub wurde im Jahr 1862 gegründet und zählt rund 90
 Mitglieder.
 
-Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19.30 Uhr in das Schulhaus Tschudiwies,
-Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17.30 Uhr findet dort das Juniorentraining der in den Klub
+Zum Spielabend lädt der Klub immer montags ausserhalb der Schulferien ab 19:30 Uhr in das Schulhaus Tschudiwies,
+Tschudistrasse 21 ein (siehe Karte unten). Montags ab 17:30 Uhr findet dort das Juniorentraining der in den Klub
 integrierten Schachschule St. Gallen statt.
 
-Der Klub nimmt mit je vier Teams teil an der Schweizer Mannschaftsmeisterschaft (SMM) und an der Schweizer
-Gruppenmeisterschaft (SGM).
+Der Klub nimmt mit je vier Teams an der Schweizer Mannschaftsmeisterschaft (SMM) und an der Schweizer
+Gruppenmeisterschaft (SGM) teil.
 
 Wir freuen uns über jede(n), der reinschaut! Für Anfänger bieten wir ein bis zweimal im Jahr Einsteigerkurse an.
 
@@ -20,7 +20,7 @@ Wir freuen uns über jede(n), der reinschaut! Für Anfänger bieten wir ein bis 
 
 ## Klubabend
 
-**Montags ab 19.30 Uhr**\
+**Montags ab 19:45 Uhr**\
 Schulhaus Tschudiwies\
 Tschudistrasse 21\
 9000 St. Gallen
@@ -67,7 +67,7 @@ Fragen:
 
 ## Jahresbeiträge
 
-|                                                    | Klubbeitrag | SSB Beitrag* | Total       |
+|                                                    | Klubbeitrag | SSB-Beitrag* | Total       |
 |----------------------------------------------------|-------------|--------------|-------------|
 | Aktivmitglieder                                    | 110 CHF     | 110 CHF      | **220 CHF** |
 | Gönner (Mitgliedschaft ohne Spiellizenz)           | 120 CHF     | -            | **120 CHF** |

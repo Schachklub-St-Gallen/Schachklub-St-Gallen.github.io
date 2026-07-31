@@ -20,7 +20,7 @@ subtitle: Aktueller Terminkalender
 | <nobr>Sa 22.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |      SMM (Gonzen - SG2, Engadin - SG3)       |
 | <nobr>So 23.08</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |              SMM (Uzwil - SG1)               |
 | <nobr>Mo 24.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |              Freier Spieleabend              |
-| <nobr>Mo 31.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Rapid Turnier</span> |
+| <nobr>Mo 31.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Rapid-Turnier</span> |
 
 ## September 2026
 
@@ -69,7 +69,7 @@ subtitle: Aktueller Terminkalender
 |-----------------------|:----------------------:|:-----------:|:---------------------------------------------------:|
 | <nobr>Mo 04.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Neujahrsblitzturnier</span> |
 | <nobr>Mo 11.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |                  Freier Spielabend                  |
-| <nobr>Mo 18.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |   <span style="color:red">Chess960 Turnier</span>   |
+| <nobr>Mo 18.01</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |   <span style="color:red">Chess960-Turnier</span>   |
 | <nobr>Mo 25.01</nobr> |           -            |      -      |           (Sportferien, kein Klubbetrieb)           |
 
 ## Vergangene Terminkalender

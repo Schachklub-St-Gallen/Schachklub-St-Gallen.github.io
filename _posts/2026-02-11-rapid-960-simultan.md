@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rapidturnier, Chess960-Turnier, und Simultanturnier mit Yasin Chennaoui
+title: Rapidturnier, Chess960-Turnier und Simultanturnier mit Yasin Chennaoui
 subtitle: Bericht zu den vergangenen Turnieren im Februar 2026 und zum kommenden Simultanturnier mit Yasin Chennaoui am 16. Februar 2026.
 thumbnail-img: /assets/img/turniere/960/2026/02/chess960-sieger.png
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Rapid Grand Prix 2021
-subtitle: Alle Infos zum diesjährigen Rapid Grand Prix Turnier.
+subtitle: Alle Infos zum diesjährigen Rapid-Grand-Prix-Turnier.
 ---
 
-Das Rapid Grand Prix Turnier findet dieses Jahr an drei Montagen im Tschudiwies statt. Die Spieldaten sind folgende:
+Das Rapid-Grand-Prix-Turnier findet dieses Jahr an drei Montagen im Tschudiwies statt. Die Spieldaten sind folgende:
 
 1. Runde: 29.11.21
 2. Runde: 06.12.21

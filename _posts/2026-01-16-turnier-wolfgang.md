@@ -12,7 +12,7 @@ respektablen Ergebnis von 1.5/4 Punkten aus dem Klub zu verabschieden.
 ![Blumenstrauss](/assets/img/turniere/rapidturnier/2026/01/wolfgang_blumenstrauss.png)\
 _Yasin und Mourad Chennaoui bedankten sich bei Wolfgang mit einem Blumenstrauss._
 
-Einen Blumenstrauss gab es für den 93jährigen vor dem Start des Turniers: Yasin Chennaoui und sein Vater Mourad drückten
+Einen Blumenstrauss gab es für den 93-Jährigen vor dem Start des Turniers: Yasin Chennaoui und sein Vater Mourad drückten
 so die hohe Wertschätzung aus, die für Wolfgang im Schachklub St. Gallen empfunden wird. Sein wohlwollendes Wesen, seine
 mitunter rührende Freude am Königlichen Spiel und an der Begegnung mit den Klubkameraden wirkten auch beim
 Abschiedsturnier ansteckend. So häufig wie Wolfgang hat in den letzten sieben Jahrzehnten wohl keiner die Klubabende
@@ -28,7 +28,7 @@ dass es sich bei Wolfgang um den Organisator der wohl aussergewöhnlichsten Part
 als „Partie aus dem Jenseits“ bekannte Duell des zweimaligen Vize-Weltmeisters Viktor Kortschnoi mit dem schon 34 Jahre
 vor der Partie verstorbenen ungarischen Grossmeister Geza Maroczy, dessen Züge über ein Schreibmedium übermittelt
 wurden. Wolfgang erläuterte am Klubabend konzentriert und klar den eigentlichen Zweck dieser Partie: Einen Beweis für
-das Leben nach dem Tode zu finden. Mit Recherchen in der Verwandschaft Maroczys vermochte Wolfgang zu unterlegen, dass
+das Leben nach dem Tode zu finden. Mit Recherchen in der Verwandtschaft Maroczys vermochte Wolfgang zu belegen, dass
 es sich beim Gegner um Maroczy gehandelt haben müsste. Auch Kortschnoi zollte seinem Kontrahenten Grossmeister-Niveau
 und taxierte einige Züge als typisch für die Spielweise zu Marozys Lebzeiten. Am Klubabend erläuterte Wolfgang auch
 Inhalte der „Geistlehre aus dem Jenseits“, so auch der Titel des Buches vom Ehrenmitglied des Schachklubs St. Gallen.
