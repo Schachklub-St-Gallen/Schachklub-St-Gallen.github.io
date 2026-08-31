@@ -1215,7 +1215,11 @@ pre {
   }
 }
 
-.sponsoring-logo-img {
+.sponsoring-logo-img-acrevis {
+  max-width: 200px;
+}
+
+.sponsoring-logo-img-sgsw {
   max-width: 300px;
 }
 
