@@ -1199,20 +1199,17 @@ pre {
 
 .sponsoring-logos {
   display: flex;
+  justify-content: center;
+  align-items: center;
   max-width: 400px;
+  margin: 0 auto;
   gap: 50px;
 }
 
-@media (max-width: 767px) {
-  .sponsoring-logos {
-    flex-direction: column;
-    gap: 0;
-    margin-top: 50px;
-  }
-
-  .sponsoring-logos img {
-    width: 100%;
-  }
+.sponsoring-logos a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sponsoring-logo-img-acrevis {
@@ -1221,6 +1218,22 @@ pre {
 
 .sponsoring-logo-img-sgsw {
   max-width: 300px;
+}
+
+@media (max-width: 767px) {
+  .sponsoring-logos {
+    flex-direction: column;
+    gap: 0;
+    margin: 50px auto 0;
+  }
+
+  .sponsoring-logos a {
+    width: 100%;
+  }
+
+  .sponsoring-logos img {
+    width: 100%;
+  }
 }
 
 .sponsoren-header {
