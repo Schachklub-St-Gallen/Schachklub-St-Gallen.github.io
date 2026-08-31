@@ -22,7 +22,9 @@ Für Olivia war das Wochenende damit ein besonderer Meilenstein: erste Teilnahme
 gleich ein Platz auf dem Podest. Besonders wertvoll sind dabei die Erfahrungen aus den Partien gegen starke Gegnerinnen.
 Jede Partie bietet neue Erkenntnisse und ist ein weiterer Schritt in ihrer schachlichen Entwicklung.
 
+![Olivia Zhu](/assets/img/2026-08-31-maedchenfinal-u10.jpg)
+
 Herzliche Gratulation, Olivia, zu diesem schönen Erfolg! Wir wünschen dir weiterhin viel Freude am Schach und viele
 spannende Partien.
 
-_Arina Shadrikova-Piacquadio_
+_Ariana Shadrikova-Piacquadio_

@@ -4,22 +4,10 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender
 ---
 
-## Juli 2026
-
-| Datum                 | Zeit | Ort |          Veranstaltung           |
-|-----------------------|:----:|:---:|:--------------------------------:|
-| <nobr>Mo 06.07</nobr> |  -   |  -  | (Sommerferien, kein Klubbetrieb) |
-
 ## August 2026
 
 | Datum                 |          Zeit          |     Ort     |                Veranstaltung                 |
 |-----------------------|:----------------------:|:-----------:|:--------------------------------------------:|
-| <nobr>Sa 08.08</nobr> | <nobr>16:00 Uhr</nobr> | Tschudiwies |  <span style="color:red">Sommerfest</span>   |
-| <nobr>Mo 10.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Blitzturnier</span>  |
-| <nobr>Mo 17.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |              Freier Spieleabend              |
-| <nobr>Sa 22.08</nobr> | <nobr>14:00 Uhr</nobr> |   divers    |      SMM (Gonzen - SG2, Engadin - SG3)       |
-| <nobr>So 23.08</nobr> | <nobr>12:30 Uhr</nobr> |   divers    |              SMM (Uzwil - SG1)               |
-| <nobr>Mo 24.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |              Freier Spieleabend              |
 | <nobr>Mo 31.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Rapid-Turnier</span> |
 
 ## September 2026
