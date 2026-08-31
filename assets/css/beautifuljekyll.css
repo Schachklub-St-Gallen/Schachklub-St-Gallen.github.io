@@ -1200,6 +1200,21 @@ pre {
 .sponsoring-logos {
   display: flex;
   max-width: 400px;
+  gap: 50px;
+}
+
+@media (max-width: 767px) {
+  .sponsoring-logos {
+    flex-direction: column;
+  }
+
+  .sponsoring-logos img {
+    width: 100%;
+  }
+}
+
+.acrevis-logo-img {
+  max-width: 300px;
 }
 
 .sponsoren-header {
