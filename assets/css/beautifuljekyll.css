@@ -1206,6 +1206,8 @@ pre {
 @media (max-width: 767px) {
   .sponsoring-logos {
     flex-direction: column;
+    gap: 0;
+    margin-top: 50px;
   }
 
   .sponsoring-logos img {
