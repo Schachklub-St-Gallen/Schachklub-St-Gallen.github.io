@@ -1197,16 +1197,9 @@ pre {
     }
 }
 
-.acrevis-logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 50px;
+.sponsoring-logos {
+  display: flex;
   max-width: 400px;
-}
-
-.acrevis-logo-img {
-  
 }
 
 .sponsoren-header {
