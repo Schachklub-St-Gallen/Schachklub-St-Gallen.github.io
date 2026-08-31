@@ -1207,17 +1207,20 @@ pre {
 }
 
 .sponsoring-logos a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
+  flex-shrink: 0;
 }
 
 .sponsoring-logo-img-acrevis {
-  max-width: 200px;
+  display: block;
+  width: 200px;
+  height: auto;
 }
 
 .sponsoring-logo-img-sgsw {
-  max-width: 300px;
+  display: block;
+  width: 300px;
+  height: auto;
 }
 
 @media (max-width: 767px) {
@@ -1233,6 +1236,7 @@ pre {
 
   .sponsoring-logos img {
     width: 100%;
+    height: auto;
   }
 }
 
