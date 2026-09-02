@@ -10,4 +10,12 @@ Ex-Schulhaus [Tschudiwies](/info) ausgetragen.
 
 Alle weiteren Informationen findet ihr in der **[Ausschreibung](Stadtmeisterschaft 2026.pdf){:target="\_blank"}**.
 
+### Startliste (Stand 02.09.2026)
+
+- Roman Schmuki
+- Michael Nyffenegger
+- Martin Eichenberger
+- Ludwig Sapulowitsch
+- Mario Manser
+
 {% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}
