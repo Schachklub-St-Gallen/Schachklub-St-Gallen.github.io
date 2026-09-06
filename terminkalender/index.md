@@ -4,12 +4,6 @@ title: Terminkalender
 subtitle: Aktueller Terminkalender
 ---
 
-## August 2026
-
-| Datum                 |          Zeit          |     Ort     |                Veranstaltung                 |
-|-----------------------|:----------------------:|:-----------:|:--------------------------------------------:|
-| <nobr>Mo 31.08</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Rapid-Turnier</span> |
-
 ## September 2026
 
 | Datum                 |          Zeit          |     Ort     |                    Veranstaltung                     |
