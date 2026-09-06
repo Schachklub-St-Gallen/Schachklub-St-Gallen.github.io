@@ -10,12 +10,16 @@ Ex-Schulhaus [Tschudiwies](/info) ausgetragen.
 
 Alle weiteren Informationen findet ihr in der **[Ausschreibung](Stadtmeisterschaft 2026.pdf){:target="\_blank"}**.
 
-### Startliste (Stand 02.09.2026)
+### Startliste (Stand 06.09.2026)
 
+- Toni Thaler
 - Roman Schmuki
 - Michael Nyffenegger
+- Agim Hamdiji
 - Martin Eichenberger
 - Ludwig Sapulowitsch
 - Mario Manser
+- Niklaus Faller
+- Raphael Frei
 
 {% include turniere/stadtmeisterschaft/vergangene-stadtmeisterschaften.md %}
