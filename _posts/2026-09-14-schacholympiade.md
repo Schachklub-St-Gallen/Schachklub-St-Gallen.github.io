@@ -13,10 +13,10 @@ Eine solche Teilnahme ist eine wunderbare Gelegenheit, gemeinsam Schach zu erleb
 
 Wir wünschen Rudolf, Halit und der gesamten Schweizer Mannschaft viel Erfolg, spannende und faire Partien sowie viele schöne Momente in Samarkand. Wir hoffen, dass sie mit vielen guten Erfahrungen, neuen Eindrücken und natürlich möglichst vielen Punkten nach Hause zurückkehren!
 
-[Hier können Sie weitere Informationen zu den Runden finden.](#)
+[Hier können Sie weitere Informationen zu den Runden finden.](https://s3.chess-results.com/tnr1470206.aspx?lan=1&SNode=S0)
 
-[Hier können Sie die Partien live verfolgen.](#)
+[Hier können Sie die Partien live verfolgen.](https://lichess.org/broadcast/3rd-fide-chess-olympiad-for-people-with-disabilities-2026/lT4455F9)
 
-[Offizielle Turnier-Website](#)
+[Offizielle Turnier-Website](https://chessolympiad2026.fide.com)
 
 _Ariana Shadrikova-Piacquadio_
