@@ -18,6 +18,18 @@ St. Gallen 1 spielt in der
 {% include smm/2026/swisschess-link.html gruppe=201 liga=2 round=7 text="NLB, Gruppe Ost" %} unter Teamcaptain
 Toni Thaler.
 
+## 9. Runde - 04. Oktober 2026
+
+{% include smm/2026/sg1/bericht-r9.md %}
+
+## 8. Runde - 03. Oktober 2026
+
+{% include smm/2026/sg1/bericht-r8.md %}
+
+## 7. Runde - 13. September 2026
+
+{% include smm/2026/sg1/bericht-r7.md %}
+
 ## 6. Runde - 23. August 2026
 
 {% include smm/2026/sg1/bericht-r6.md %}
