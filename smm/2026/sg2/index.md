@@ -16,7 +16,14 @@ subtitle: Alle Informationen zur SMM-Saison 2026
 
 St. Gallen 2 spielt in der
 {% include smm/2026/swisschess-link.html gruppe=401 liga=4 round=7 text="2. Liga, Gruppe Ost 1" %} unter den
-Teamcaptains Ruedi Gautschi und Marcel Schneider.
+Teamcaptains Ruedi Gautschi und Marcel Schneider. St. Gallen 2 beendet die Saison auf dem 3. Rang und nimmt an den
+Aufstiegsspielen teil, da Uzwil 2 darauf verzichtet.
+
+## Schlusstabelle
+
+{% include smm/2026/sg2/tabelle.html %}
+
+_Rang 1 und Rang 2 qualifizieren sich für die Aufstiegsspiele. Uzwil 2 verzichtet, St. Gallen 2 rückt nach._
 
 ## 7. Runde - 12. September 2026
 

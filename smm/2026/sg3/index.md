@@ -16,7 +16,11 @@ subtitle: Alle Informationen zur SMM-Saison 2026
 
 St. Gallen 3 spielt in der
 {% include smm/2026/swisschess-link.html gruppe=501 liga=5 round=7 text="3. Liga, Gruppe Ost 1" %} unter Teamcaptain
-Jan Fecker.
+Jan Fecker. St. Gallen 3 beendet die Saison auf dem 7. Rang.
+
+## Schlusstabelle
+
+{% include smm/2026/sg3/tabelle.html %}
 
 ## 7. Runde - 12. September 2026
 
