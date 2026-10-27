@@ -116,8 +116,6 @@ subtitle: Terminkalender 2026
 
 ## November 2026
 
-## November 2026
-
 | Datum                 |          Zeit          |     Ort     |     Veranstaltung     |
 |-----------------------|:----------------------:|:-----------:|:---------------------:|
 | <nobr>Mo 02.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  Freier Spieleabend   |
