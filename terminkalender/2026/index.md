@@ -116,12 +116,14 @@ subtitle: Terminkalender 2026
 
 ## November 2026
 
+## November 2026
+
 | Datum                 |          Zeit          |     Ort     |     Veranstaltung     |
 |-----------------------|:----------------------:|:-----------:|:---------------------:|
 | <nobr>Mo 02.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  Freier Spieleabend   |
 | <nobr>Mo 09.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Stadtmeisterschaft R5 |
-| <nobr>Mo 16.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Stadtmeisterschaft R6 |
-| <nobr>Mo 23.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  Freier Spieleabend   |
+| <nobr>Mo 16.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |  Freier Spieleabend   |
+| <nobr>Mo 23.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Stadtmeisterschaft R6 |
 | <nobr>Mo 30.11</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | Stadtmeisterschaft R7 |
 
 ## Dezember 2026
