@@ -92,16 +92,16 @@ Fragen:
 
 ### Teamcaptains SGM
 
-- [St. Gallen 1](../sgm/2026/sg1): Jan Fecker
-- [St. Gallen 2](../sgm/2026/sg2): Frank Wittenbrock
+- [St. Gallen 1](../sgm/2026/sg1): Noah Fecker
+- [St. Gallen 2](../sgm/2026/sg2): Christian Salerno
 - [St. Gallen 3](../sgm/2026/sg3): Livio Ciardo
-- [St. Gallen 4](../sgm/2026/sg4): Jan Fecker
+- [St. Gallen 4](../sgm/2026/sg4): Raphael Frei
 
 ### Teamcaptains SMM
 
 - [St. Gallen 1](../smm/2026/sg1): Toni Thaler
-- [St. Gallen 2](../smm/2026/sg2): Ruedi Gautschi / Marcel Schneider
-- [St. Gallen 3](../smm/2026/sg3): Jan Fecker
+- [St. Gallen 2](../smm/2026/sg2): Ruedi Gautschi
+- [St. Gallen 3](../smm/2026/sg3): Raphael Frei
 - [St. Gallen 4](../smm/2026/sg4): Livio Ciardo
 
 ### Organisation Freier Spielabend
