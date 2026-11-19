@@ -52,14 +52,14 @@ subtitle: Terminkalender 2027 (provisorisch)
 | <nobr>Mo 03.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |      Klubmeisterschaft RD 2       |
 | <nobr>Mo 10.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |      Klubmeisterschaft RD 3       |
 | <nobr>Mo 17.05</nobr> |           -            |      -      | (Pfingstmontag, kein Klubbetrieb) |
-| <nobr>Mo 24.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |      Klubmeisterschaft RD 4       |
-| <nobr>Mo 31.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |      Klubmeisterschaft RD 5       |
+| <nobr>Mo 24.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Taktikwettbewerb mit Roman Schmuki</span> |
+| <nobr>Mo 31.05</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |      Klubmeisterschaft RD 4       |
 
 ## Juni 2027
 
 | Datum                 |          Zeit          |     Ort     |                Veranstaltung                |
 | --------------------- | :--------------------: | :---------: | :-----------------------------------------: |
-| <nobr>Mo 07.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |             Freier Spieleabend              |
+| <nobr>Mo 07.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |           Klubmeisterschaft RD 5            |
 | <nobr>Mo 14.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies | <span style="color:red">Blitzturnier</span> |
 | <nobr>Mo 21.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |             Freier Spieleabend              |
 | <nobr>Mo 28.06</nobr> | <nobr>19:45 Uhr</nobr> | Tschudiwies |             Freier Spieleabend              |
