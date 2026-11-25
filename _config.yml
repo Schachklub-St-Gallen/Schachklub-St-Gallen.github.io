@@ -301,6 +301,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - CLAUDE.md
+  - GLOSSARY.md
 
 plugins:
   - jekyll-paginate
