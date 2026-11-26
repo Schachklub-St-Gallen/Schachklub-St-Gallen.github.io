@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2025
 ## St. Gallen 4
 
 St. Gallen 4 spielt in der
-{% include smm/2025/swisschess-link.html gruppe=603 liga=6 round=6 text="4. Liga, Gruppe Ost 3" %} unter
+{% include swisschess-resultate.html wettbewerb="smm" jahr=2025 gruppe=603 liga=6 round=6 text="4. Liga, Gruppe Ost 3" %} unter
 Teamcaptain Jan Fecker. Die Mannschaft beendet die Saison auf dem 2. Rang und steigt damit direkt in die 3. Liga auf.
 
 ## Schlusstabelle
