@@ -9,22 +9,12 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-      - name: Install dependencies
-        run: bundle install && bundle exec appraisal install
       - name: Setup Pages
         id: configure-pages
         uses: actions/configure-pages@v5
-      - name: Setup CI config
-        run: |
-          echo "---" > _config_ci.yml
-          echo "baseurl: ${{ steps.configure-pages.outputs.base_path }}" >> _config_ci.yml
-      - name: Build site
+      - name: Build site and check internal links
         env:
-          JEKYLL_ENV: production
-        run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
-      - name: Check internal links
-        run: |
-          gem install html-proofer -v '~> 4.4' --no-document
-          htmlproofer _site --disable-external --no-enforce-https
+          BASEURL: ${{ steps.configure-pages.outputs.base_path }}
+        run: script/check
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

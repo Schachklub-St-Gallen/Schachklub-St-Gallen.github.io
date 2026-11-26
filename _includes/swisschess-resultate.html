@@ -3,5 +3,16 @@ Link to a group's results on swisschess (SMM or SGM).
 Params: wettbewerb (smm|sgm), jahr (season year, i.e. the year the season ends in),
 gruppe, liga, round (usually the group's last round, to show the final table), text.
 Quote wettbewerb (wettbewerb="smm"): unquoted, Liquid reads it as a variable and it renders empty.
+A missing or invalid param renders a link to a missing anchor, which fails the htmlproofer check.
 {%- endcomment -%}
+{%- assign gueltig = false -%}
+{%- if include.wettbewerb == "smm" or include.wettbewerb == "sgm" -%}
+  {%- if include.jahr and include.gruppe and include.liga and include.round -%}
+    {%- assign gueltig = true -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if gueltig -%}
 <a href="https://adapter.swisschess.ch/turniere/{{ include.wettbewerb }}.php?ajahr={{ include.jahr }}&amp;agruppe={{ include.gruppe }}&amp;aliga={{ include.liga }}&amp;around={{ include.round }}" target="_blank">{{ include.text }}</a>
+{%- else -%}
+<a href="#swisschess-resultate-ungueltige-parameter">{{ include.text }}</a>
+{%- endif -%}
