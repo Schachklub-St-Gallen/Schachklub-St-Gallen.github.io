@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+# Build the site and check its links, exactly as CI does.
+#   script/check                           build, then check internal links (CI on every push)
+#   script/check --external                build, then also check external links
+#   script/check --external --skip-build   check external links of the existing _site (weekly workflow)
+# BASEURL sets the site's baseurl (CI passes the GitHub Pages base path; empty locally).
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+usage() { echo "usage: script/check [--external] [--skip-build]" >&2; exit 2; }
+
+external=false
+build=true
+for arg in "$@"; do
+  case "$arg" in
+    --external) external=true ;;
+    --skip-build) build=false ;;
+    *) usage ;;
+  esac
+done
+
+if $build; then
+  bundle check >/dev/null || bundle install
+  bundle exec appraisal install
+  printf -- '---\nbaseurl: %s\n' "${BASEURL:-}" > _config_ci.yml
+  JEKYLL_ENV=production bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
+elif [[ ! -d _site ]]; then
+  echo "script/check: --skip-build needs an existing _site" >&2
+  exit 2
+fi
+
+# The flags below are html-proofer 4.x syntax; other major versions parse them differently.
+proofer_version() { gem list html-proofer --exact 2>/dev/null | grep -oE '\b4\.[0-9]+\.[0-9]+' | sort -V | tail -1 || true; }
+version=$(proofer_version)
+if [[ -z "$version" ]]; then
+  gem install html-proofer -v '~> 4.4' --no-document
+  version=$(proofer_version)
+  [[ -n "$version" ]] || { echo "script/check: html-proofer 4.x not found after install" >&2; exit 1; }
+fi
+proofer() { htmlproofer "_${version}_" "$@"; }
+
+if $external; then
+  # Only 4xx counts as broken: timeouts and 5xx are usually temporary.
+  # 405/429: sites that reject htmlproofer's request method or rate-limit it.
+  # lichess.org answers every automated request with 403, though the links work.
+  proofer _site --enforce-https=false --only-4xx --ignore-status-codes 405,429 \
+    --ignore-urls '/localhost/,/lichess\.org/'
+else
+  proofer _site --disable-external=true --enforce-https=false
+fi

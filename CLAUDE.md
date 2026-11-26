@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Verify site changes by building and link-checking them the way the `build` job in `.github/workflows/ci.yml` does. Ruby gems live in `~/gems` (`GEM_HOME`).
+Verify site changes with `script/check`: it builds the site and checks internal links exactly as CI does, and exits non-zero on the first failure. It checks no external links; for those, `script/check --external` (run weekly by `.github/workflows/external-links.yml`). Ruby gems live in `~/gems` (`GEM_HOME`).
 
 ## Agent skills
 
