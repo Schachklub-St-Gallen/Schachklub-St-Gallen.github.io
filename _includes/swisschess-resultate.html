@@ -1,0 +1,7 @@
+{%- comment -%}
+Link to a group's results on swisschess (SMM or SGM).
+Params: wettbewerb (smm|sgm), jahr (season year, i.e. the year the season ends in),
+gruppe, liga, round (usually the group's last round, to show the final table), text.
+Quote wettbewerb (wettbewerb="smm"): unquoted, Liquid reads it as a variable and it renders empty.
+{%- endcomment -%}
+<a href="https://adapter.swisschess.ch/turniere/{{ include.wettbewerb }}.php?ajahr={{ include.jahr }}&amp;agruppe={{ include.gruppe }}&amp;aliga={{ include.liga }}&amp;around={{ include.round }}" target="_blank">{{ include.text }}</a>

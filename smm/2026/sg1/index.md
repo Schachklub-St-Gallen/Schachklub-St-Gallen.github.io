@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2026
 ## St. Gallen 1
 
 St. Gallen 1 spielt in der
-{% include smm/2026/swisschess-link.html gruppe=201 liga=2 round=7 text="NLB, Gruppe Ost" %} unter Teamcaptain
+{% include swisschess-resultate.html wettbewerb="smm" jahr=2026 gruppe=201 liga=2 round=9 text="NLB, Gruppe Ost" %} unter Teamcaptain
 Toni Thaler. St. Gallen 1 beendet die Saison auf dem 6. Rang.
 
 ## Schlusstabelle

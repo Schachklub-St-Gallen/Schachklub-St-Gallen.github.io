@@ -15,7 +15,7 @@ subtitle: Alle Informationen zur SMM-Saison 2023
 ## St. Gallen 2
 
 St. Gallen 2 spielte in der Saison 2023 in der
-{% include smm/2023/swisschess-link.html gruppe=401 liga=4 round=7 text="2. Liga, Gruppe Ost 1" %}
+{% include swisschess-resultate.html wettbewerb="smm" jahr=2023 gruppe=401 liga=4 round=7 text="2. Liga, Gruppe Ost 1" %}
 unter Teamcaptain Jan Frei. St. Gallen 2 belegte den 6. Platz und schaffte damit knapp den Ligaerhalt.
 
 ## Schlusstabelle
