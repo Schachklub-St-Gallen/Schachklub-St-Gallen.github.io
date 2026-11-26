@@ -29,9 +29,4 @@ Ranglisten auf chess-results.com:
 
 Das 3. Qualifikationsturnier SJEM 2027 findet vom 15. bis 17. Januar 2027 in Genf statt.
 
-- [Ausschreibung auf Deutsch](TODO)
-- [Appel d'offres en français](TODO)
-- [Call for applications in English](TODO)
-- [Anmeldung / Inscription](TODO)
-
 _Ariana Shadrikova-Piacquadio_

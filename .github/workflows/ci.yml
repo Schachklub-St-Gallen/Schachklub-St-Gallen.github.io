@@ -22,5 +22,10 @@ jobs:
         env:
           JEKYLL_ENV: production
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
+      - name: Check internal links
+        # Empty hrefs are allowed: the SMM/SGM result links get their href from JavaScript.
+        run: |
+          gem install html-proofer -v '~> 4.4' --no-document
+          htmlproofer _site --disable-external --no-enforce-https --allow-missing-href true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

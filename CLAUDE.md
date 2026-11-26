@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+Verify site changes by building and link-checking them the way the `build` job in `.github/workflows/ci.yml` does. Ruby gems live in `~/gems` (`GEM_HOME`).
+
 ## Agent skills
 
 ### Issue tracker
